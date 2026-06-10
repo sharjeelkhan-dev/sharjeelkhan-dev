@@ -90,7 +90,7 @@ A high-performance, feature-rich music application built using modern Android de
 
 If you are a technical recruiter, hiring manager, or software engineer wishing to conduct a comprehensive code review of any project's architecture (Hilt/Dagger DI modules, Clean Architecture boundaries, or custom networking interceptors), please feel free to request access:
 
-1. Contact me via **[LinkedIn][www.linkedin.com/in/sharjeelkhan-dev)]** or 
+1. Contact me via **[LinkedIn][(www.linkedin.com/in/sharjeelkhan-dev)]** or 
 **[Email][(sharjeelkhan111213@gmail.com)]**.
 2. Provide your GitHub username, and I will temporarily add you as a **Viewer/Collaborator** to the specific private repository.
 
