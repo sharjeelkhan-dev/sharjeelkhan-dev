@@ -84,6 +84,63 @@ A high-performance, feature-rich music application built using modern Android de
 ### 🎬 Project Showcase & Security Note
 > 🔒 **Security Notice:** The source code of this repository is kept **Private** to protect custom proxy configurations, specialized extraction logic, and audio rendering modules.
 *   **[📸 View Application Screenshots / UI Flow](<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/c2c89628-75d5-40cf-b5ba-979da8352e9a" /> <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/2a4174da-836e-4929-9568-17100df3acc2" /> <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/e8202179-2b77-44b9-9305-ffb707a8f199" /> <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/e7a1e55b-42b3-40c5-b87b-e202e126915d" />
+
+---
+## 🚀 Featured Project 4: Whatsapp Status Saver 
+
+# WhatsApp Status Saver
+
+## Overview
+
+**WhatsApp Status Saver** is an Android application that helps you easily save your friends' WhatsApp statuses (photos, videos). The app is simple, fast, and secure, storing media locally so you can view it offline.
+
+## Features
+
+- 📥 **One‑tap Download**: Save any status (image/video) with a single tap.
+- 🗂️ **Organized Gallery**: Saved files are displayed in a grid with filter and sort options.
+- 🔔 **Daily Reminder**: Schedule custom notifications so you never miss a status.
+- 📤 **Cloud Backup**: Optional backup to Google Drive or Dropbox.
+- 🌙 **Dark Mode**: Glassmorphic dark theme for eye comfort.
+- ⚡ **Fast**: Powered by Kotlin Coroutines and Flow for quick loading.
+
+### 🛠 Tech Stack & Architecture
+*   **Language & UI:** Kotlin | Jetpack Compose (100% Declarative)
+*   **Architecture & Design:** Clean Architecture + MVVM (Data, Domain, Presentation Layers)
+*   **Dependency Injection:** Hilt
+*   **Media & Core Handling:** Android Media3 (ExoPlayer) | NewPipe Extractor Implementation
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   https://github.com/sharjeel111213/whatsappstatussaver.git
+   ```
+2. Open the project in Android Studio and run Gradle sync.
+3. Build and run the `app` module (minimum SDK 21).
+4. Install on a device or emulator.
+
+## Usage
+
+- Open the app and navigate to the **Status** tab.
+- Tap any status and press the **Save** button below it.
+- Access saved media in the **Saved** tab.
+- Configure cloud backup via **Settings → Cloud Backup**.
+
+## Contributing
+
+- Report bugs or suggest features in **Issues**.
+- When creating pull requests, follow the code style (Kotlin DSL, XML) and update licenses.
+- Add any new libraries to `build.gradle.kts` and update the license file.
+
+### 🎬 Project Showcase & Security Note
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/b0ed89ff-5e00-410b-bb74-92722fe07f44" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/f43b3763-00c8-4480-afe5-5d7b42be4c82" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/900a714e-5304-451f-afaf-20a1494b5d99" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/a24e232c-f376-42c6-8006-6548d7c5f5d4" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/0676d50d-1b70-4192-a86a-a16504a54232" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/b18edf21-6b73-4445-a66b-86f40b404315" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/09105144-fb01-4200-8cbb-30fb5b0db10a" />
+
 ---
 
 ## 💼 Recruiter Code Review Access
