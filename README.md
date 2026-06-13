@@ -132,8 +132,9 @@ A high-performance, feature-rich music application built using modern Android de
 - When creating pull requests, follow the code style (Kotlin DSL, XML) and update licenses.
 - Add any new libraries to `build.gradle.kts` and update the license file.
 
-### 🎬 Project Showcase & Security Note
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/b0ed89ff-5e00-410b-bb74-92722fe07f44" />
+### 🎬 Project Showcase
+
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/3eddf1e8-8221-47aa-b360-139a9642cce9" />
 <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/a6ca28bd-eeec-4a55-9726-e485233cbe3d" />
 <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/f43b3763-00c8-4480-afe5-5d7b42be4c82" />
 <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/900a714e-5304-451f-afaf-20a1494b5d99" />
