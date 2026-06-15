@@ -85,7 +85,11 @@ A high-performance, feature-rich music application built using modern Android de
 
 ### 🎬 Project Showcase & Security Note
 > 🔒 **Security Notice:** The source code of this repository is kept **Private** to protect custom proxy configurations, specialized extraction logic, and audio rendering modules.
-*   **[📸 View Application Screenshots / UI Flow](<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/c2c89628-75d5-40cf-b5ba-979da8352e9a" /> <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/2a4174da-836e-4929-9568-17100df3acc2" /> <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/e8202179-2b77-44b9-9305-ffb707a8f199" /> <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/e7a1e55b-42b3-40c5-b87b-e202e126915d" />
+*   **[📸 View Application Screenshots / UI Flow](
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/c2c89628-75d5-40cf-b5ba-979da8352e9a" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/2a4174da-836e-4929-9568-17100df3acc2" /> 
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/e8202179-2b77-44b9-9305-ffb707a8f199" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/e7a1e55b-42b3-40c5-b87b-e202e126915d" />
 
 ---
 ## 🚀 Featured Project 4: Whatsapp Status Saver 
@@ -137,11 +141,64 @@ A high-performance, feature-rich music application built using modern Android de
 ### 🎬 Project Showcase
 
 <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/3eddf1e8-8221-47aa-b360-139a9642cce9" />
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/a6ca28bd-eeec-4a55-9726-e485233cbe3d" />
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/ceee5b97-a4ef-41f8-be4e-9518ce38ba28" />
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/da26bb9e-5d40-4161-ba97-55cb4eb82121" />
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/2cb86b7f-f63e-4ce9-a333-b27683b385e4" />
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/26369254-1ca7-468a-b370-78d35f3ade34" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/7c9be296-563f-48b3-a523-671445fd77a3" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/efd71ee9-6054-4944-9813-ca165be1f5b5" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/96f592b1-11e4-4e1b-b560-0a29c72f1aa3" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/47a64b24-fc1d-4e0b-9c51-80190ad1f6d3" />
+
+
+## 🚀 Featured Project 5: File Viewer App
+# 📂 File Viewer App
+
+A premium, high-performance file management and viewing experience for Android.
+Built with modern tools and a stunning **Neon & Glassmorphism** aesthetic.
+
+---
+
+## ✨ Key Features
+
+### 🚀 Smart Explorer
+*   **Intuitive Navigation**: Seamlessly browse through Internal Storage, Downloads, and Recent files.
+*   **Quick Access Grid**: Instant access to important folders and specialized categories.
+*   **Powerful Search**: Find any file instantly with a blazing-fast search engine.
+
+### 🛡️ Secure Vault
+*   **Privacy First**: Protect your sensitive files behind a biometric-secured vault.
+*   **Stealth Mode**: Files in the vault are encrypted and hidden from other apps.
+*   **Premium Security**: Uses Android's advanced Biometric Prompt API for fingerprint/face unlock.
+
+### 🎥 All-in-One Viewer
+*   **Video & Audio**: Immersive, edge-to-edge media playback with ExoPlayer support.
+*   **PDF Reader**: Smooth, high-fidelity PDF viewing integrated directly into the app.
+*   **Image Gallery**: High-resolution image viewing with pinch-to-zoom and pan gestures.
+*   **Document Support**: View Text, JSON, XML, and even Office documents (Docx, Xlsx).
+
+### 🎨 Design Philosophy
+*   **Glassmorphism**: A sleek, frosted-glass interface that feels modern and lightweight.
+*   **Neon Palette**: Vibrant accents and gradients that pop, especially in Dark Mode.
+*   **Edge-to-Edge**: Fully immersive interface that flows into the system bars.
+
+---
+
+## 🛠️ Tech Stack
+
+- **UI Framework**: [Jetpack Compose](https://developer.android.com/jetpack/compose) - Declarative UI for modern Android development.
+- **Architecture**: **MVVM (Model-View-ViewModel)** with Clean Architecture principles.
+- **Dependency Injection**: [Hilt](https://developer.android.com/training/dependency-injection/hilt-android) for robust and scalable DI.
+- **Media Engine**: [ExoPlayer / Media3](https://developer.android.com/guide/topics/media/exoplayer) for high-performance media playback.
+- **Navigation**: Modern navigation patterns with state preservation across rotations.
+- **Local Storage**: [Room Database](https://developer.android.com/training/data-storage/room) for caching recent and favorite files.
+
+## 📸 Screenshots
+
+| Home Screen | File Explorer | Secure Vault |
+
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/a1b76222-ba76-45f4-9ccd-6eabe37541c4" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/afb13906-20f4-4c53-8761-beb4118f01da" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/49f337f9-a0a3-451b-8959-4d6d829cfb9c" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/3614bc76-8654-4b4b-9cc7-29bb3876727c" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/fa57c5ce-b1d7-44a0-b93e-820f48e7b0d7" />
+
 
 ---
 
@@ -149,8 +206,7 @@ A high-performance, feature-rich music application built using modern Android de
 
 If you are a technical recruiter, hiring manager, or software engineer wishing to conduct a comprehensive code review of any project's architecture (Hilt/Dagger DI modules, Clean Architecture boundaries, or custom networking interceptors), please feel free to request access:
 
-1. Contact me via **[LinkedIn][(www.linkedin.com/in/sharjeelkhan-dev)]** or 
-**[Email][(sharjeelkhan111213@gmail.com)]**.
+1. Contact me via [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharjeelkhan-dev) or [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sharjeelkhan454647@gmail.com).
 2. Provide your GitHub username, and I will temporarily add you as a **Viewer/Collaborator** to the specific private repository.
 
 ---
