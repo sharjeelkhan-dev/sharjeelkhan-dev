@@ -198,7 +198,7 @@ Built with modern tools and a stunning **Neon & Glassmorphism** aesthetic.
 <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/49f337f9-a0a3-451b-8959-4d6d829cfb9c" />
 <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/3614bc76-8654-4b4b-9cc7-29bb3876727c" />
 <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/fa57c5ce-b1d7-44a0-b93e-820f48e7b0d7" />
-
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/bc70d0cc-3dcf-4417-88ac-ab92489f25f0" />
 
 ---
 
