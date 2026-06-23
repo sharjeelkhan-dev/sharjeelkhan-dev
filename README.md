@@ -198,16 +198,18 @@ Built with modern tools and a stunning **Neon & Glassmorphism** aesthetic.
 ## 📸 Screenshots
 
 | Home Screen | File Explorer | Secure Vault |
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/7073f687-7ac4-43f3-9574-b4a6e584c756" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/7277e60a-af84-432c-bd8e-97fa8e92c871" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/f4580faa-22e4-484c-81c4-f3405150ff4c" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/ca325c69-d970-46b0-a0e8-37a6e0f2f2eb" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/d5e80950-ffc2-43cc-911c-87bf7dd648f8" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/430ee822-febd-466e-8eb9-1243604ca0a1" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/8ac2529c-b693-4fb3-b7c6-4f7dd84b2eec" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/44a3b580-69e8-4970-9139-ae71a9a9a840" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/09fc2b18-49a3-4846-98dc-0d412305c35f" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/c2ac292a-7403-4992-abde-069d7ce6e0e3" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/5605b043-9c96-4a3e-96e2-11da74152730" />
 
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/35cfccdf-243a-4865-b227-75f73f1b3c00" />
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/59083f6b-a0f9-4aaa-a805-f5d21c6e6676" />
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/d88a3cf6-ff54-4716-8714-731d22eef1f6" />
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/ee030fe4-c5ef-44db-8bb4-bb65016e25ba" />
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/a8c81e1f-4877-46bb-bd21-fdbe897ae196" />
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/69fe8aa6-1f8f-40b7-8f09-10ef722ac4fa" />
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/0d7c680e-eae7-4110-ba17-bf8afad3a364" />
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/d238acb7-53c1-4e30-88a8-86422599c0f7" />
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/5467c1b3-390f-4dec-ae77-a5f844bd0f65" />
 
 ---
 
