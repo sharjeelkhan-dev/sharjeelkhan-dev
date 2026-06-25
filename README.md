@@ -68,9 +68,9 @@ A modern, high-performance Android application designed to streamline student at
 > 🔒 **Security Notice:** The source code of this repository is kept **Private** to safeguard enterprise-level Firebase configuration details and secure local biometrics logic. 
 *   **[📸 View Application Screenshots / UI Flow](
 
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/8555f548-eada-4137-88a3-8b7df4e30d7f" />
 <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/7ddd222b-a5d6-45a9-8840-24b5343fadb8" />
 <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/1692f15c-9af5-4969-a710-3d86a33dcf28" />
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/8555f548-eada-4137-88a3-8b7df4e30d7f" />
 <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/1f86572b-e9a8-420d-a904-a4966bd59517" />
 <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/2b8325ed-24c7-4b11-a6ac-1d137345ec80" />
 <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/6615c639-e08e-4026-862b-65521b84675e" />
