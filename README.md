@@ -98,10 +98,15 @@ A high-performance, feature-rich music application built using modern Android de
 ### 🎬 Project Showcase & Security Note
 > 🔒 **Security Notice:** The source code of this repository is kept **Private** to protect custom proxy configurations, specialized extraction logic, and audio rendering modules.
 *   **[📸 View Application Screenshots / UI Flow](
+
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/416863fc-2ced-4f86-a67d-e609dd20c977" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/f2a33d95-c60e-4216-a1ee-68591c38596f" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/47c6f3a2-b206-436e-9a3a-6bd300070cee" />
 <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/c2c89628-75d5-40cf-b5ba-979da8352e9a" />
 <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/2a4174da-836e-4929-9568-17100df3acc2" /> 
 <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/e8202179-2b77-44b9-9305-ffb707a8f199" />
 <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/e7a1e55b-42b3-40c5-b87b-e202e126915d" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/944432b7-09f3-46a6-93b3-7780f4496923" />
 
 ---
 ## 🚀 Featured Project 4: Whatsapp Status Saver 
