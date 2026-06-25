@@ -152,6 +152,7 @@ A high-performance, feature-rich music application built using modern Android de
 
 ### 🎬 Project Showcase
 
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/95cc13eb-59b7-4e6e-a647-638b0e217404" />
 <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/3eddf1e8-8221-47aa-b360-139a9642cce9" />
 <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/7c9be296-563f-48b3-a523-671445fd77a3" />
 <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/efd71ee9-6054-4944-9813-ca165be1f5b5" />
