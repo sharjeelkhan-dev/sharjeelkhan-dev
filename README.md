@@ -1,18 +1,26 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=linear-gradient(135deg,#0d1117,#161b22,#21262d)&height=220&section=header&text=Sharjeel%20Khan&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=linear-gradient(135deg,#000000_0%,#121214_50%,#1c1c1e_100%)&height=240&section=header&text=SHARJEEL%20KHAN&fontSize=52&fontColor=ffffff&fontAlign=50&fontAlignY=42&animation=twinkling" width="100%" alt="Premium Apple Style Header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=F3F4F6&center=true&vCenter=true&width=500&lines=Android+Architecture+Specialist;Jetpack+Compose+Craftsman;Clean+Architecture+Evangelist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2500&pause=800&color=007AFF&center=true&vCenter=true&width=500&lines=+Android+Architecture+Specialist;⚡+Jetpack+Compose+Craftsman;🚀+Clean+Architecture+Evangelist" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <strong>Crafting fluid, high-performance mobile ecosystems with architectural precision.</strong>
+  <samp><b>BUILDING FLUID, HIGH-PERFORMANCE MOBILE ECOSYSTEMS WITH ARCHITECTURAL PRECISION.</b></samp>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sharjeelkhan-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:sharjeelkhan454647@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/sharjeelkhan-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Layer" />
+  </a>
+  <a href="mailto:sharjeelkhan454647@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Layer" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/sharjeel111213?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
 ---
