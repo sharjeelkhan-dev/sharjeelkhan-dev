@@ -152,8 +152,8 @@ A design-focused storage explorer testing the boundaries of high-framerate moder
 ## 📈 Activity & Development Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharjeel111213&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharjeel111213&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sharjeelkhan-dev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharjeelkhan-dev&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
 </p>
 
 ---
