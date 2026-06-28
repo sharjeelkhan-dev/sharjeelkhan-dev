@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=SHARJEEL%20KHAN&fontSize=56&fontColor=ffffff&fontAlignY=46&animation=twinkling" width="100%" alt="Masterclass Header" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=linear-gradient(135deg,#050506_0%,#111115_50%,#1a1a26_100%)&height=200&section=header&text=SHARJEEL%20KHAN&fontSize=50&fontColor=ffffff&fontAlignY=43&animation=twinkling" width="100%" alt="Premium Developer Banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2000&pause=500&color=4285F4&center=true&vCenter=true&width=550&lines=+Android+Systems+Architect;⚡+Jetpack+Compose+Specialist;🚀+Clean+Architecture+Engineer" alt="Typing Matrix" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2000&pause=500&color=4285F4&center=true&vCenter=true&width=550&lines=Android+Systems+Architect;Jetpack+Compose+Specialist;Clean+Architecture+Engineer" alt="Typing Matrix" />
 </p>
 
 <p align="center">
-  <samp><b>[ PRODUCTION-GRADE MOBILE INFRASTRUCTURE • CLEAN ARCHITECTURE • HIGH-PERFORMANCE RUNTIMES ]</b></samp>
+  <samp><b>[ PRODUCTION-GRADE MOBILE INFRASTRUCTURE • HIGH-PERFORMANCE RUNTIMES ]</b></samp>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/sharjeel111213?label=Engineers%20In%20Network&style=flat-square&color=21262d" alt="Network Metric" />
+  <img src="https://img.shields.io/badge/Ecosystem-Verified_Developer-4285F4?style=flat-square" alt="Network Metric" />
 </p>
 
 ---
