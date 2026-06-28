@@ -21,7 +21,7 @@
 
 ---
 
-## 💻 Technical Ecosystem
+## 💻 Technical Arsenal & Stack Layers
 
 <table width="100%">
   <tr>
@@ -65,13 +65,16 @@
 
 ---
 
-## 🚀 Architectural Showcases & Runtimes
+## 🚀 Featured Production Engineering Works
 
 ### ⚙️ 1. Smart Todo App (Generative AI Orchestration)
 An advanced task management matrix featuring native language intent resolution and deterministic smart priority matrix calculation layers.
-* **Engineering Paradigm:** Structured Clean Architecture with multi-module isolation protocols to avoid presentation coupling with AI engine models.
-* **Under the Hood:** High-speed token passing via official Firebase GenAI SDKs; background calculation pipelines tracking algorithmic urgency states.
+* **Architectural Blueprint:** Strict Clean Architecture boundaries isolating Presentation, Domain, and Data layers to guarantee zero business leakage.
+* **Core Mechanisms:** Real-time token handling via Google Gemini 2.0 Flash SDK; automated matrix parsing computing dynamic urgency metrics; WorkManager lifecycle task hooks.
 
+<details>
+<summary><b>📸 Expand Visual Assets Grid</b></summary>
+<br>
 <table width="100%">
   <tr>
     <td width="33%" align="center"><img src="https://github.com/user-attachments/assets/9e459ca4-2e4e-435b-956f-7223d0015938" width="100%" /></td>
@@ -84,97 +87,103 @@ An advanced task management matrix featuring native language intent resolution a
     <td align="center"><img src="https://github.com/user-attachments/assets/5bd638c8-0aed-4878-b905-4ac4bcee19a3" width="100%" /></td>
   </tr>
 </table>
+</details>
 
 ---
 
 ### 📊 2. Student Attendance & Analytics (Offline-First Engine)
 A high-throughput monitoring dashboard engineered for zero-latency localized asset audits and native hardware validation checkpoints.
-* **Engineering Paradigm:** Single Source of Truth (SSOT) data topology. Boundary streams built exclusively on Cold Flows converting to UI StateFlow instances inside ViewModels.
-* **Under the Hood:** Cryptographic signature handling via Android Biometric Prompt API; real-time canvas canvas calculations scaling complex structural analytics cleanly.
+* **Architectural Blueprint:** Background service layer boundaries executing Android Media3 primitives decoupled fully from view cycles.
+* **Core Mechanisms:** Content parsing pipelines using custom network interceptors; continuous stream buffering; bitmap polling utilizing Palette API structures.
 
-<table width="100%">
-  <tr>
-    <td width="33%" align="center"><img src="https://github.com/user-attachments/assets/f284e497-988d-4b81-a37e-99fa54263409" width="100%" /></td>
-    <td width="33%" align="center"><img src="https://github.com/user-attachments/assets/7ddd222b-a5d6-45a9-8840-24b5343fadb8" width="100%" /></td>
-    <td width="33%" align="center"><img src="https://github.com/user-attachments/assets/1692f15c-9af5-4969-a710-3d86a33dcf28" width="100%" /></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://github.com/user-attachments/assets/1f86572b-e9a8-420d-a904-a4966bd59517" width="100%" /></td>
-    <td align="center"><img src="https://github.com/user-attachments/assets/2b8325ed-24c7-4b11-a6ac-1d137345ec80" width="100%" /></td>
-    <td align="center"><img src="https://github.com/user-attachments/assets/6615c639-e08e-4026-862b-65521b84675e" width="100%" /></td>
-  </tr>
-</table>
-
----
-
-### 🎵 3. MusicStream System (Low-Overhead Playback Architecture)
-An enterprise-grade media engine executing cross-source stream extraction and low-latency client audio rendering.
-
-* **Engineering Paradigm:** Decoupled background service bindings running Android Media3 (ExoPlayer) subsystems independently of structural lifecycle shifts.
-* **Under the Hood:** Content extraction architectures handling routing layers over custom OkHttp interceptors; dynamic interface palette extraction utilizing hardware-accelerated color maps.
-
+<details>
+<summary><b>📸 Expand Visual Assets Grid</b></summary>
+<br>
 <table width="100%">
   <tr>
     <td width="33%" align="center"><img src="https://github.com/user-attachments/assets/416863fc-2ced-4f86-a67d-e609dd20c977" width="100%" /></td>
     <td width="33%" align="center"><img src="https://github.com/user-attachments/assets/f2a33d95-c60e-4216-a1ee-68591c38596f" width="100%" /></td>
     <td width="33%" align="center"><img src="https://github.com/user-attachments/assets/47c6f3a2-b206-436e-9a3a-6bd300070cee" width="100%" /></td>
   </tr>
+  <tr>
+    <td align="center"><img src="https://github.com/user-attachments/assets/c2c89628-75d5-40cf-b5ba-979da8352e9a" width="100%" /></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/2a4174da-836e-4929-9568-17100df3acc2" width="100%" /></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/e8202179-2b77-44b9-9305-ffb707a8f199" width="100%" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://github.com/user-attachments/assets/e7a1e55b-42b3-40c5-b87b-e202e126915d" width="100%" /></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/944432b7-09f3-46a6-93b3-7780f4496923" width="100%" /></td>
+    <td bgcolor="#0d1117"></td>
+  </tr>
 </table>
+</details>
 
 ---
 
 ### 💬 4. WhatsApp Status Saver (Storage Access Sandbox Framework)
 An isolated background system utility tracking target document trees under strict operating system file restrictions.
+* **Architectural Blueprint:** Confinement workflows mapping system disk I/O operations strictly outside primary main thread rendering routines.
+* **Core Mechanisms:** Native DocumentFile sandbox tracking; asynchronous transactional streams; scheduled verification passes managed by WorkManager engines.
 
-* **Engineering Paradigm:** Complete I/O confinement using background Dispatchers ensuring no frame budgets are breached on the primary layout loop.
-* **Under the Hood:** Storage Access Framework (SAF) tracking; concurrent thread-safe data operations cache streams cleanly.
-
+<details>
+<summary><b>📸 Expand Visual Assets Grid</b></summary>
+<br>
 <table width="100%">
   <tr>
     <td width="33%" align="center"><img src="https://github.com/user-attachments/assets/95cc13eb-59b7-4e6e-a647-638b0e217404" width="100%" /></td>
     <td width="33%" align="center"><img src="https://github.com/user-attachments/assets/3eddf1e8-8221-47aa-b360-139a9642cce9" width="100%" /></td>
     <td width="33%" align="center"><img src="https://github.com/user-attachments/assets/7c9be296-563f-48b3-a523-671445fd77a3" width="100%" /></td>
   </tr>
+  <tr>
+    <td align="center"><img src="https://github.com/user-attachments/assets/efd71ee9-6054-4944-9813-ca165be1f5b5" width="100%" /></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/96f592b1-11e4-4e1b-b560-0a29c72f1aa3" width="100%" /></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/47a64b24-fc1d-4e0b-9c51-80190ad1f6d3" width="100%" /></td>
+  </tr>
 </table>
+</details>
 
 ---
 
 ### 📂 5. File Viewer (Advanced Glassmorphic Shell)
-A visually stunning file management matrix demonstrating native UI rendering at consistent high framerates along with high-security partitions.
+A design-centric file manager implementing custom hardware graphic workflows and secure local system sandbox protection schemas.
+* **Architectural Blueprint:** Unidirectional Data Flow (UDF) state pipelines routing structural canvas logic safely across configuration boundaries.
+* **Core Mechanisms:** Custom graphic composable layer transformations; secure virtual directories encrypted using Android Keystore instances.
 
-* **Engineering Paradigm:** Unidirectional Data Flow (UDF) lifecycle states map clean graphic states down to isolated composable nodes.
-* **Under the Hood:** Hardware-accelerated pixel layer filtering; AES-256 secure sandboxed directories managed behind hardware-backed KeyStore authentications.
-
+<details>
+<summary><b>📸 Expand Visual Assets Grid</b></summary>
+<br>
 <table width="100%">
   <tr>
     <td width="33%" align="center"><img src="https://github.com/user-attachments/assets/bd6996e3-4ae5-4e36-a3fe-7e66cebf2995" width="100%" /></td>
     <td width="33%" align="center"><img src="https://github.com/user-attachments/assets/a6780bb8-dcd1-4f97-a486-f68f0adfc10c" width="100%" /></td>
     <td width="33%" align="center"><img src="https://github.com/user-attachments/assets/e52bf06c-89dd-4a75-ba8e-68b4505802eb" width="100%" /></td>
   </tr>
+  <tr>
+    <td align="center"><img src="https://github.com/user-attachments/assets/2558837f-c370-4a0b-8c23-8357cd12ea28" width="100%" /></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/0184296a-007b-4040-9b6f-e9e0786c95a8" width="100%" /></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/86885a65-c24f-4906-8dbd-135dc7fe31f5" width="100%" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://github.com/user-attachments/assets/443d3b4a-00cf-4542-9754-759d1b972fcd" width="100%" /></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/bf897bbe-7072-458d-b3cd-062824839ff6" width="100%" /></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/e84d3437-9b78-435c-acbf-09af1c5f4904" width="100%" /></td>
+  </tr>
 </table>
-
----
-
-## 📊 Analytics Engine & Runtimes
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharjeel111213&show_icons=true&theme=dark&count_private=true&hide_border=true&title_color=4285F4&icon_color=4285F4" width="49%" alt="System Metrics" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharjeel111213&theme=dark&hide_border=true&sideLength=150&stroke=4285F4&ring=4285F4&fire=4285F4" width="49%" alt="Compilation Streak" />
-</p>
+</details>
 
 ---
 
 ## 💼 Enterprise Code Review Audit Protocols
 
-> 📑 **Security Clearance Disclosure:** Core asset repositories are maintained within secure environments to shield operational proxy modules, low-level extraction scripts, and network routing interceptor maps.
+> 📑 **Security Clearance Disclosure:** Core production assets are maintained within private configurations to protect specialized command-parsing systems, biometric handshake paths, and target interceptor maps.
 
-If you are a technical recruiter, engineering lead, or infrastructure manager seeking to execute a comprehensive systems audit (*verifying dependency isolation, reactive flow boundaries, or DI graphing*):
+If you are an engineering manager, technical recruiter, or architecture lead seeking to evaluate structural code quality (*dependency graphs, multi-module separation layouts, or stream processing bounds*):
 
-1. Launch a validation request via [LinkedIn](https://github.com/sharjeelkhan-dev) or transmit an operational ping to [Email](mailto:sharjeelkhan454647@gmail.com).
-2. Forward your corporate GitHub identifier; a secure, temporary collaborator authorization pass will be issued instantly.
+1. File an evaluation request directly through [LinkedIn](https://www.linkedin.com/in/sharjeelkhan-dev) or launch an immediate communication thread via [Email](mailto:sharjeelkhan454647@gmail.com).
+2. Forward your validated organization identifier, and a secure collaborator clearance pass to target modules will be instantly provisioned.
 
 ---
 
 <p align="center">
-  <sub>Composed with strict technical precision and absolute architectural hygiene. © 2026 Sharjeel Khan.</sub>
+  <sub>Composed with geometric architectural precision. © 2026 Sharjeel Khan. All rights reserved.</sub>
 </p>
