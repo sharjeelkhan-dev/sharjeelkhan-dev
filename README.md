@@ -137,37 +137,51 @@
 
 ---
 
-### 🛡️ Architectural Repository Guard
-
-> **Notice for Engineering Leads & Tech Recruiters:**
-> To defend my intellectual property against plagiarism, source repositories for core enterprise applications are restricted. If you would like to run a formal code audit on my dependency injection setup, domain layers, or interceptor flows, I am happy to open access.
->
-> Please message me with your GitHub identifier on [LinkedIn](https://linkedin.com/in/sharjeelkhan-dev) or drop a line at [Email](mailto:sharjeelkhan454647@gmail.com) to receive an automated repository invitation.
-
----
-
-### 📊 Technical Health & Footprint
+## 🏆 GitHub Trophies
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharjeelkhan-dev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharjeelkhan-dev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
-
+<img src="https://github-profile-trophy.vercel.app/?username=sharjeelkhan-dev&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" alt="GitHub Trophies" />
 </div>
 
 ---
 
-### ⚙️ Target Environment
-* **Primary IDE:** Android Studio Ladybug+
-* **Environment Constraints:** Minimum Target SDK 24+, Compilation JDK 17+
-* **Underlying Mindset:** Building decoupled code bases through mathematical certainty and logical deduction to hit zero-crash targets.
+<!-- ══════════════════════════════════════ ACTIVITY GRAPH ══ -->
+## 📈 Contribution Activity
+
+<div align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sharjeelkhan-dev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=00D4FF&point=FFFFFF&area=true&area_color=6C63FF" alt="Activity Graph" />
+</div>
 
 ---
 
+<!-- ══════════════════════════════ RECRUITER ACCESS ══ -->
+## 💼 Code Review Access
+
+> Technical recruiters and hiring managers can review any private project's architecture.
+
+**1.** Message via [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharjeelkhan-dev) or [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sharjeelkhan454647@gmail.com)  
+**2.** Share your GitHub username → I'll add you as **Viewer/Collaborator** to the specific repo
+
+**What you can review:** Clean Architecture layers · Hilt DI modules · Room schema design · Firebase integration · Gemini AI command parsing · Custom OkHttp interceptors · Biometric vault implementation
+
+---
+
+<!-- ═══════════════════════════════════ CURRENTLY ══ -->
+## 🌱 Currently
+
+| | |
+|:---|:---|
+| 📚 **Learning** | Advanced Kotlin · AI Integration · Compose Multiplatform |
+| 🤝 **Open to** | Android dev roles · AI-powered mobile apps · API integration |
+| 💬 **Ask me about** | Kotlin · Jetpack Compose · Clean Architecture · Firebase · Gemini AI |
+| 🎯 **Goal** | First full-time Android Developer role in Lahore / Remote |
+| 🏋️ **Off-screen** | Gym training and building random side projects |
+
+---
+
+<!-- ═══════════════════════════════ BUILD FOOTER ══ -->
 <div align="center">
 
-*Iterating Daily. Shipping Globally.*
-
+<div align="center">
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=100&section=footer)
-
 </div>
