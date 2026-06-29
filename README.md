@@ -68,10 +68,10 @@
 <summary><b>✨ View Interface Design (Click to Expand)</b></summary>
 <br/>
 <table width="100%">
-  <tr>
-    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/9e459ca4-2e4e-435b-956f-7223d0015938" width="100%" alt="Screen 1" /></td>
-    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/6135ddf6-cd34-4854-a580-ec1d45cb73aa" width="100%" alt="Screen 2" /></td>
-    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/1feature-1f12ab80-9500-42f5-8d56-93ad7ec61003" width="100%" alt="Screen 3" /></td>
+<tr>
+    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/f284e497-988d-4b81-a37e-99fa54263409" width="100%" alt="Screen 1" /></td>
+    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/7ddd222b-a5d6-45a9-8840-24b5343fadb8" width="100%" alt="Screen 2" /></td>
+    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/1692f15c-9af5-4969-a710-3d86a33dcf28" width="100%" alt="Screen 3" /></td>
   </tr>
 </table>
 </details>
