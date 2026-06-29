@@ -26,7 +26,7 @@
 
 ---
 
-### 🚀 Featured Engineering Projects
+### 🚀 Featured Projects
 
 <br/>
 
@@ -40,13 +40,15 @@
 * 💾 **Data Durability:** Offline-first sync with Room and real-time cloud data push over `Firebase Firestore`.
 
 <details>
-  <summary><b>✨ View Interface Design (Click to Expand)</b></summary>
-  <br/>
-  <div align="center">
-    <img width="30%" src="https://github.com/user-attachments/assets/9e459ca4-2e4e-435b-956f-7223d0015938" />
-    <img width="30%" src="https://github.com/user-attachments/assets/e5c9e6c7-5ae4-4b55-b9ec-0202e09dd382" />
-    <img width="30%" src="https://github.com/user-attachments/assets/84961a13-5b77-402e-9574-e4ca0cac2ca9" />
-  </div>
+<summary><b>✨ View Interface Design (Click to Expand)</b></summary>
+<br/>
+<table width="100%">
+  <tr>
+    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/9e459ca4-2e4e-435b-956f-7223d0015938" width="100%" alt="Screen 1" /></td>
+    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/e5c9e6c7-5ae4-4b55-b9ec-0202e09dd382" width="100%" alt="Screen 2" /></td>
+    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/84961a13-5b77-402e-9574-e4ca0cac2ca9" width="100%" alt="Screen 3" /></td>
+  </tr>
+</table>
 </details>
 
 <br/>
@@ -57,6 +59,7 @@
 ![Status](https://img.shields.io/badge/Private_Code-181717?style=for-the-badge&logo=github&logoColor=white) ![Security](https://img.shields.io/badge/Biometric_API-3DDC84?style=for-the-badge&logo=android&logoColor=black) ![Database](https://img.shields.io/badge/Room_SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 > *High-performance academic tracking system engineered using offline-first architectures and enterprise data patterns.*
+
 * 🔐 **Local Verification:** Biometric device access management implemented using the Android `Biometric API`.
 * 🚀 **Reactive Caching:** Relational local optimization using Room/SQLite with reactive `Kotlin Flow` streams.
 * ☁️ **Data Integrity:** Managed automatic fallback cloud push syncing data over `Firebase NoSQL Architecture`.
@@ -64,11 +67,13 @@
 <details>
 <summary><b>✨ View Interface Design (Click to Expand)</b></summary>
 <br/>
-<div align="center">
-<img width="30%" src="https://github.com/user-attachments/assets/f284e497-988d-4b81-a37e-99fa54263409" />
-<img width="30%" src="https://github.com/user-attachments/assets/7ddd222b-a5d6-45a9-8840-24b5343fadb8" />
-<img width="30%" src="https://github.com/user-attachments/assets/1692f15c-9af5-4969-a710-3d86a33dcf28" />
-</div>
+<table width="100%">
+  <tr>
+    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/f284e497-988d-4b81-a37e-99fa54263409" width="100%" alt="Screen 1" /></td>
+    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/7ddd222b-a5d6-45a9-8840-24b5343fadb8" width="100%" alt="Screen 2" /></td>
+    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/1692f15c-9af5-4969-a710-3d86a33dcf28" width="100%" alt="Screen 3" /></td>
+  </tr>
+</table>
 </details>
 
 <br/>
@@ -85,13 +90,15 @@
 * 🌐 **Network Interceptors:** Custom proxy rotations handling custom okhttp interceptors to preserve consistent uptime.
 
 <details>
-  <summary><b>✨ View Interface Design (Click to Expand)</b></summary>
-  <br/>
-  <div align="center">
-    <img width="30%" src="https://github.com/user-attachments/assets/416863fc-2ced-4f86-a67d-e609dd20c977" />
-    <img width="30%" src="https://github.com/user-attachments/assets/f2a33d95-c60e-4216-a1ee-68591c38596f" />
-    <img width="30%" src="https://github.com/user-attachments/assets/47c6f3a2-b206-436e-9a3a-6bd300070cee" />
-  </div>
+<summary><b>✨ View Interface Design (Click to Expand)</b></summary>
+<br/>
+<table width="100%">
+  <tr>
+    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/416863fc-2ced-4f86-a67d-e609dd20c977" width="100%" alt="Screen 1" /></td>
+    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/f2a33d95-c60e-4216-a1ee-68591c38596f" width="100%" alt="Screen 2" /></td>
+    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/47c6f3a2-b206-436e-9a3a-6bd300070cee" width="100%" alt="Screen 3" /></td>
+  </tr>
+</table>
 </details>
 
 <br/>
@@ -108,13 +115,15 @@
 * ⏰ **Automated Triggers:** Custom scheduling features processing notifications safely via system clock integrations.
 
 <details>
-  <summary><b>✨ View Interface Design (Click to Expand)</b></summary>
-  <br/>
-  <div align="center">
-    <img width="30%" src="https://github.com/user-attachments/assets/95cc13eb-59b7-4e6e-a647-638b0e217404" />
-    <img width="30%" src="https://github.com/user-attachments/assets/3eddf1e8-8221-47aa-b360-139a9642cce9" />
-    <img width="30%" src="https://github.com/user-attachments/assets/7c9be296-563f-48b3-a523-671445fd77a3" />
-  </div>
+<summary><b>✨ View Interface Design (Click to Expand)</b></summary>
+<br/>
+<table width="100%">
+  <tr>
+    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/95cc13eb-59b7-4e6e-a647-638b0e217404" width="100%" alt="Screen 1" /></td>
+    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/3eddf1e8-8221-47aa-b360-139a9642cce9" width="100%" alt="Screen 2" /></td>
+    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/7c9be296-563f-48b3-a523-671445fd77a3" width="100%" alt="Screen 3" /></td>
+  </tr>
+</table>
 </details>
 
 <br/>
@@ -131,13 +140,15 @@
 * 📱 **UI Composition:** Completely immersive edge-to-edge layout design using robust Jetpack Compose lifecycle rules.
 
 <details>
-  <summary><b>✨ View Interface Design (Click to Expand)</b></summary>
-  <br/>
-  <div align="center">
-    <img width="30%" src="https://github.com/user-attachments/assets/bd6996e3-4ae5-4e36-a3fe-7e66cebf2995" />
-    <img width="30%" src="https://github.com/user-attachments/assets/a6780bb8-dcd1-4f97-a486-f68f0adfc10c" />
-    <img width="30%" src="https://github.com/user-attachments/assets/e52bf06c-89dd-4a75-ba8e-68b4505802eb" />
-  </div>
+<summary><b>✨ View Interface Design (Click to Expand)</b></summary>
+<br/>
+<table width="100%">
+  <tr>
+    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/bd6996e3-4ae5-4e36-a3fe-7e66cebf2995" width="100%" alt="Screen 1" /></td>
+    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/a6780bb8-dcd1-4f97-a486-f68f0adfc10c" width="100%" alt="Screen 2" /></td>
+    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/e52bf06c-89dd-4a75-ba8e-68b4505802eb" width="100%" alt="Screen 3" /></td>
+  </tr>
+</table>
 </details>
 
 <br/>
