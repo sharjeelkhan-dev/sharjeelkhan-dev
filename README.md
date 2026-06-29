@@ -24,9 +24,9 @@
 
 ---
 
-## 🚀 Featured Engineering Projects
+## 🚀 Featured Projects
 
-### 🤖 Smart Todo Engine
+### 🤖 Smart Todo App
 ![Status](https://img.shields.io/badge/Private_Code-181717?style=for-the-badge&logo=github&logoColor=white) ![AI](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) ![Cloud](https://img.shields.io/badge/Firebase_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 > Intelligent task prioritization manager featuring deep Generative AI commands and modern security standards.
@@ -53,7 +53,7 @@
 <hr/>
 <br/>
 
-### 📊 Student Attendance & Analytics
+### 📊 Student Attendance & Analytics App
 ![Status](https://img.shields.io/badge/Private_Code-181717?style=for-the-badge&logo=github&logoColor=white) ![Security](https://img.shields.io/badge/Biometric_API-3DDC84?style=for-the-badge&logo=android&logoColor=black) ![Database](https://img.shields.io/badge/Room_SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 > High-performance academic tracking system engineered using offline-first architectures and enterprise data patterns.
@@ -107,7 +107,7 @@
 <hr/>
 <br/>
 
-### 📥 WhatsApp Status Saver
+### 📥 WhatsApp Status Saver App
 ![Status](https://img.shields.io/badge/Private_Code-181717?style=for-the-badge&logo=github&logoColor=white) ![UI](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white) ![Async](https://img.shields.io/badge/Kotlin_Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 > Clean, local file storage architecture designed to pull, cache, and schedule media assets instantly.
@@ -134,7 +134,7 @@
 <hr/>
 <br/>
 
-### 📂 File Viewer Module
+### 📂 File Viewer App
 ![Status](https://img.shields.io/badge/Private_Code-181717?style=for-the-badge&logo=github&logoColor=white) ![Security](https://img.shields.io/badge/Encrypted_Vault-607D8B?style=for-the-badge&logo=android&logoColor=white) ![Core](https://img.shields.io/badge/Multi_Threaded-FF5722?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 > Premium document manager processed using low-latency IO capabilities wrapped inside a neon-glassmorphism wrapper.
