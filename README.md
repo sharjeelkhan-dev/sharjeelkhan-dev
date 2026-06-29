@@ -8,7 +8,7 @@
 ### 👋 Welcome to my Workspace
 *I turn complex logic into seamless, scalable, and highly responsive native Android experiences.*
 
-<a href="https://linkedin.com/in/sharjeelkhan-dev" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="40" height="40" alt="LinkedIn" style="margin-right: 10px;" /></a><a href="mailto:sharjeelkhan454647@gmail.com"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Light.svg" width="40" height="40" alt="Email" /></a>
+<a href="https://linkedin.com/in/sharjeelkhan-dev" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="40" height="40" alt="LinkedIn" />      </a><a href="mailto:sharjeelkhan454647@gmail.com"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Light.svg" width="40" height="40" alt="Email" /></a>
 
 </div>
 
