@@ -1,8 +1,7 @@
 <div align="center">
 
 <!-- Modern Minimalist Header Banner -->
-![Sharjeel Khan](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Sharjeel%20Khan&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=%20%20%20%7C%20%20%20&descAlignY=55&descAlign=50&descSize=18)
-
+![Sharjeel Khan](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Sharjeel%20Khan&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Android%20Developer%20%7C%20Kotlin%20%7C%20Jetpack%20Compose%20%7C%20Firebase%20%7C%20MVVM%20%7C%20Clean%20Architecture&descAlignY=55&descAlign=50&descSize=18)
 ### Android Developer
 
 Transforming architectural patterns into high-performance, responsive, and secure mobile experiences.
