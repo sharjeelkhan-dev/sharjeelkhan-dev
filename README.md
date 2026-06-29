@@ -154,19 +154,15 @@
 
 ---
 
-<!-- ══════════════════════════════ RECRUITER ACCESS ══ -->
-## 💼 Code Review Access
 
-> Technical recruiters and hiring managers can review any private project's architecture.
+## 💼 Recruiter Code Review Access
+If you are a technical recruiter, hiring manager, or software engineer wishing to conduct a comprehensive code review of any project's architecture (Hilt/Dagger DI modules, Clean Architecture boundaries, or custom networking interceptors), please feel free to request access:
 
-**1.** Message via [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharjeelkhan-dev) or [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sharjeelkhan454647@gmail.com)  
-**2.** Share your GitHub username → I'll add you as **Viewer/Collaborator** to the specific repo
+1. Contact me via [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharjeelkhan-dev) or [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sharjeelkhan454647@gmail.com).
 
-**What you can review:** Clean Architecture layers · Hilt DI modules · Room schema design · Firebase integration · Gemini AI command parsing · Custom OkHttp interceptors · Biometric vault implementation
-
+2. Provide your GitHub username, and I will temporarily add you as a **Viewer/Collaborator** to the specific private repository.
 ---
 
-<!-- ═══════════════════════════════════ CURRENTLY ══ -->
 ## 🌱 Currently
 
 | | |
@@ -179,9 +175,7 @@
 
 ---
 
-<!-- ═══════════════════════════════ BUILD FOOTER ══ -->
+<!-- Modern Minimalist Footer Banner -->
 <div align="center">
-
-<div align="center">
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=100&section=footer)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer" alt="Footer" />
 </div>
