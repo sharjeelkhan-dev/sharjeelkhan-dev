@@ -1,3 +1,55 @@
+<div align="center">
+
+<!-- Modern Minimalist Header Banner -->
+![Sharjeel Khan](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=E0C3FC,8EC5FC&height=220&section=header&text=Sharjeel%20Khan&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Android%20Developer%20%7C%20Kotlin%20%7C%20Jetpack%20Compose%20%7C%20Firebase%20%7C%20MVVM%20%7C%20Clean%20Architecture&descAlignY=55&descAlign=50&descSize=18)
+
+*Crafting offline-first, zero-crash mobile ecosystems powered by Clean Architecture and Generative AI.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sharjeelkhan-dev) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharjeelkhan454647@gmail.com) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sharjeelkhan-dev)
+
+---
+
+<!-- Professional Metric Section -->
+| 📈 Metric | 🎯 Performance Impact |
+| :--- | :--- |
+| **Bug Recurrence** | 🔻 **30% Reduction** via rigorous Clean Architecture boundaries |
+| **App Stability** | 🔺 **25% Crash Reduction** utilizing precise error-handling pipelines |
+| **Architectures** | `MVVM` • `Clean Architecture` • `Repository Pattern` • `Offline-First` |
+
+</div>
+
+---
+
+### 🛠️ Tech Universe
+
+<p align="left">
+  <b>⚡ Core Stack:</b><br/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dagger%20Hilt-7F52FF?style=flat-square&logo=dagger&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
+</p>
+
+<p align="left">
+  <b>🔄 Reactive & Async Engine:</b><br/>
+  <img src="https://img.shields.io/badge/Coroutines-333?style=flat-square&logo=kotlincoroutines&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin%20Flow-333?style=flat-square&logo=flow&logoColor=white" />
+  <img src="https://img.shields.io/badge/StateFlow%20%2F%20SharedFlow-333?style=flat-square" />
+  <img src="https://img.shields.io/badge/WorkManager-333?style=flat-square&logo=android" />
+</p>
+
+<p align="left">
+  <b>💾 Caching & Network Layer:</b><br/>
+  <img src="https://img.shields.io/badge/Room%20Database-333?style=flat-square&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Retrofit%202-333?style=flat-square" />
+  <img src="https://img.shields.io/badge/OkHttp%20Interceptors-333?style=flat-square" />
+  <img src="https://img.shields.io/badge/Firebase%20Suite-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+</p>
+
+---
+
 ### 🚀 Featured Engineering Projects
 
 <br/>
@@ -114,3 +166,39 @@
 </details>
 
 <br/>
+
+---
+
+### 🛡️ Architectural Repository Guard
+
+> **Notice for Engineering Leads & Tech Recruiters:**
+> To defend my intellectual property against plagiarism, source repositories for core enterprise applications are restricted. If you would like to run a formal code audit on my dependency injection setup, domain layers, or interceptor flows, I am happy to open access.
+>
+> Please message me on [LinkedIn](https://linkedin.com/in/sharjeelkhan-dev) or drop a line at [Email](mailto:sharjeelkhan454647@gmail.com) to receive an automated repository invitation.
+
+---
+
+### 📊 Technical Health & Footprint
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharjeelkhan-dev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharjeelkhan-dev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
+
+</div>
+
+---
+
+### ⚙️ Target Environment
+* **Primary IDE:** Android Studio Ladybug+
+* **Environment Constraints:** Minimum Target SDK 24+, Compilation JDK 17+
+* **Underlying Mindset:** Building decoupled code bases through mathematical certainty and logical deduction to hit zero-crash targets.
+
+---
+
+<div align="center">
+
+<!-- Modern Minimalist Footer Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=E0C3FC,8EC5FC&height=120&section=footer" alt="Footer" />
+
+</div>
