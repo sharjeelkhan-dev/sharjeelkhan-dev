@@ -8,9 +8,13 @@
 ### 👋 Welcome to my Workspace
 *I turn complex logic into seamless, scalable, and highly responsive native Android experiences.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sharjeelkhan-dev) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharjeelkhan454647@gmail.com) 
+<a href="https://linkedin.com/in/sharjeelkhan-dev" target="_blank">
+  <img src="https://img.shields.io/badge/-%20-0A66C2?style=plastic&logo=linkedin&logoColor=white" width="40" height="40" alt="LinkedIn" />
+</a>
 
+<a href="mailto:sharjeelkhan454647@gmail.com">
+  <img src="https://img.shields.io/badge/-%20-D14836?style=plastic&logo=gmail&logoColor=white" width="40" height="40" alt="Email" />
+</a>
 </div>
 
 ---
