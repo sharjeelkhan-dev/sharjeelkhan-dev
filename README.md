@@ -31,7 +31,7 @@ Android Developer with 6 months of experience shipping 4+ offline-first Android 
         <li><b>Security Compliance:</b> Protected infrastructure via <code>Firebase App Check</code> & Play Integrity integrations.</li>
       </ul>
       <details>
-        <summary><b>📸 View Application UI Flow (6 Screenshots)</b></summary>
+        <summary><b>📸 View Application UI Flow (3 Screenshots)</b></summary>
         <br/>
         <div align="center">
           <img width="23%" src="https://github.com/user-attachments/assets/9e459ca4-2e4e-435b-956f-7223d0015938" />
@@ -53,7 +53,7 @@ Android Developer with 6 months of experience shipping 4+ offline-first Android 
         <li><b>Data Integrity:</b> Managed automatic fallback cloud push syncing data over <code>Firebase NoSQL Architecture</code>.</li>
       </ul>
       <details>
-        <summary><b>📸 View Application UI Flow (9 Screenshots)</b></summary>
+        <summary><b>📸 View Application UI Flow (3 Screenshots)</b></summary>
         <br/>
         <div align="center">
           <img width="19%" src="https://github.com/user-attachments/assets/f284e497-988d-4b81-a37e-99fa54263409" />
@@ -75,7 +75,7 @@ Android Developer with 6 months of experience shipping 4+ offline-first Android 
         <li><b>Network Interceptors:</b> Custom proxy rotations handling custom okhttp interceptors to preserve consistent uptime.</li>
       </ul>
       <details>
-        <summary><b>📸 View Application UI Flow (8 Screenshots)</b></summary>
+        <summary><b>📸 View Application UI Flow (3 Screenshots)</b></summary>
         <br/>
         <div align="center">
           <img width="23%" src="https://github.com/user-attachments/assets/416863fc-2ced-4f86-a67d-e609dd20c977" />
@@ -97,7 +97,7 @@ Android Developer with 6 months of experience shipping 4+ offline-first Android 
         <li><b>Automated Triggers:</b> Custom scheduling features processing notifications safely via system clock integrations.</li>
       </ul>
       <details>
-        <summary><b>📸 View Application UI Flow (6 Screenshots)</b></summary>
+        <summary><b>📸 View Application UI Flow (3 Screenshots)</b></summary>
         <br/>
         <div align="center">
           <img width="23%" src="https://github.com/user-attachments/assets/95cc13eb-59b7-4e6e-a647-638b0e217404" />
@@ -119,7 +119,7 @@ Android Developer with 6 months of experience shipping 4+ offline-first Android 
         <li><b>UI Composition:</b> Completely immersive edge-to-edge layout design using robust Jetpack Compose lifecycle rules.</li>
       </ul>
       <details>
-        <summary><b>📸 View Application UI Flow (10 Screenshots)</b></summary>
+        <summary><b>📸 View Application UI Flow (4 Screenshots)</b></summary>
         <br/>
         <div align="center">
           <img width="19%" src="https://github.com/user-attachments/assets/bd6996e3-4ae5-4e36-a3fe-7e66cebf2995" />
