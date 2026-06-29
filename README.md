@@ -1,3 +1,4 @@
+<!-- Modern Minimalist Header Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=E0C3FC,8EC5FC&height=220&section=header&text=Sharjeel%20Khan&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Android%20Developer%20%7C%20Kotlin%20%7C%20Jetpack%20Compose%20%7C%20Firebase%20%7C%20MVVM%20%7C%20Clean%20Architecture&descAlignY=55&descAlign=50&descSize=18" alt="Sharjeel Khan" />
 </p>
@@ -26,11 +27,7 @@
 ## 🚀 Featured Engineering Projects
 
 ### 🤖 Smart Todo Engine
-<p align="center">
-  <img src="https://img.shields.io/badge/Private_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Status" />
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="AI" />
-  <img src="https://img.shields.io/badge/Firebase_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Cloud" />
-</p>
+![Status](https://img.shields.io/badge/Private_Code-181717?style=for-the-badge&logo=github&logoColor=white) ![AI](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) ![Cloud](https://img.shields.io/badge/Firebase_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 > Intelligent task prioritization manager featuring deep Generative AI commands and modern security standards.
 
@@ -57,11 +54,7 @@
 <br/>
 
 ### 📊 Student Attendance & Analytics
-<p align="center">
-  <img src="https://img.shields.io/badge/Private_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Status" />
-  <img src="https://img.shields.io/badge/Biometric_API-3DDC84?style=for-the-badge&logo=android&logoColor=black" alt="Security" />
-  <img src="https://img.shields.io/badge/Room_SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="Database" />
-</p>
+![Status](https://img.shields.io/badge/Private_Code-181717?style=for-the-badge&logo=github&logoColor=white) ![Security](https://img.shields.io/badge/Biometric_API-3DDC84?style=for-the-badge&logo=android&logoColor=black) ![Database](https://img.shields.io/badge/Room_SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 > High-performance academic tracking system engineered using offline-first architectures and enterprise data patterns.
 
@@ -88,11 +81,7 @@
 <br/>
 
 ### 🎵 MusicStream App
-<p align="center">
-  <img src="https://img.shields.io/badge/Private_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Status" />
-  <img src="https://img.shields.io/badge/Media3_ExoPlayer-E64A19?style=for-the-badge&logo=youtube&logoColor=white" alt="Media" />
-  <img src="https://img.shields.io/badge/OkHttp_Network-4CAF50?style=for-the-badge&logo=android&logoColor=white" alt="Network" />
-</p>
+![Status](https://img.shields.io/badge/Private_Code-181717?style=for-the-badge&logo=github&logoColor=white) ![Media](https://img.shields.io/badge/Media3_ExoPlayer-E64A19?style=for-the-badge&logo=youtube&logoColor=white) ![Network](https://img.shields.io/badge/OkHttp_Network-4CAF50?style=for-the-badge&logo=android&logoColor=white)
 
 > High-performance media streaming platform supporting dual extraction pipelines and custom hardware acceleration profiles.
 
@@ -119,11 +108,7 @@
 <br/>
 
 ### 📥 WhatsApp Status Saver
-<p align="center">
-  <img src="https://img.shields.io/badge/Private_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Status" />
-  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="UI" />
-  <img src="https://img.shields.io/badge/Kotlin_Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Async" />
-</p>
+![Status](https://img.shields.io/badge/Private_Code-181717?style=for-the-badge&logo=github&logoColor=white) ![UI](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white) ![Async](https://img.shields.io/badge/Kotlin_Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 > Clean, local file storage architecture designed to pull, cache, and schedule media assets instantly.
 
@@ -150,11 +135,7 @@
 <br/>
 
 ### 📂 File Viewer Module
-<p align="center">
-  <img src="https://img.shields.io/badge/Private_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Status" />
-  <img src="https://img.shields.io/badge/Encrypted_Vault-607D8B?style=for-the-badge&logo=android&logoColor=white" alt="Security" />
-  <img src="https://img.shields.io/badge/Multi_Threaded-FF5722?style=for-the-badge&logo=cplusplus&logoColor=white" alt="Core" />
-</p>
+![Status](https://img.shields.io/badge/Private_Code-181717?style=for-the-badge&logo=github&logoColor=white) ![Security](https://img.shields.io/badge/Encrypted_Vault-607D8B?style=for-the-badge&logo=android&logoColor=white) ![Core](https://img.shields.io/badge/Multi_Threaded-FF5722?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 > Premium document manager processed using low-latency IO capabilities wrapped inside a neon-glassmorphism wrapper.
 
@@ -209,6 +190,7 @@ If you are a technical recruiter, hiring manager, or software engineer wishing t
 
 ---
 
+<!-- Modern Minimalist Footer Banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=E0C3FC,8EC5FC&height=120&section=footer" alt="Footer" />
 </div>
