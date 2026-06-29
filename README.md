@@ -31,7 +31,7 @@
 <br/>
 
 ### 🤖 Smart Todo Engine
-![Status](https://img.shields.io/badge/🔒_Architecture-Private_Code-181717?style=flat-square) ![AI](https://img.shields.io/badge/🧠_Gemini-Integration-7F52FF?style=flat-square) ![Cloud](https://img.shields.io/badge/Firebase-Firestore-FFCA28?style=flat-square)
+![Status](https://img.shields.io/badge/Private_Code-181717?style=for-the-badge&logo=github&logoColor=white) ![AI](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) ![Cloud](https://img.shields.io/badge/Firebase_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 > *Intelligent task prioritization manager featuring deep Generative AI commands and modern security standards.*
 
@@ -54,7 +54,7 @@
 <br/>
 
 ### 📊 Student Attendance & Analytics
-![Status](https://img.shields.io/badge/🔒_Architecture-Private_Code-181717?style=flat-square) ![Security](https://img.shields.io/badge/🛡️_Biometrics-Secured-4285F4?style=flat-square) ![Database](https://img.shields.io/badge/Room-SQLite-007396?style=flat-square)
+![Status](https://img.shields.io/badge/Private_Code-181717?style=for-the-badge&logo=github&logoColor=white) ![Security](https://img.shields.io/badge/Biometric_API-3DDC84?style=for-the-badge&logo=android&logoColor=black) ![Database](https://img.shields.io/badge/Room_SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 > *High-performance academic tracking system engineered using offline-first architectures and enterprise data patterns.*
 
@@ -77,7 +77,7 @@
 <br/>
 
 ### 🎵 MusicStream App
-![Status](https://img.shields.io/badge/🔒_Architecture-Private_Code-181717?style=flat-square) ![Media](https://img.shields.io/badge/▶️_ExoPlayer-Media3-E64A19?style=flat-square) ![Network](https://img.shields.io/badge/OkHttp-Interceptors-4CAF50?style=flat-square)
+![Status](https://img.shields.io/badge/Private_Code-181717?style=for-the-badge&logo=github&logoColor=white) ![Media](https://img.shields.io/badge/Media3_ExoPlayer-E64A19?style=for-the-badge&logo=youtube&logoColor=white) ![Network](https://img.shields.io/badge/OkHttp_Network-4CAF50?style=for-the-badge&logo=android&logoColor=white)
 
 > *High-performance media streaming platform supporting dual extraction pipelines and custom hardware acceleration profiles.*
 
@@ -100,7 +100,7 @@
 <br/>
 
 ### 📥 WhatsApp Status Saver
-![Status](https://img.shields.io/badge/🔒_Architecture-Private_Code-181717?style=flat-square) ![UI](https://img.shields.io/badge/✨_Jetpack-Compose-4285F4?style=flat-square) ![Async](https://img.shields.io/badge/Kotlin-Coroutines-7F52FF?style=flat-square)
+![Status](https://img.shields.io/badge/Private_Code-181717?style=for-the-badge&logo=github&logoColor=white) ![UI](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white) ![Async](https://img.shields.io/badge/Kotlin_Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 > *Clean, local file storage architecture designed to pull, cache, and schedule media assets instantly.*
 
@@ -123,7 +123,7 @@
 <br/>
 
 ### 📂 File Viewer Module
-![Status](https://img.shields.io/badge/🔒_Architecture-Private_Code-181717?style=flat-square) ![Security](https://img.shields.io/badge/🔐_Encrypted-Vault-607D8B?style=flat-square) ![Core](https://img.shields.io/badge/Multi--Threaded-Engine-FF5722?style=flat-square)
+![Status](https://img.shields.io/badge/Private_Code-181717?style=for-the-badge&logo=github&logoColor=white) ![Security](https://img.shields.io/badge/Encrypted_Vault-607D8B?style=for-the-badge&logo=android&logoColor=white) ![Core](https://img.shields.io/badge/Multi_Threaded-FF5722?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 > *Premium document manager processed using low-latency IO capabilities wrapped inside a neon-glassmorphism wrapper.*
 
@@ -140,6 +140,7 @@
     <img width="30%" src="https://github.com/user-attachments/assets/e52bf06c-89dd-4a75-ba8e-68b4505802eb" />
   </div>
 </details>
+
 <br/>
 
 ---
@@ -153,10 +154,27 @@
 
 ---
 
-### ⚙️ Target Environment
-* **Primary IDE:** Android Studio Ladybug+
-* **Environment Constraints:** Minimum Target SDK 24+, Compilation JDK 17+
-* **Underlying Mindset:** Building decoupled code bases through mathematical certainty and logical deduction to hit zero-crash targets.
+## 💼 Recruiter Code Review Access
+
+If you are a technical recruiter, hiring manager, or software engineer wishing to conduct a comprehensive code review of any project's architecture (Hilt/Dagger DI modules, Clean Architecture boundaries, or custom networking interceptors), please feel free to request access:
+
+1. Contact me via [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharjeelkhan-dev) or [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sharjeelkhan454647@gmail.com).
+2. Provide your GitHub username, and I will temporarily add you as a **Viewer/Collaborator** to the specific private repository.
+
+---
+
+## 📋 Prerequisites
+*   Android Studio Ladybug (or newer)
+*   JDK 17+
+*   Android SDK 26 (Android 8.0) or higher
+
+---
+
+## 🏋️ Hobbies & Mindset
+*   Gym, building things
+*   I prefer deep logical reasoning and structured problem-solving
+*   I structure my code meticulously to achieve flawless performance
+*   I ensure absolute accuracy and clean architecture in everything I ship
 
 ---
 
