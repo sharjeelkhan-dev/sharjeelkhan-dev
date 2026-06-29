@@ -32,7 +32,7 @@
 
 | Subsystem | Technical Execution Architecture |
 | :--- | :--- |
-| ⚡ **AI Parsing Engine** | Integrated `Google Gemini 2.0 Flash` for processing natural language scheduling logic. |
+| ⚡ **AI Parsing Engine** | Integrated `Google Gemini 3.5 Flash` for processing natural language scheduling logic. |
 | 🎯 **Smart Prioritization** | Context-aware automated scheduling scoring algorithms (0-100 analytics). |
 | 💾 **Data Durability** | Offline-first sync with Room and real-time cloud data push over `Firebase Firestore`. |
 
