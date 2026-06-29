@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Modern Minimalist Header Banner -->
-![Sharjeel Khan](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Sharjeel%20Khan&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Next-Gen%20Android%20Architecture%20%7C%20Sargodha%20→%20Lahore&descAlignY=55&descAlign=50&descSize=18)
+![Sharjeel Khan](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Sharjeel%20Khan&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=%20%20%20%7C%20%20→%20&descAlignY=55&descAlign=50&descSize=18)
 
 ### Android Developer
 
