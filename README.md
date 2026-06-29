@@ -3,9 +3,8 @@
 <!-- Modern Minimalist Header Banner -->
 ![Sharjeel Khan](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=E0C3FC,8EC5FC&height=220&section=header&text=Sharjeel%20Khan&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Android%20Developer%20%7C%20Kotlin%20%7C%20Jetpack%20Compose%20%7C%20Firebase%20%7C%20MVVM%20%7C%20Clean%20Architecture&descAlignY=55&descAlign=50&descSize=18)
 
-### 🚀 Aspiring Android Engineer
-
-Transforming architectural patterns into high-performance, responsive, and secure mobile experiences.
+### 👋 Welcome to my Workspace
+*I turn complex logic into seamless, scalable, and highly responsive native Android experiences.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sharjeelkhan-dev) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharjeelkhan454647@gmail.com) 
