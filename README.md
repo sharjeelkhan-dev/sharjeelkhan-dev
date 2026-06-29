@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Modern Minimalist Header Banner -->
-![Sharjeel Khan](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Sharjeel%20Khan&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Next-Gen%20Android%20Architecture%20%7C%20Sargodha%20→%20Lahore&descAlignY=55&descAlign=50&descSize=18)
+![Sharjeel Khan](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=E0C3FC,8EC5FC&height=220&section=header&text=Sharjeel%20Khan&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Android%20Developer%20%7C%20Kotlin%20%7C%20Jetpack%20Compose%20%7C%20Firebase%20%7C%20MVVM%20%7C%20Clean%20Architecture&descAlignY=55&descAlign=50&descSize=18)
 
 ### 🚀 Aspiring Android Engineer
 
@@ -166,8 +166,7 @@ Transforming architectural patterns into high-performance, responsive, and secur
 
 ---
 
+<!-- Modern Minimalist Footer Banner -->
 <div align="center">
-  
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=100&section=footer)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=E0C3FC,8EC5FC&height=120&section=footer" alt="Footer" />
 </div>
