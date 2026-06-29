@@ -12,42 +12,17 @@
 
 ---
 
-<!-- Professional Metric Section -->
-| 📈 Metric | 🎯 Performance Impact |
-| :--- | :--- |
-| **Bug Recurrence** | 🔻 **30% Reduction** via rigorous Clean Architecture boundaries |
-| **App Stability** | 🔺 **25% Crash Reduction** utilizing precise error-handling pipelines |
-| **Architectures** | `MVVM` • `Clean Architecture` • `Repository Pattern` • `Offline-First` |
+## ⚡ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,figma,git,github,gradle,java&theme=dark&perline=8" />
 
 </div>
 
----
+<br>
 
-### 🛠️ Tech Universe
-
-<p align="left">
-  <b>⚡ Core Stack:</b><br/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dagger%20Hilt-7F52FF?style=flat-square&logo=dagger&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
-</p>
-
-<p align="left">
-  <b>🔄 Reactive & Async Engine:</b><br/>
-  <img src="https://img.shields.io/badge/Coroutines-333?style=flat-square&logo=kotlincoroutines&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin%20Flow-333?style=flat-square&logo=flow&logoColor=white" />
-  <img src="https://img.shields.io/badge/StateFlow%20%2F%20SharedFlow-333?style=flat-square" />
-  <img src="https://img.shields.io/badge/WorkManager-333?style=flat-square&logo=android" />
-</p>
-
-<p align="left">
-  <b>💾 Caching & Network Layer:</b><br/>
-  <img src="https://img.shields.io/badge/Room%20Database-333?style=flat-square&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Retrofit%202-333?style=flat-square" />
-  <img src="https://img.shields.io/badge/OkHttp%20Interceptors-333?style=flat-square" />
-  <img src="https://img.shields.io/badge/Firebase%20Suite-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-</p>
+<div align="center">
 
 ---
 
