@@ -69,9 +69,9 @@
 <br/>
 <table width="100%">
 <tr>
-    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/f284e497-988d-4b81-a37e-99fa54263409" width="100%" alt="Screen 1" /></td>
-    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/7ddd222b-a5d6-45a9-8840-24b5343fadb8" width="100%" alt="Screen 2" /></td>
-    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/1692f15c-9af5-4969-a710-3d86a33dcf28" width="100%" alt="Screen 3" /></td>
+    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/f284e497-988d-4b81-a37e-99fa54263409" width="100%" alt="Screen 1 - Dashboard" /></td>
+    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/161719f3-2c63-4f0c-90c4-ec26860c5eb1" width="100%" alt="Screen 2 - Analytics" /></td>
+    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/de20a08f-04d6-4548-83fe-2a11573e7bcf" width="100%" alt="Screen 3 - Report" /></td>
   </tr>
 </table>
 </details>
