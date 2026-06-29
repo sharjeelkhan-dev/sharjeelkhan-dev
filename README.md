@@ -177,5 +177,7 @@ If you are a technical recruiter, hiring manager, or software engineer wishing t
 
 <!-- Modern Minimalist Footer Banner -->
 <div align="center">
+  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=E0C3FC,8EC5FC&height=120&section=footer" alt="Footer" />
+  
 </div>
