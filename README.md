@@ -37,9 +37,6 @@ Android Developer with 6 months of experience shipping 4+ offline-first Android 
           <img width="23%" src="https://github.com/user-attachments/assets/9e459ca4-2e4e-435b-956f-7223d0015938" />
           <img width="23%" src="https://github.com/user-attachments/assets/e5c9e6c7-5ae4-4b55-b9ec-0202e09dd382" />
           <img width="23%" src="https://github.com/user-attachments/assets/84961a13-5b77-402e-9574-e4ca0cac2ca9" />
-          <img width="23%" src="https://github.com/user-attachments/assets/b1924ce5-93a0-4134-bb35-0cda309f29c8" />
-          <img width="23%" src="https://github.com/user-attachments/assets/d3fc5289-977d-4932-8b5c-e297660e98e6" />
-          <img width="23%" src="https://github.com/user-attachments/assets/5bd638c8-0aed-4878-b905-4ac4bcee19a3" />
         </div>
       </details>
     </td>
@@ -62,12 +59,6 @@ Android Developer with 6 months of experience shipping 4+ offline-first Android 
           <img width="19%" src="https://github.com/user-attachments/assets/f284e497-988d-4b81-a37e-99fa54263409" />
           <img width="19%" src="https://github.com/user-attachments/assets/7ddd222b-a5d6-45a9-8840-24b5343fadb8" />
           <img width="19%" src="https://github.com/user-attachments/assets/1692f15c-9af5-4969-a710-3d86a33dcf28" />
-          <img width="19%" src="https://github.com/user-attachments/assets/1f86572b-e9a8-420d-a904-a4966bd59517" />
-          <img width="19%" src="https://github.com/user-attachments/assets/2b8325ed-24c7-4b11-a6ac-1d137345ec80" />
-          <img width="19%" src="https://github.com/user-attachments/assets/6615c639-e08e-4026-862b-65521b84675e" />
-          <img width="19%" src="https://github.com/user-attachments/assets/a3f722a9-51eb-4afa-8b93-9a23cd066ce4" />
-          <img width="19%" src="https://github.com/user-attachments/assets/043df7a1-4c58-46b7-9942-ce2ac76379a9" />
-          <img width="19%" src="https://github.com/user-attachments/assets/3f945c09-b99d-4573-8279-9720f4079384" />
         </div>
       </details>
     </td>
@@ -90,11 +81,6 @@ Android Developer with 6 months of experience shipping 4+ offline-first Android 
           <img width="23%" src="https://github.com/user-attachments/assets/416863fc-2ced-4f86-a67d-e609dd20c977" />
           <img width="23%" src="https://github.com/user-attachments/assets/f2a33d95-c60e-4216-a1ee-68591c38596f" />
           <img width="23%" src="https://github.com/user-attachments/assets/47c6f3a2-b206-436e-9a3a-6bd300070cee" />
-          <img width="23%" src="https://github.com/user-attachments/assets/c2c89628-75d5-40cf-b5ba-979da8352e9a" />
-          <img width="23%" src="https://github.com/user-attachments/assets/2a4174da-836e-4929-9568-17100df3acc2" />
-          <img width="23%" src="https://github.com/user-attachments/assets/e8202179-2b77-44b9-9305-ffb707a8f199" />
-          <img width="23%" src="https://github.com/user-attachments/assets/e7a1e55b-42b3-40c5-b87b-e202e126915d" />
-          <img width="23%" src="https://github.com/user-attachments/assets/944432b7-09f3-46a6-93b3-7780f4496923" />
         </div>
       </details>
     </td>
@@ -103,7 +89,7 @@ Android Developer with 6 months of experience shipping 4+ offline-first Android 
   <!-- Project 4: Whatsapp Status Saver -->
   <tr>
     <td valign="top">
-      <h4>📥 WhatsApp Status Saver 🌐 Public</h4>
+      <h4>📥 WhatsApp Status Saver 🔒 Private</h4>
       <p>Clean, local file storage architecture designed to pull, cache, and schedule media assets instantly.</p>
       <ul>
         <li><b>Reactive State:</b> Fluid UI adjustments driven completely via async Kotlin Coroutines lifecycle pipelines.</li>
@@ -117,9 +103,6 @@ Android Developer with 6 months of experience shipping 4+ offline-first Android 
           <img width="23%" src="https://github.com/user-attachments/assets/95cc13eb-59b7-4e6e-a647-638b0e217404" />
           <img width="23%" src="https://github.com/user-attachments/assets/3eddf1e8-8221-47aa-b360-139a9642cce9" />
           <img width="23%" src="https://github.com/user-attachments/assets/7c9be296-563f-48b3-a523-671445fd77a3" />
-          <img width="23%" src="https://github.com/user-attachments/assets/efd71ee9-6054-4944-9813-ca165be1f5b5" />
-          <img width="23%" src="https://github.com/user-attachments/assets/96f592b1-11e4-4e1b-b560-0a29c72f1aa3" />
-          <img width="23%" src="https://github.com/user-attachments/assets/47a64b24-fc1d-4e0b-9c51-80190ad1f6d3" />
         </div>
       </details>
     </td>
@@ -143,12 +126,6 @@ Android Developer with 6 months of experience shipping 4+ offline-first Android 
           <img width="19%" src="https://github.com/user-attachments/assets/a6780bb8-dcd1-4f97-a486-f68f0adfc10c" />
           <img width="19%" src="https://github.com/user-attachments/assets/e52bf06c-89dd-4a75-ba8e-68b4505802eb" />
           <img width="19%" src="https://github.com/user-attachments/assets/2558837f-c370-4a0b-8c23-8357cd12ea28" />
-          <img width="19%" src="https://github.com/user-attachments/assets/0184296a-007b-4040-9b6f-e9e0786c95a8" />
-          <img width="19%" src="https://github.com/user-attachments/assets/86885a65-c24f-4906-8dbd-135dc7fe31f5" />
-          <img width="19%" src="https://github.com/user-attachments/assets/443d3b4a-00cf-4542-9754-759d1b972fcd" />
-          <img width="19%" src="https://github.com/user-attachments/assets/bf897bbe-7072-458d-b3cd-062824839ff6" />
-          <img width="19%" src="https://github.com/user-attachments/assets/e84d3437-9b78-435c-acbf-09af1c5f4904" />
-          <img width="19%" src="https://github.com/user-attachments/assets/e187ed0d-b9ef-4172-aaa9-4dfb8a993414" />
         </div>
       </details>
     </td>
