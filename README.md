@@ -167,14 +167,6 @@
 
 ---
 
-## 💼 Recruiter Code Review Access
-If you are a technical recruiter, hiring manager, or software engineer wishing to conduct a comprehensive code review of any project's architecture (Hilt/Dagger DI modules, Clean Architecture boundaries, or custom networking interceptors), please feel free to request access:
-
-1. Contact me via [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharjeelkhan-dev) or [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sharjeelkhan454647@gmail.com).
-2. Provide your GitHub username, and I will temporarily add you as a **Viewer/Collaborator** to the specific private repository.
-
----
-
 ## 📋 Prerequisites
 * Android Studio Ladybug (or newer)
 * JDK 17+
@@ -187,6 +179,14 @@ If you are a technical recruiter, hiring manager, or software engineer wishing t
 * I prefer deep logical reasoning and structured problem-solving
 * I structure my code meticulously to achieve flawless performance
 * I ensure absolute accuracy and clean architecture in everything I ship
+
+---
+
+## 💼 Recruiter Code Review Access
+If you are a technical recruiter, hiring manager, or software engineer wishing to conduct a comprehensive code review of any project's architecture (Hilt/Dagger DI modules, Clean Architecture boundaries, or custom networking interceptors), please feel free to request access:
+
+1. Contact me via [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharjeelkhan-dev) or [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sharjeelkhan454647@gmail.com).
+2. Provide your GitHub username, and I will temporarily add you as a **Viewer/Collaborator** to the specific private repository.
 
 ---
 
