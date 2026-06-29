@@ -96,9 +96,9 @@
 <br/>
 <table width="100%">
   <tr>
-    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/416863fc-2ced-4f86-a67d-e609dd20c977" width="100%" alt="Screen 1" /></td>
-    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/f2a33d95-c60e-4216-a1ee-68591c38596f" width="100%" alt="Screen 2" /></td>
-    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/47c6f3a2-b206-436e-9a3a-6bd300070cee" width="100%" alt="Screen 3" /></td>
+    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/416863fc-2ced-4f86-a67d-e609dd20c977" width="100%" alt="Screen 1 - Player Overview" /></td>
+    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/1dda61b5-91b0-4c27-ad77-5db84ca3f911" width="100%" alt="Screen 2 - Music Library" /></td>
+    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/18aad66f-7824-420b-8fa8-2aa79ad6da08" width="100%" alt="Screen 3 - Dynamic UI" /></td>
   </tr>
 </table>
 </details>
