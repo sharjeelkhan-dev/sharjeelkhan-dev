@@ -16,6 +16,61 @@ Android Developer with 6 months of experience shipping 4+ offline-first Android 
 
 ---
 
+### 🚀 Featured Projects
+
+<table width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <h4>🎵 MusicStream</h4>
+      <p>High-performance music streaming app featuring dual playback engines and offline-first data caching.</p>
+      <ul>
+        <li>Optimized audio handling with <code>Media3 / ExoPlayer</code>.</li>
+        <li>Dynamic theme expansion using Material Design 3.</li>
+        <li>Background syncing and scheduling via <code>WorkManager</code>.</li>
+      </ul>
+    </td>
+    <td width="40%" valign="middle" align="center">
+      <a href="https://github.com/sharjeelkhan-dev/MusicStream">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sharjeelkhan-dev&repo=MusicStream&theme=github_dark&hide_border=true&bg_color=0d1117" alt="MusicStream" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="60%" valign="top">
+      <h4>📊 Student Attendance & Analytics</h4>
+      <p>Academic tracking application implementing offline-first architecture with biometric verification.</p>
+      <ul>
+        <li>Secure local user verification using <code>Biometric API</code>.</li>
+        <li>Real-time database sync via <code>Firebase Firestore</code>.</li>
+        <li>Relational storage optimization using Room/SQLite.</li>
+      </ul>
+    </td>
+    <td width="40%" valign="middle" align="center">
+      <a href="https://github.com/sharjeelkhan-dev/Student-Attendance-Analytics">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sharjeelkhan-dev&repo=Student-Attendance-Analytics&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Attendance App" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="60%" valign="top">
+      <h4>🧠 Smart To-Do List (AI-Powered)</h4>
+      <p>Task prioritizing tool utilizing Generative AI for processing natural language scheduling.</p>
+      <ul>
+        <li>Context parsing commands via <code>Google Gemini API</code> integration.</li>
+        <li>Localized file backup & restore mechanisms via <code>DataStore</code>.</li>
+        <li>Dependency injection lifecycle handling with Dagger Hilt.</li>
+      </ul>
+    </td>
+    <td width="40%" valign="middle" align="center">
+      <a href="https://github.com/sharjeelkhan-dev/Smart-ToDo">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sharjeelkhan-dev&repo=Smart-ToDo&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Smart To-Do" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 📈 GitHub Stats
 
 <div align="center">
@@ -45,13 +100,5 @@ Android Developer with 6 months of experience shipping 4+ offline-first Android 
 </div>
 
 ---
-
----
-
----
-
-<div align="center">
-
-</div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=100&section=footer)
