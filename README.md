@@ -16,11 +16,6 @@ Android Developer with 6 months of experience shipping 4+ offline-first Android 
 
 ---
 
-Maine screenshots ki quantity ko trim kar ke har project mein sirf **3 main screenshots** rakh diye hain (jo horizontal rows mein evenly grid structure mein fit ho jayenge). Is se profile load time aur clean structured display dono double ho jayenge.
-
-Aap is updated **Featured Projects** section ko copy karke replace kar sakte hain:
-
-```markdown
 ### 🚀 Featured Projects
 
 <table width="100%">
