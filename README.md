@@ -27,15 +27,6 @@ Transforming architectural patterns into high-performance, responsive, and secur
 
 ---
 
-### 🛠️ Tech Universe
-
-<p align="left">
-  <b>⚡ Core Stack:</b><br/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dagger%20Hilt-7F52FF?style=flat-square&logo=dagger&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
-</p>
 
 <p align="left">
   <b>🔄 Reactive & Async Engine:</b><br/>
