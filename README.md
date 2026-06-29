@@ -99,7 +99,7 @@
     <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/416863fc-2ced-4f86-a67d-e609dd20c977" width="100%" alt="Screen 1 - Player Overview" /></td>
     <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/1dda61b5-91b0-4c27-ad77-5db84ca3f911" width="100%" alt="Screen 2 - Music Library" /></td>
     <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/18aad66f-7824-420b-8fa8-2aa79ad6da08" width="100%" alt="Screen 3 - Dynamic UI" /></td>
-  </tr>
+</tr>
 </table>
 </details>
 
@@ -149,11 +149,11 @@
 <summary><b>✨ View Interface Design (Click to Expand)</b></summary>
 <br/>
 <table width="100%">
-  <tr>
-    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/bd6996e3-4ae5-4e36-a3fe-7e66cebf2995" width="100%" alt="Screen 1" /></td>
-    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/a6780bb8-dcd1-4f97-a486-f68f0adfc10c" width="100%" alt="Screen 2" /></td>
-    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/e52bf06c-89dd-4a75-ba8e-68b4505802eb" width="100%" alt="Screen 3" /></td>
-  </tr>
+ <tr>
+    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/bd6996e3-4ae5-4e36-a3fe-7e66cebf2995" width="100%" alt="Screen 1 - File Explorer Overview" /></td>
+    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/29199c01-27a1-4b32-8a3a-4a70c5c477e2" width="100%" alt="Screen 2 - Document Rendering Engine" /></td>
+    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/660d8824-b15b-4539-a5a5-2e92aed48af5" width="100%" alt="Screen 3 - Immersive Layout" /></td>
+</tr>
 </table>
 </details>
 
