@@ -1,5 +1,6 @@
 <!-- Modern Minimalist Header Banner -->
 <p align="center">
+  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=E0C3FC,8EC5FC&height=220&section=header&text=Sharjeel%20Khan&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Android%20Developer%20%7C%20Kotlin%20%7C%20Jetpack%20Compose%20%7C%20Firebase%20%7C%20MVVM%20%7C%20Clean%20Architecture&descAlignY=55&descAlign=50&descSize=18" alt="Sharjeel Khan" />
 </p>
 
@@ -8,7 +9,7 @@
 ### 👋 Welcome to my Workspace
 *I turn complex logic into seamless, scalable, and highly responsive native Android experiences.*
 
-<a href="https://linkedin.com/in/sharjeelkhan-dev" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="40" height="40" alt="LinkedIn" style="margin-right: 10px;" /></a>     <a href="mailto:sharjeelkhan454647@gmail.com"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Light.svg" width="40" height="40" alt="Email" /></a>
+<a href="https://linkedin.com/in/sharjeelkhan-dev" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="40" height="40" alt="LinkedIn" style="margin-right: 10px;" /></a>      <a href="mailto:sharjeelkhan454647@gmail.com"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Light.svg" width="40" height="40" alt="Email" /></a>
 
 </div>
 
@@ -34,18 +35,17 @@
 | ⚡ **AI Parsing Engine** | Integrated `Google Gemini 3.5 Flash` for processing natural language scheduling logic. |
 | 🎯 **Smart Prioritization** | Context-aware automated scheduling scoring algorithms (0-100 analytics). |
 | 💾 **Data Durability** | Offline-first sync with Room and real-time cloud data push over `Firebase Firestore`. |
+| 🎨 **Asset Attribution** | Visual vectors and system interface iconography sourced via [Uxwing](https://uxwing.com/). |
 
 <details>
 <summary><b>✨ View Interface Design (Click to Expand)</b></summary>
 <br/>
 <table width="100%">
- <table>
  <tr>
    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/0687323d-7c9c-42cd-adef-e3a5af4370b3" width="100%" alt="Screen 1 (Chat)" /></td>
    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/88d00193-695e-4713-b450-014b26e70ca4" width="100%" alt="Screen 2 (Settings)" /></td>
    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/8c816a1b-0fa2-40d0-bf6c-4bcee829c79b" width="100%" alt="Screen 3 (Profile)" /></td>
  </tr>
-</table>
 </table>
 </details>
 
@@ -63,6 +63,7 @@
 | 🔐 **Local Verification** | Biometric device access management implemented using the Android `Biometric API`. |
 | 🚀 **Reactive Caching** | Relational local optimization using Room/SQLite with reactive `Kotlin Flow` streams. |
 | ☁️ **Data Integrity** | Managed automatic fallback cloud push syncing data over `Firebase NoSQL Architecture`. |
+| 🎨 **Asset Attribution** | Analytics metrics and dashboard iconography components curated from [Uxwing](https://uxwing.com/). |
 
 <details>
 <summary><b>✨ View Interface Design (Click to Expand)</b></summary>
@@ -90,6 +91,7 @@
 | 🎧 **Playback Pipeline** | Advanced background foreground media bindings utilizing modern `Android Media3 (ExoPlayer)`. |
 | 🎨 **Dynamic Canvas** | Real-time system UI adjustments generated using the Android `Palette API` on dynamic image assets. |
 | 🌐 **Network Interceptors** | Custom proxy rotations handling custom okhttp interceptors to preserve consistent uptime. |
+| 🎨 **Asset Attribution** | Media controls and navigation vector assets integrated from [Uxwing](https://uxwing.com/). |
 
 <details>
 <summary><b>✨ View Interface Design (Click to Expand)</b></summary>
@@ -117,6 +119,7 @@
 | 🔄 **Reactive State** | Fluid UI adjustments driven completely via async Kotlin Coroutines lifecycle pipelines. |
 | 💎 **Material Design** | Beautiful glassmorphic themes natively processed using declarative `Jetpack Compose` elements. |
 | ⏰ **Automated Triggers** | Custom scheduling features processing notifications safely via system clock integrations. |
+| 🎨 **Asset Attribution** | Media action elements and download utility vectors optimized from [Uxwing](https://uxwing.com/). |
 
 <details>
 <summary><b>✨ View Interface Design (Click to Expand)</b></summary>
@@ -144,6 +147,7 @@
 | 🛡️ **Secure Vault** | Isolated filesystem processing encrypted structures and hidden states behind local system decoders. |
 | 📄 **Multi-Format Engine** | Responsive native rendering pipelines managing complex extensions (PDF, JSON, XML, Office Docs). |
 | 📱 **UI Composition** | Completely immersive edge-to-edge layout design using robust Jetpack Compose lifecycle rules. |
+| 🎨 **Asset Attribution** | Multi-extension file types and secure directories graphics engineered via [Uxwing](https://uxwing.com/). |
 
 <details>
 <summary><b>✨ View Interface Design (Click to Expand)</b></summary>
