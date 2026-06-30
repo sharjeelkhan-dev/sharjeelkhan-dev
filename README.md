@@ -1,29 +1,33 @@
-<!-- Minimalist Clean Header -->
-<div align="center">
-  <h1>Sharjeel Khan</h1>
-  <p><b>Android Developer</b> • Kotlin • Jetpack Compose • MVVM • Clean Architecture</p>
-  
-  <p align="center">
-    <a href="https://linkedin.com/in/sharjeelkhan-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:sharjeelkhan454647@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-  </p>
+<!-- Optimized Responsive Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=E0C3FC,8EC5FC&height=220&section=header&text=Sharjeel%20Khan&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=40" alt="Sharjeel Khan" />
+</p>
 
-  ---
-  
-  <p align="center">
-    <i>"I turn complex logic into seamless, scalable, and highly responsive native Android experiences."</i>
-  </p>
+<div align="center">
+
+### 👋 Welcome to my Workspace
+*I turn complex logic into seamless, scalable, and highly responsive native Android experiences.*
+
+<p align="center">
+  <a href="https://linkedin.com/in/sharjeelkhan-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:sharjeelkhan454647@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
 </div>
 
-<br/>
+---
 
 ## ⚡ Core Expertise
 
-* **Languages & Core:** Kotlin, Java, Data Structures & Algorithms (DSA)
-* **UI Frameworks:** Jetpack Compose, Material Design 3, Dynamic Theming (Palette API)
-* **Architecture & Async:** MVVM, Clean Architecture, Repository Pattern, Kotlin Coroutines & Flow
-* **Data Management:** Room Database (Offline-First Syncing), DataStore, Firebase Firestore / NoSQL
-* **Tools & Engines:** Android Studio, Media3 (ExoPlayer), Biometric API, Git/GitHub, Gradle
+<div align="center" style="margin-bottom: 20px;">
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,figma,git,github,gradle,java&theme=dark&perline=8" alt="Tech Stack Grid" />
+</div>
+
+* **🚀 Core & Architecture:** Kotlin, Java, MVVM, Clean Architecture, Repository Pattern
+* **🎨 UI & Design Frameworks:** Jetpack Compose (Declarative UI), Material Design 3, Palette API (Dynamic Theming)
+* **⚡ Concurrency & Streams:** Kotlin Coroutines, Asynchronous Flows, StateFlow/SharedFlow pipelines
+* **💾 Data Management:** Room SQLite Database (Offline-First Design), DataStore, Firebase Firestore / NoSQL
+* **🛠️ Media & Security Integration:** Android Media3 (ExoPlayer), Android Biometric API, Custom OkHttp Interceptors
 
 ---
 
@@ -161,3 +165,10 @@ If you are a technical recruiter, hiring manager, or software engineer wishing t
 
 1. Contact me via [LinkedIn](https://www.linkedin.com/in/sharjeelkhan-dev) or [Email](mailto:sharjeelkhan454647@gmail.com).
 2. Provide your GitHub username, and I will temporarily add you as a **Viewer/Collaborator** to the specific private repository.
+
+---
+
+<!-- Modern Minimalist Footer Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=E0C3FC,8EC5FC&height=120&section=footer" alt="Footer" />
+</div>
