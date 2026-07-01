@@ -15,10 +15,6 @@
 
 ---
 
----
-
----
-
 ## ⚡ Tech Stack & Core Competencies
 
 A modular breakdown of languages, frameworks, and tools engineered to build high-performance mobile architectures:
