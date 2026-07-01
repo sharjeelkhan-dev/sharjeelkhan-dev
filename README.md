@@ -15,11 +15,52 @@
 
 ---
 
-## ⚡ Tech Stack
+---
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,figma,git,github,gradle,java&theme=dark&perline=8" />
-</div>
+## ⚡ Tech Stack & Core Competencies
+
+<br/>
+
+<table align="center" width="100%" style="border-collapse: collapse; border: none;">
+  <!-- Row 1: Core Development -->
+  <tr style="border: none;">
+    <td align="left" width="30%" style="border: none; padding: 10px; font-size: 16px;">
+      <b>🚀 Core & Languages</b>
+    </td>
+    <td align="left" width="70%" style="border: none; padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=kotlin,java" alt="Languages" />
+    </td>
+  </tr>
+  <!-- Row 2: IDE & Build Tools -->
+  <tr style="border: none;">
+    <td align="left" width="30%" style="border: none; padding: 10px; font-size: 16px;">
+      <b>🛠️ IDE & Engineering</b>
+    </td>
+    <td align="left" width="70%" style="border: none; padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=androidstudio,gradle" alt="Tools" />
+    </td>
+  </tr>
+  <!-- Row 3: Cloud & Version Control -->
+  <tr style="border: none;">
+    <td align="left" width="30%" style="border: none; padding: 10px; font-size: 16px;">
+      <b>☁️ Backend & DevOps</b>
+    </td>
+    <td align="left" width="70%" style="border: none; padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=firebase,git,github" alt="Backend and Git" />
+    </td>
+  </tr>
+  <!-- Row 4: UI/UX Design -->
+  <tr style="border: none;">
+    <td align="left" width="30%" style="border: none; padding: 10px; font-size: 16px;">
+      <b>🎨 Design Architecture</b>
+    </td>
+    <td align="left" width="70%" style="border: none; padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=figma" alt="Design" />
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 ---
 
