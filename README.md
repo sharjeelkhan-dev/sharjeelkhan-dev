@@ -15,18 +15,11 @@
 
 ---
 
-## ⚡ Tech Stack & Core Competencies
+## ⚡ Tech Stack
 
-A modular breakdown of languages, frameworks, and tools engineered to build high-performance mobile architectures:
-
-```text
-┌── 🚀 Core & Languages ───────────────► [ Kotlin ]  [ Java ]  [ DSA ]
-│
-├── 🛠️ IDE & Engineering ─────────────► [ Android Studio ]  [ Gradle ]
-│
-├── ☁️ Backend & Infrastructure ───────► [ Firebase ]  [ Git ]  [ GitHub ]
-│
-└── 🎨 UI/UX Design Canvas ───────────► [ Figma ]  [ Material Design 3 ]
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,figma,git,github,gradle,java&theme=dark&perline=8" />
+</div>
 
 ---
 
