@@ -17,9 +17,18 @@
 
 ## ⚡ Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,figma,git,github,gradle,java&theme=dark&perline=8" />
-</div>
+<table>
+  <tr>
+    <td align="left" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,gradle&theme=dark" alt="Core Development Stack" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left" style="border: none; padding-top: 10px;">
+      <img src="https://skillicons.dev/icons?i=firebase,git,github,figma&theme=dark" alt="Infrastructure & Design Stack" />
+    </td>
+  </tr>
+</table>
 
 ---
 
