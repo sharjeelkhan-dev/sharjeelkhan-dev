@@ -92,6 +92,8 @@
 </table>
 </details>
 
+<hr/>
+<br/>
 <br/>
 
 ### 🧑🏼‍🎓 Student Attendance & Analytics App
