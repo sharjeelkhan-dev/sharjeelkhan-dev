@@ -68,7 +68,7 @@
 
 ## ⇛ Featured Projects
 
-### 🤖 Smart Todo App
+### 🧠 Smart Todo App
 ![Status](https://img.shields.io/badge/Private_Code-181717?style=for-the-badge&logo=github&logoColor=white) ![AI](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) ![Cloud](https://img.shields.io/badge/Firebase_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 > Intelligent task prioritization manager featuring deep Generative AI commands and modern security standards.
@@ -96,7 +96,7 @@
 <hr/>
 <br/>
 
-### 📊 Student Attendance & Analytics App
+### 🧑🏼‍🎓 Student Attendance & Analytics App
 ![Status](https://img.shields.io/badge/Private_Code-181717?style=for-the-badge&logo=github&logoColor=white) ![Security](https://img.shields.io/badge/Biometric_API-3DDC84?style=for-the-badge&logo=android&logoColor=black) ![Database](https://img.shields.io/badge/Room_SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 > High-performance academic tracking system engineered using offline-first architectures and enterprise data patterns.
@@ -124,7 +124,7 @@
 <hr/>
 <br/>
 
-### 🎵 MusicStream App
+### 🎧 MusicStream App
 ![Status](https://img.shields.io/badge/Private_Code-181717?style=for-the-badge&logo=github&logoColor=white) ![Media](https://img.shields.io/badge/Media3_ExoPlayer-E64A19?style=for-the-badge&logo=youtube&logoColor=white) ![Network](https://img.shields.io/badge/OkHttp_Network-4CAF50?style=for-the-badge&logo=android&logoColor=white)
 
 > High-performance media streaming platform supporting dual extraction pipelines and custom hardware acceleration profiles.
@@ -152,7 +152,7 @@
 <hr/>
 <br/>
 
-### 📥 WhatsApp Status Saver App
+### ⏬ WhatsApp Status Saver App
 ![Status](https://img.shields.io/badge/Private_Code-181717?style=for-the-badge&logo=github&logoColor=white) ![UI](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white) ![Async](https://img.shields.io/badge/Kotlin_Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 > Clean, local file storage architecture designed to pull, cache, and schedule media assets instantly.
