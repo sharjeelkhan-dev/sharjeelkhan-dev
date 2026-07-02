@@ -1,7 +1,7 @@
 <!-- Modern Minimalist Header Banner -->
 <p align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=E0C3FC,8EC5FC&height=220&section=header&text=Sharjeel%20Khan&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Android%20Developer%20%7C%20Kotlin%20%7C%20Jetpack%20Compose%20%7C%20Firebase%20%7C%20MVVM%20%7C%20Clean%20Architecture&descAlignY=55&descAlign=50&descSize=18" alt="Sharjeel Khan" />
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=E0C3FC,8EC5FC&height=220&section=header&text=Sharjeel%20Khan&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Android%20Developer%20%7C%20Kotlin%20%7C%20Jetpack%20Compose%20%7C%20Firebase%20%7C%20MVVM%20%7C%20Clean%20Architecture&descAlignY=55&descAlign=50&descSize=18" alt="Sharjeel Khan" />
 </p>
 
 <div align="center">
@@ -9,7 +9,7 @@
 ### 👋 Welcome to my Workspace
 *I turn complex logic into seamless, scalable, and highly responsive native Android experiences.*
 
-<a href="https://linkedin.com/in/sharjeelkhan-dev" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="40" height="40" alt="LinkedIn" style="margin-right: 10px;" /></a>      <a href="mailto:sharjeelkhan454647@gmail.com"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Light.svg" width="40" height="40" alt="Email" /></a>
+<a href="https://linkedin.com/in/sharjeelkhan-dev" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="40" height="40" alt="LinkedIn" style="margin-right: 10px;" /></a>      <a href="mailto:sharjeelkhan454647@gmail.com"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Light.svg" width="40" height="40" alt="Email" /></a>
 
 </div>
 
@@ -17,56 +17,47 @@
 
 ## ⇛ Tech Stack
 
-<!-- Row 1: Core Languages -->
-<table border="0" style="border-collapse: collapse; border: none; width: 100%; margin-bottom: 0px;">
-  <tr style="border: none; background: transparent;">
-    <td align="left" width="15%" style="border: none; vertical-align: middle; padding: 12px 0;">
+<table border="0" style="border-collapse: collapse; border: none; width: 100%;">
+  <!-- Row 1: Core Languages -->
+  <tr style="border: none;">
+    <td align="left" width="15%" style="border: none; valign: middle; padding: 12px 0;">
       <img src="https://skillicons.dev/icons?i=kotlin" width="40" height="40" alt="Kotlin" />
       <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" style="margin-left: 4px;" />
     </td>
-    <td align="left" width="85%" style="border: none; vertical-align: middle; padding: 12px 15px;">
+    <td align="left" width="85%" style="border: none; valign: middle; padding: 12px 15px;">
       <b>Core Development & Logic</b><br/>
       <font size="2" color="#8b949e">Asynchronous reactive programming engineered with Kotlin Coroutines, Kotlin Flow, and clean thread scheduling.</font>
     </td>
   </tr>
-</table>
-
-<!-- Row 2: IDE & Engineering -->
-<table border="0" style="border-collapse: collapse; border: none; width: 100%; margin-top: 0px; margin-bottom: 0px;">
-  <tr style="border: none; background: transparent;">
-    <td align="left" width="15%" style="border: none; vertical-align: middle; padding: 12px 0;">
+  <!-- Row 2: IDE & Engineering -->
+  <tr style="border: none;">
+    <td align="left" width="15%" style="border: none; valign: middle; padding: 12px 0;">
       <img src="https://skillicons.dev/icons?i=androidstudio" width="40" height="40" alt="Android Studio" />
       <img src="https://skillicons.dev/icons?i=gradle" width="40" height="40" alt="Gradle" style="margin-left: 4px;" />
     </td>
-    <td align="left" width="85%" style="border: none; vertical-align: middle; padding: 12px 15px;">
+    <td align="left" width="85%" style="border: none; valign: middle; padding: 12px 15px;">
       <b>IDE & Build Automation</b><br/>
       <font size="2" color="#8b949e">Native development in Android Studio, multi-variant compilation management, and optimized Gradle build scripting.</font>
     </td>
   </tr>
-</table>
-
-<!-- Row 3: Infrastructure & Storage -->
-<table border="0" style="border-collapse: collapse; border: none; width: 100%; margin-top: 0px; margin-bottom: 0px;">
-  <tr style="border: none; background: transparent;">
-    <td align="left" width="15%" style="border: none; vertical-align: middle; padding: 12px 0;">
+  <!-- Row 3: Infrastructure & Storage -->
+  <tr style="border: none;">
+    <td align="left" width="15%" style="border: none; valign: middle; padding: 12px 0;">
       <img src="https://skillicons.dev/icons?i=firebase" width="40" height="40" alt="Firebase" />
       <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" style="margin-left: 4px;" />
       <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" style="margin-left: 4px;" />
     </td>
-    <td align="left" width="85%" style="border: none; vertical-align: middle; padding: 12px 15px;">
+    <td align="left" width="85%" style="border: none; valign: middle; padding: 12px 15px;">
       <b>Cloud Infrastructure & DevOps</b><br/>
       <font size="2" color="#8b949e">Real-time data caching, Firestore cloud synchronization pipelines, and structured Git workflow architectures.</font>
     </td>
   </tr>
-</table>
-
-<!-- Row 4: UI/UX Design -->
-<table border="0" style="border-collapse: collapse; border: none; width: 100%; margin-top: 0px;">
-  <tr style="border: none; background: transparent;">
-    <td align="left" width="15%" style="border: none; vertical-align: middle; padding: 12px 0;">
+  <!-- Row 4: UI/UX Design -->
+  <tr style="border: none;">
+    <td align="left" width="15%" style="border: none; valign: middle; padding: 12px 0;">
       <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma" />
     </td>
-    <td align="left" width="85%" style="border: none; vertical-align: middle; padding: 12px 15px;">
+    <td align="left" width="85%" style="border: none; valign: middle; padding: 12px 15px;">
       <b>Material Design & UI Canvas</b><br/>
       <font size="2" color="#8b949e">Translating Figma designs into pixel-perfect, declarative layouts using modern Jetpack Compose and Material 3.</font>
     </td>
@@ -93,11 +84,11 @@
 <summary><b>✨ View Interface Design (Click to Expand)</b></summary>
 <br/>
 <table width="100%">
- <tr>
-   <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/0687323d-7c9c-42cd-adef-e3a5af4370b3" width="100%" alt="Screen 1 (Chat)" /></td>
-   <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/88d00193-695e-4713-b450-014b26e70ca4" width="100%" alt="Screen 2 (Settings)" /></td>
-   <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/8c816a1b-0fa2-40d0-bf6c-4bcee829c79b" width="100%" alt="Screen 3 (Profile)" /></td>
- </tr>
+ <tr>
+   <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/0687323d-7c9c-42cd-adef-e3a5af4370b3" width="100%" alt="Screen 1 (Chat)" /></td>
+   <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/88d00193-695e-4713-b450-014b26e70ca4" width="100%" alt="Screen 2 (Settings)" /></td>
+   <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/8c816a1b-0fa2-40d0-bf6c-4bcee829c79b" width="100%" alt="Screen 3 (Profile)" /></td>
+ </tr>
 </table>
 </details>
 
@@ -122,10 +113,10 @@
 <br/>
 <table width="100%">
 <tr>
-    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/f284e497-988d-4b81-a37e-99fa54263409" width="100%" alt="Screen 1 - Dashboard" /></td>
-    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/161719f3-2c63-4f0c-90c4-ec26860c5eb1" width="100%" alt="Screen 2 - Analytics" /></td>
-    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/a01a4f8a-693b-44ef-95e0-b8493b784875" width="100%" alt="Screen 3 - Report" /></td>
-  </tr>
+    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/f284e497-988d-4b81-a37e-99fa54263409" width="100%" alt="Screen 1 - Dashboard" /></td>
+    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/161719f3-2c63-4f0c-90c4-ec26860c5eb1" width="100%" alt="Screen 2 - Analytics" /></td>
+    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/a01a4f8a-693b-44ef-95e0-b8493b784875" width="100%" alt="Screen 3 - Report" /></td>
+  </tr>
 </table>
 </details>
 
@@ -149,10 +140,10 @@
 <summary><b>✨ View Interface Design (Click to Expand)</b></summary>
 <br/>
 <table width="100%">
-  <tr>
-    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/416863fc-2ced-4f86-a67d-e609dd20c977" width="100%" alt="Screen 1 - Player Overview" /></td>
-    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/1dda61b5-91b0-4c27-ad77-5db84ca3f911" width="100%" alt="Screen 2 - Music Library" /></td>
-    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/18aad66f-7824-420b-8fa8-2aa79ad6da08" width="100%" alt="Screen 3 - Dynamic UI" /></td>
+  <tr>
+    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/416863fc-2ced-4f86-a67d-e609dd20c977" width="100%" alt="Screen 1 - Player Overview" /></td>
+    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/1dda61b5-91b0-4c27-ad77-5db84ca3f911" width="100%" alt="Screen 2 - Music Library" /></td>
+    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/18aad66f-7824-420b-8fa8-2aa79ad6da08" width="100%" alt="Screen 3 - Dynamic UI" /></td>
 </tr>
 </table>
 </details>
@@ -177,11 +168,11 @@
 <summary><b>✨ View Interface Design (Click to Expand)</b></summary>
 <br/>
 <table width="100%">
-  <tr>
-    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/95cc13eb-59b7-4e6e-a647-638b0e217404" width="100%" alt="Screen 1" /></td>
-    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/3eddf1e8-8221-47aa-b360-139a9642cce9" width="100%" alt="Screen 2" /></td>
-    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/7c9be296-563f-48b3-a523-671445fd77a3" width="100%" alt="Screen 3" /></td>
-  </tr>
+  <tr>
+    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/95cc13eb-59b7-4e6e-a647-638b0e217404" width="100%" alt="Screen 1" /></td>
+    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/3eddf1e8-8221-47aa-b360-139a9642cce9" width="100%" alt="Screen 2" /></td>
+    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/7c9be296-563f-48b3-a523-671445fd77a3" width="100%" alt="Screen 3" /></td>
+  </tr>
 </table>
 </details>
 
@@ -205,10 +196,10 @@
 <summary><b>✨ View Interface Design (Click to Expand)</b></summary>
 <br/>
 <table width="100%">
- <tr>
-    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/bd6996e3-4ae5-4e36-a3fe-7e66cebf2995" width="100%" alt="Screen 1 - File Explorer Overview" /></td>
-    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/29199c01-27a1-4b32-8a3a-4a70c5c477e2" width="100%" alt="Screen 2 - Document Rendering Engine" /></td>
-    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/660d8824-b15b-4539-a5a5-2e92aed48af5" width="100%" alt="Screen 3 - Immersive Layout" /></td>
+ <tr>
+    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/bd6996e3-4ae5-4e36-a3fe-7e66cebf2995" width="100%" alt="Screen 1 - File Explorer Overview" /></td>
+    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/29199c01-27a1-4b32-8a3a-4a70c5c477e2" width="100%" alt="Screen 2 - Document Rendering Engine" /></td>
+    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/660d8824-b15b-4539-a5a5-2e92aed48af5" width="100%" alt="Screen 3 - Immersive Layout" /></td>
 </tr>
 </table>
 </details>
@@ -218,7 +209,7 @@
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sharjeelkhan-dev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=00D4FF&point=FFFFFF&area=true&area_color=6C63FF" alt="Activity Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sharjeelkhan-dev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=00D4FF&point=FFFFFF&area=true&area_color=6C63FF" alt="Activity Graph" />
 </div>
 
 ---
@@ -248,5 +239,5 @@ If you are a technical recruiter, hiring manager, or software engineer wishing t
 
 <!-- Modern Minimalist Footer Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=E0C3FC,8EC5FC&height=120&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=E0C3FC,8EC5FC&height=120&section=footer" alt="Footer" />
 </div>
