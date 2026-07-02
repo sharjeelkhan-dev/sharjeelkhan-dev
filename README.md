@@ -86,7 +86,7 @@
 <br/>
 <table width="100%">
  <tr>
-  <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/75a75d44-da17-43b4-ac2a-79c22894c77f" width="100%" alt="Screen 1 (Splash)" /></td>
+   <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/1108fa2e-42b6-401c-bc5d-db2aa72c22f6" width="100%" alt="Screen 1 (Splash)" /></td>
    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/88d00193-695e-4713-b450-014b26e70ca4" width="100%" alt="Screen 2 (Home)" /></td>
    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/8c816a1b-0fa2-40d0-bf6c-4bcee829c79b" width="100%" alt="Screen 3 (Edit)" /></td>
  </tr>
