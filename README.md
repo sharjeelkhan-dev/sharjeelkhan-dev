@@ -91,7 +91,6 @@
  </tr>
 </table>
 </details>
-
 <hr/>
 <br/>
 
@@ -118,8 +117,6 @@
   </tr>
 </table>
 </details>
-
-<br/>
 <hr/>
 <br/>
 
@@ -147,7 +144,6 @@
 </table>
 </details>
 
-<br/>
 <hr/>
 <br/>
 
@@ -175,7 +171,6 @@
 </table>
 </details>
 
-<br/>
 <hr/>
 <br/>
 
