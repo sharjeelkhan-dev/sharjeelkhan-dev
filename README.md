@@ -66,7 +66,6 @@
 
 
 ---
-<br/>
 
 ## ⇛ Featured Projects
 
@@ -94,7 +93,6 @@
 </table>
 </details>
 <hr/>
-<br/>
 
 ### 🧑🏼‍🎓 Student Attendance & Analytics App
 ![Status](https://img.shields.io/badge/Private_Code-181717?style=for-the-badge&logo=github&logoColor=white) ![Security](https://img.shields.io/badge/Biometric_API-3DDC84?style=for-the-badge&logo=android&logoColor=black) ![Database](https://img.shields.io/badge/Room_SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -120,7 +118,6 @@
 </table>
 </details>
 <hr/>
-<br/>
 
 ### 🎧 MusicStream App
 ![Status](https://img.shields.io/badge/Private_Code-181717?style=for-the-badge&logo=github&logoColor=white) ![Media](https://img.shields.io/badge/Media3_ExoPlayer-E64A19?style=for-the-badge&logo=youtube&logoColor=white) ![Network](https://img.shields.io/badge/OkHttp_Network-4CAF50?style=for-the-badge&logo=android&logoColor=white)
@@ -145,9 +142,7 @@
 </tr>
 </table>
 </details>
-
 <hr/>
-<br/>
 
 ### ⏬ WhatsApp Status Saver App
 ![Status](https://img.shields.io/badge/Private_Code-181717?style=for-the-badge&logo=github&logoColor=white) ![UI](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white) ![Async](https://img.shields.io/badge/Kotlin_Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -172,9 +167,7 @@
   </tr>
 </table>
 </details>
-
 <hr/>
-<br/>
 
 ### 📂 File Viewer App
 ![Status](https://img.shields.io/badge/Private_Code-181717?style=for-the-badge&logo=github&logoColor=white) ![Security](https://img.shields.io/badge/Encrypted_Vault-607D8B?style=for-the-badge&logo=android&logoColor=white) ![Core](https://img.shields.io/badge/Multi_Threaded-FF5722?style=for-the-badge&logo=cplusplus&logoColor=white)
