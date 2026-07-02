@@ -75,9 +75,9 @@
 
 | Subsystem | Technical Execution Architecture |
 | :--- | :--- |
-| ⚡ **AI Parsing Engine** | Integrated `Google Gemini 3.5 Flash` for processing natural language scheduling logic. |
+| ⚡ **AI Parsing Engine** | Integrated "Google Gemini 3.5 Flash" for processing natural language scheduling logic. |
 | 🎯 **Smart Prioritization** | Context-aware automated scheduling scoring algorithms (0-100 analytics). |
-| 💾 **Data Durability** | Offline-first sync with Room and real-time cloud data push over `Firebase Firestore`. |
+| 💾 **Data Durability** | Offline-first sync with Room and real-time cloud data push over "Firebase Firestore". |
 | 🎨 **Asset Attribution** | Visual vectors and system interface iconography sourced via [Uxwing](https://uxwing.com/). |
 
 <details>
@@ -101,9 +101,9 @@
 
 | Subsystem | Technical Execution Architecture |
 | :--- | :--- |
-| 🔐 **Local Verification** | Biometric device access management implemented using the Android `Biometric API`. |
-| 🚀 **Reactive Caching** | Relational local optimization using Room/SQLite with reactive `Kotlin Flow` streams. |
-| ☁️ **Data Integrity** | Managed automatic fallback cloud push syncing data over `Firebase NoSQL Architecture`. |
+| 🔐 **Local Verification** | Biometric device access management implemented using the Android "Biometric API". |
+| 🚀 **Reactive Caching** | Relational local optimization using Room/SQLite with reactive "Kotlin Flow" streams. |
+| ☁️ **Data Integrity** | Managed automatic fallback cloud push syncing data over "Firebase NoSQL Architecture". |
 | 🎨 **Asset Attribution** | Analytics metrics and dashboard iconography components curated from [Uxwing](https://uxwing.com/). |
 
 <details>
@@ -127,8 +127,8 @@
 
 | Subsystem | Technical Execution Architecture |
 | :--- | :--- |
-| 🎧 **Playback Pipeline** | Advanced background foreground media bindings utilizing modern `Android Media3 (ExoPlayer)`. |
-| 🎨 **Dynamic Canvas** | Real-time system UI adjustments generated using the Android `Palette API` on dynamic image assets. |
+| 🎧 **Playback Pipeline** | Advanced background foreground media bindings utilizing modern "Android Media3 (ExoPlayer)". |
+| 🎨 **Dynamic Canvas** | Real-time system UI adjustments generated using the Android "Palette API" on dynamic image assets. |
 | 🌐 **Network Interceptors** | Custom proxy rotations handling custom okhttp interceptors to preserve consistent uptime. |
 | 🎨 **Asset Attribution** | Media controls and navigation vector assets integrated from [Uxwing](https://uxwing.com/). |
 
@@ -155,7 +155,7 @@
 | Subsystem | Technical Execution Architecture |
 | :--- | :--- |
 | 🔄 **Reactive State** | Fluid UI adjustments driven completely via async Kotlin Coroutines lifecycle pipelines. |
-| 💎 **Material Design** | Beautiful glassmorphic themes natively processed using declarative `Jetpack Compose` elements. |
+| 💎 **Material Design** | Beautiful glassmorphic themes natively processed using declarative "Jetpack Compose" elements. |
 | ⏰ **Automated Triggers** | Custom scheduling features processing notifications safely via system clock integrations. |
 | 🎨 **Asset Attribution** | Media action elements and download utility vectors optimized from [Uxwing](https://uxwing.com/). |
 
