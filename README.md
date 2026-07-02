@@ -69,7 +69,6 @@
     <b style="font-size: 16px;">Material Design & UI Canvas</b><br/>
     <span style="font-size: 14px; color: #8b949e;">Translating Figma designs into pixel-perfect, declarative layouts using modern Jetpack Compose and Material 3.</span>
   </div>
-</div>
 ---
 
 ## ⇛ Featured Projects
