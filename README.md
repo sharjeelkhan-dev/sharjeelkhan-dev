@@ -19,58 +19,58 @@
 
 <!-- Row 1: Core Languages -->
 <table border="0" style="border-collapse: collapse; border: none; width: 100%; margin-bottom: 0px;">
-  <tr style="border: none; background: transparent;">
-    <td align="left" width="15%" style="border: none; vertical-align: middle; padding: 12px 0;">
-      <img src="https://skillicons.dev/icons?i=kotlin" width="40" height="40" alt="Kotlin" />
-      <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" style="margin-left: 4px;" />
-    </td>
-    <td align="left" width="85%" style="border: none; vertical-align: middle; padding: 12px 15px;">
-      <b>Core Development & Logic</b><br/>
-      <font size="2" color="#8b949e">Asynchronous reactive programming engineered with Kotlin Coroutines, Kotlin Flow, and clean thread scheduling.</font>
-    </td>
-  </tr>
+  <tr style="border: none; background: transparent;">
+    <td align="left" width="15%" style="border: none; vertical-align: middle; padding: 12px 0;">
+      <img src="https://skillicons.dev/icons?i=kotlin" width="40" height="40" alt="Kotlin" />
+      <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" style="margin-left: 4px;" />
+    </td>
+    <td align="left" width="85%" style="border: none; vertical-align: middle; padding: 12px 15px;">
+      <b>Core Development & Logic</b><br/>
+      <font size="2" color="#8b949e">Asynchronous reactive programming engineered with Kotlin Coroutines, Kotlin Flow, and clean thread scheduling.</font>
+    </td>
+  </tr>
 </table>
 
 <!-- Row 2: IDE & Engineering -->
 <table border="0" style="border-collapse: collapse; border: none; width: 100%; margin-top: 0px; margin-bottom: 0px;">
-  <tr style="border: none; background: transparent;">
-    <td align="left" width="15%" style="border: none; vertical-align: middle; padding: 12px 0;">
-      <img src="https://skillicons.dev/icons?i=androidstudio" width="40" height="40" alt="Android Studio" />
-      <img src="https://skillicons.dev/icons?i=gradle" width="40" height="40" alt="Gradle" style="margin-left: 4px;" />
-    </td>
-    <td align="left" width="85%" style="border: none; vertical-align: middle; padding: 12px 15px;">
-      <b>IDE & Build Automation</b><br/>
-      <font size="2" color="#8b949e">Native development in Android Studio, multi-variant compilation management, and optimized Gradle build scripting.</font>
-    </td>
-  </tr>
+  <tr style="border: none; background: transparent;">
+    <td align="left" width="15%" style="border: none; vertical-align: middle; padding: 12px 0;">
+      <img src="https://skillicons.dev/icons?i=androidstudio" width="40" height="40" alt="Android Studio" />
+      <img src="https://skillicons.dev/icons?i=gradle" width="40" height="40" alt="Gradle" style="margin-left: 4px;" />
+    </td>
+    <td align="left" width="85%" style="border: none; vertical-align: middle; padding: 12px 15px;">
+      <b>IDE & Build Automation</b><br/>
+      <font size="2" color="#8b949e">Native development in Android Studio, multi-variant compilation management, and optimized Gradle build scripting.</font>
+    </td>
+  </tr>
 </table>
 
 <!-- Row 3: Infrastructure & Storage -->
 <table border="0" style="border-collapse: collapse; border: none; width: 100%; margin-top: 0px; margin-bottom: 0px;">
-  <tr style="border: none; background: transparent;">
-    <td align="left" width="15%" style="border: none; vertical-align: middle; padding: 12px 0;">
-      <img src="https://skillicons.dev/icons?i=firebase" width="40" height="40" alt="Firebase" />
-      <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" style="margin-left: 4px;" />
-      <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" style="margin-left: 4px;" />
-    </td>
-    <td align="left" width="85%" style="border: none; vertical-align: middle; padding: 12px 15px;">
-      <b>Cloud Infrastructure & DevOps</b><br/>
-      <font size="2" color="#8b949e">Real-time data caching, Firestore cloud synchronization pipelines, and structured Git workflow architectures.</font>
-    </td>
-  </tr>
+  <tr style="border: none; background: transparent;">
+    <td align="left" width="15%" style="border: none; vertical-align: middle; padding: 12px 0;">
+      <img src="https://skillicons.dev/icons?i=firebase" width="40" height="40" alt="Firebase" />
+      <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" style="margin-left: 4px;" />
+      <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" style="margin-left: 4px;" />
+    </td>
+    <td align="left" width="85%" style="border: none; vertical-align: middle; padding: 12px 15px;">
+      <b>Cloud Infrastructure & DevOps</b><br/>
+      <font size="2" color="#8b949e">Real-time data caching, Firestore cloud synchronization pipelines, and structured Git workflow architectures.</font>
+    </td>
+  </tr>
 </table>
 
 <!-- Row 4: UI/UX Design -->
 <table border="0" style="border-collapse: collapse; border: none; width: 100%; margin-top: 0px;">
-  <tr style="border: none; background: transparent;">
-    <td align="left" width="15%" style="border: none; vertical-align: middle; padding: 12px 0;">
-      <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma" />
-    </td>
-    <td align="left" width="85%" style="border: none; vertical-align: middle; padding: 12px 15px;">
-      <b>Material Design & UI Canvas</b><br/>
-      <font size="2" color="#8b949e">Translating Figma designs into pixel-perfect, declarative layouts using modern Jetpack Compose and Material 3.</font>
-    </td>
-  </tr>
+  <tr style="border: none; background: transparent;">
+    <td align="left" width="15%" style="border: none; vertical-align: middle; padding: 12px 0;">
+      <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma" />
+    </td>
+    <td align="left" width="85%" style="border: none; vertical-align: middle; padding: 12px 15px;">
+      <b>Material Design & UI Canvas</b><br/>
+      <font size="2" color="#8b949e">Translating Figma designs into pixel-perfect, declarative layouts using modern Jetpack Compose and Material 3.</font>
+    </td>
+  </tr>
 </table>
 
 ---
