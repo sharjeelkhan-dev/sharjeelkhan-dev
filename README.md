@@ -17,54 +17,59 @@
 
 ## ⇛ Tech Stack
 
-<table border="0" style="border-collapse: collapse; border: none; width: 100%; background-color: #ffffff;">
+<!-- Row 1: Core Languages -->
+<div style="display: flex; align-items: center; padding: 12px 0;">
+  <div style="min-width: 90px; margin-right: 15px;">
+    <img src="https://skillicons.dev/icons?i=kotlin" width="40" height="40" alt="Kotlin" />
+    <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" style="margin-left: 4px;" />
+  </div>
+  <div>
+    <b style="font-size: 16px;">Core Development & Logic</b><br/>
+    <span style="font-size: 14px; color: #8b949e;">Asynchronous reactive programming engineered with Kotlin Coroutines, Kotlin Flow, and clean thread scheduling.</span>
+  </div>
+</div>
 
-  <tr style="border: none; background-color: #ffffff;">
-    <td align="left" width="15%" style="border: none; vertical-align: middle; padding: 12px 0; background-color: #ffffff;">
-      <img src="https://skillicons.dev/icons?i=kotlin" width="40" height="40" alt="Kotlin" />
-      <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" style="margin-left: 4px;" />
-    </td>
-    <td align="left" width="85%" style="border: none; vertical-align: middle; padding: 12px 15px; background-color: #ffffff;">
-      <b style="color: #24292f;">Core Development & Logic</b><br/>
-      <font size="2" color="#57606a">Asynchronous reactive programming engineered with Kotlin Coroutines, Kotlin Flow, and clean thread scheduling.</font>
-    </td>
-  </tr>
+<hr style="border: 0; height: 1px; background: #30363d; margin: 4px 0;" />
 
-  <tr style="border: none; background-color: #ffffff;">
-    <td align="left" width="15%" style="border: none; vertical-align: middle; padding: 12px 0; background-color: #ffffff;">
-      <img src="https://skillicons.dev/icons?i=androidstudio" width="40" height="40" alt="Android Studio" />
-      <img src="https://skillicons.dev/icons?i=gradle" width="40" height="40" alt="Gradle" style="margin-left: 4px;" />
-    </td>
-    <td align="left" width="85%" style="border: none; vertical-align: middle; padding: 12px 15px; background-color: #ffffff;">
-      <b style="color: #24292f;">IDE & Build Automation</b><br/>
-      <font size="2" color="#57606a">Native development in Android Studio, multi-variant compilation management, and optimized Gradle build scripting.</font>
-    </td>
-  </tr>
+<!-- Row 2: IDE & Engineering -->
+<div style="display: flex; align-items: center; padding: 12px 0;">
+  <div style="min-width: 90px; margin-right: 15px;">
+    <img src="https://skillicons.dev/icons?i=androidstudio" width="40" height="40" alt="Android Studio" />
+    <img src="https://skillicons.dev/icons?i=gradle" width="40" height="40" alt="Gradle" style="margin-left: 4px;" />
+  </div>
+  <div>
+    <b style="font-size: 16px;">IDE & Build Automation</b><br/>
+    <span style="font-size: 14px; color: #8b949e;">Native development in Android Studio, multi-variant compilation management, and optimized Gradle build scripting.</span>
+  </div>
+</div>
 
-  <tr style="border: none; background-color: #ffffff;">
-    <td align="left" width="15%" style="border: none; vertical-align: middle; padding: 12px 0; background-color: #ffffff;">
-      <img src="https://skillicons.dev/icons?i=firebase" width="40" height="40" alt="Firebase" />
-      <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" style="margin-left: 4px;" />
-      <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" style="margin-left: 4px;" />
-    </td>
-    <td align="left" width="85%" style="border: none; vertical-align: middle; padding: 12px 15px; background-color: #ffffff;">
-      <b style="color: #24292f;">Cloud Infrastructure & DevOps</b><br/>
-      <font size="2" color="#57606a">Real-time data caching, Firestore cloud synchronization pipelines, and structured Git workflow architectures.</font>
-    </td>
-  </tr>
+<hr style="border: 0; height: 1px; background: #30363d; margin: 4px 0;" />
 
-  <tr style="border: none; background-color: #ffffff;">
-    <td align="left" width="15%" style="border: none; vertical-align: middle; padding: 12px 0; background-color: #ffffff;">
-      <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma" />
-    </td>
-    <td align="left" width="85%" style="border: none; vertical-align: middle; padding: 12px 15px; background-color: #ffffff;">
-      <b style="color: #24292f;">Material Design & UI Canvas</b><br/>
-      <font size="2" color="#57606a">Translating Figma designs into pixel-perfect, declarative layouts using modern Jetpack Compose and Material 3.</font>
-    </td>
-  </tr>
+<!-- Row 3: Infrastructure & Storage -->
+<div style="display: flex; align-items: center; padding: 12px 0;">
+  <div style="min-width: 90px; margin-right: 15px;">
+    <img src="https://skillicons.dev/icons?i=firebase" width="40" height="40" alt="Firebase" />
+    <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" style="margin-left: 4px;" />
+    <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" style="margin-left: 4px;" />
+  </div>
+  <div>
+    <b style="font-size: 16px;">Cloud Infrastructure & DevOps</b><br/>
+    <span style="font-size: 14px; color: #8b949e;">Real-time data caching, Firestore cloud synchronization pipelines, and structured Git workflow architectures.</span>
+  </div>
+</div>
 
-</table>
+<hr style="border: 0; height: 1px; background: #30363d; margin: 4px 0;" />
 
+<!-- Row 4: UI/UX Design -->
+<div style="display: flex; align-items: center; padding: 12px 0;">
+  <div style="min-width: 90px; margin-right: 15px;">
+    <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma" />
+  </div>
+  <div>
+    <b style="font-size: 16px;">Material Design & UI Canvas</b><br/>
+    <span style="font-size: 14px; color: #8b949e;">Translating Figma designs into pixel-perfect, declarative layouts using modern Jetpack Compose and Material 3.</span>
+  </div>
+</div>
 ---
 
 ## ⇛ Featured Projects
