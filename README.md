@@ -93,8 +93,6 @@
 </details>
 
 <br/>
-<hr/>
-<br/>
 
 ### 🧑🏼‍🎓 Student Attendance & Analytics App
 ![Status](https://img.shields.io/badge/Private_Code-181717?style=for-the-badge&logo=github&logoColor=white) ![Security](https://img.shields.io/badge/Biometric_API-3DDC84?style=for-the-badge&logo=android&logoColor=black) ![Database](https://img.shields.io/badge/Room_SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
