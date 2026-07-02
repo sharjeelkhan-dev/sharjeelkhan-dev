@@ -81,36 +81,31 @@
 
 > Intelligent task prioritization manager featuring deep Generative AI commands and modern security standards.
 
-<table width="100%" style="border-collapse: collapse; border: none; margin-bottom: 0px;">
-  <tr style="border: none; background: transparent;">
-    <td align="left" width="25%" style="border: none; padding: 8px 10px;"><b>Subsystem</b></td>
-    <td align="left" width="75%" style="border: none; padding: 8px 10px;"><b>Technical Execution Architecture</b></td>
-  </tr>
-</table>
-<hr style="border: 0; height: 1px; background: #30363d; margin: 0;" />
-<table width="100%" style="border-collapse: collapse; border: none; margin-top: 0px; margin-bottom: 0px;">
-  <tr style="border: none; background: transparent;">
-    <td align="left" width="25%" style="border: none; padding: 10px;">⚡ **AI Parsing Engine**</td>
-    <td align="left" width="75%" style="border: none; padding: 10px;">Integrated `Google Gemini 3.5 Flash` for processing natural language scheduling logic.</td>
-  </tr>
-</table>
-<table width="100%" style="border-collapse: collapse; border: none; margin-top: 0px; margin-bottom: 0px;">
-  <tr style="border: none; background: transparent;">
-    <td align="left" width="25%" style="border: none; padding: 10px;">🎯 **Smart Prioritization**</td>
-    <td align="left" width="75%" style="border: none; padding: 10px;">Context-aware automated scheduling scoring algorithms (0-100 analytics).</td>
-  </tr>
-</table>
-<table width="100%" style="border-collapse: collapse; border: none; margin-top: 0px; margin-bottom: 0px;">
-  <tr style="border: none; background: transparent;">
-    <td align="left" width="25%" style="border: none; padding: 10px;">💾 **Data Durability**</td>
-    <td align="left" width="75%" style="border: none; padding: 10px;">Offline-first sync with Room and real-time cloud data push over `Firebase Firestore`.</td>
-  </tr>
-</table>
-<table width="100%" style="border-collapse: collapse; border: none; margin-top: 0px;">
-  <tr style="border: none; background: transparent;">
-    <td align="left" width="25%" style="border: none; padding: 10px;">🎨 **Asset Attribution**</td>
-    <td align="left" width="75%" style="border: none; padding: 10px;">Visual vectors and system interface iconography sourced via [Uxwing](https://uxwing.com/).</td>
-  </tr>
+<table width="100%" style="border-collapse: collapse; border-spacing: 0px; margin-top: 10px;">
+  <thead>
+    <tr style="border: none; background-color: transparent;">
+      <th align="left" width="25%" style="padding: 8px; border-bottom: 1px solid #30363d; color: #f0f6fc;">Subsystem</th>
+      <th align="left" width="75%" style="padding: 8px; border-bottom: 1px solid #30363d; color: #f0f6fc;">Technical Execution Architecture</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="border: none; background-color: transparent;">
+      <td align="left" style="padding: 10px 8px; border-bottom: 1px solid #21262d; vertical-align: middle;">⚡ **AI Parsing Engine**</td>
+      <td align="left" style="padding: 10px 8px; border-bottom: 1px solid #21262d; vertical-align: middle;">Integrated `Google Gemini 3.5 Flash` for processing natural language scheduling logic.</td>
+    </tr>
+    <tr style="border: none; background-color: transparent;">
+      <td align="left" style="padding: 10px 8px; border-bottom: 1px solid #21262d; vertical-align: middle;">🎯 **Smart Prioritization**</td>
+      <td align="left" style="padding: 10px 8px; border-bottom: 1px solid #21262d; vertical-align: middle;">Context-aware automated scheduling scoring algorithms (0-100 analytics).</td>
+    </tr>
+    <tr style="border: none; background-color: transparent;">
+      <td align="left" style="padding: 10px 8px; border-bottom: 1px solid #21262d; vertical-align: middle;">💾 **Data Durability**</td>
+      <td align="left" style="padding: 10px 8px; border-bottom: 1px solid #21262d; vertical-align: middle;">Offline-first sync with Room and real-time cloud data push over `Firebase Firestore`.</td>
+    </tr>
+    <tr style="border: none; background-color: transparent;">
+      <td align="left" style="padding: 10px 8px; border: none; vertical-align: middle;">🎨 **Asset Attribution**</td>
+      <td align="left" style="padding: 10px 8px; border: none; vertical-align: middle;">Visual vectors and system interface iconography sourced via [Uxwing](https://uxwing.com/).</td>
+    </tr>
+  </tbody>
 </table>
 
 <details>
@@ -118,9 +113,9 @@
 <br/>
 <table width="100%" style="border-collapse: collapse; border: none;">
   <tr style="border: none; background: transparent;">
-    <td width="33.3%" align="center" style="border: none;"><img src="https://github.com/user-attachments/assets/0687323d-7c9c-42cd-adef-e3a5af4370b3" width="100%" alt="Screen 1 (Chat)" /></td>
-    <td width="33.3%" align="center" style="border: none;"><img src="https://github.com/user-attachments/assets/88d00193-695e-4713-b450-014b26e70ca4" width="100%" alt="Screen 2 (Settings)" /></td>
-    <td width="33.3%" align="center" style="border: none;"><img src="https://github.com/user-attachments/assets/8c816a1b-0fa2-40d0-bf6c-4bcee829c79b" width="100%" alt="Screen 3 (Profile)" /></td>
+    <td width="33.3%" align="center" style="border: none; background: transparent;"><img src="https://github.com/user-attachments/assets/0687323d-7c9c-42cd-adef-e3a5af4370b3" width="100%" alt="Screen 1 (Chat)" /></td>
+    <td width="33.3%" align="center" style="border: none; background: transparent;"><img src="https://github.com/user-attachments/assets/88d00193-695e-4713-b450-014b26e70ca4" width="100%" alt="Screen 2 (Settings)" /></td>
+    <td width="33.3%" align="center" style="border: none; background: transparent;"><img src="https://github.com/user-attachments/assets/8c816a1b-0fa2-40d0-bf6c-4bcee829c79b" width="100%" alt="Screen 3 (Profile)" /></td>
   </tr>
 </table>
 </details>
@@ -134,36 +129,31 @@
 
 > High-performance academic tracking system engineered using offline-first architectures and enterprise data patterns.
 
-<table width="100%" style="border-collapse: collapse; border: none; margin-bottom: 0px;">
-  <tr style="border: none; background: transparent;">
-    <td align="left" width="25%" style="border: none; padding: 8px 10px;"><b>Subsystem</b></td>
-    <td align="left" width="75%" style="border: none; padding: 8px 10px;"><b>Technical Execution Architecture</b></td>
-  </tr>
-</table>
-<hr style="border: 0; height: 1px; background: #30363d; margin: 0;" />
-<table width="100%" style="border-collapse: collapse; border: none; margin-top: 0px; margin-bottom: 0px;">
-  <tr style="border: none; background: transparent;">
-    <td align="left" width="25%" style="border: none; padding: 10px;">🔐 **Local Verification**</td>
-    <td align="left" width="75%" style="border: none; padding: 10px;">Biometric device access management implemented using the Android `Biometric API`.</td>
-  </tr>
-</table>
-<table width="100%" style="border-collapse: collapse; border: none; margin-top: 0px; margin-bottom: 0px;">
-  <tr style="border: none; background: transparent;">
-    <td align="left" width="25%" style="border: none; padding: 10px;">🚀 **Reactive Caching**</td>
-    <td align="left" width="75%" style="border: none; padding: 10px;">Relational local optimization using Room/SQLite with reactive `Kotlin Flow` streams.</td>
-  </tr>
-</table>
-<table width="100%" style="border-collapse: collapse; border: none; margin-top: 0px; margin-bottom: 0px;">
-  <tr style="border: none; background: transparent;">
-    <td align="left" width="25%" style="border: none; padding: 10px;">☁️ **Data Integrity**</td>
-    <td align="left" width="75%" style="border: none; padding: 10px;">Managed automatic fallback cloud push syncing data over `Firebase NoSQL Architecture`.</td>
-  </tr>
-</table>
-<table width="100%" style="border-collapse: collapse; border: none; margin-top: 0px;">
-  <tr style="border: none; background: transparent;">
-    <td align="left" width="25%" style="border: none; padding: 10px;">🎨 **Asset Attribution**</td>
-    <td align="left" width="75%" style="border: none; padding: 10px;">Analytics metrics and dashboard iconography components curated from [Uxwing](https://uxwing.com/).</td>
-  </tr>
+<table width="100%" style="border-collapse: collapse; border-spacing: 0px; margin-top: 10px;">
+  <thead>
+    <tr style="border: none; background-color: transparent;">
+      <th align="left" width="25%" style="padding: 8px; border-bottom: 1px solid #30363d; color: #f0f6fc;">Subsystem</th>
+      <th align="left" width="75%" style="padding: 8px; border-bottom: 1px solid #30363d; color: #f0f6fc;">Technical Execution Architecture</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="border: none; background-color: transparent;">
+      <td align="left" style="padding: 10px 8px; border-bottom: 1px solid #21262d; vertical-align: middle;">🔐 **Local Verification**</td>
+      <td align="left" style="padding: 10px 8px; border-bottom: 1px solid #21262d; vertical-align: middle;">Biometric device access management implemented using the Android `Biometric API`.</td>
+    </tr>
+    <tr style="border: none; background-color: transparent;">
+      <td align="left" style="padding: 10px 8px; border-bottom: 1px solid #21262d; vertical-align: middle;">🚀 **Reactive Caching**</td>
+      <td align="left" style="padding: 10px 8px; border-bottom: 1px solid #21262d; vertical-align: middle;">Relational local optimization using Room/SQLite with reactive `Kotlin Flow` streams.</td>
+    </tr>
+    <tr style="border: none; background-color: transparent;">
+      <td align="left" style="padding: 10px 8px; border-bottom: 1px solid #21262d; vertical-align: middle;">☁️ **Data Integrity**</td>
+      <td align="left" style="padding: 10px 8px; border-bottom: 1px solid #21262d; vertical-align: middle;">Managed automatic fallback cloud push syncing data over `Firebase NoSQL Architecture`.</td>
+    </tr>
+    <tr style="border: none; background-color: transparent;">
+      <td align="left" style="padding: 10px 8px; border: none; vertical-align: middle;">🎨 **Asset Attribution**</td>
+      <td align="left" style="padding: 10px 8px; border: none; vertical-align: middle;">Analytics metrics and dashboard iconography components curated from [Uxwing](https://uxwing.com/).</td>
+    </tr>
+  </tbody>
 </table>
 
 <details>
@@ -171,9 +161,9 @@
 <br/>
 <table width="100%" style="border-collapse: collapse; border: none;">
   <tr style="border: none; background: transparent;">
-    <td width="33.3%" align="center" style="border: none;"><img src="https://github.com/user-attachments/assets/f284e497-988d-4b81-a37e-99fa54263409" width="100%" alt="Screen 1 - Dashboard" /></td>
-    <td width="33.3%" align="center" style="border: none;"><img src="https://github.com/user-attachments/assets/161719f3-2c63-4f0c-90c4-ec26860c5eb1" width="100%" alt="Screen 2 - Analytics" /></td>
-    <td width="33.3%" align="center" style="border: none;"><img src="https://github.com/user-attachments/assets/a01a4f8a-693b-44ef-95e0-b8493b784875" width="100%" alt="Screen 3 - Report" /></td>
+    <td width="33.3%" align="center" style="border: none; background: transparent;"><img src="https://github.com/user-attachments/assets/f284e497-988d-4b81-a37e-99fa54263409" width="100%" alt="Screen 1 - Dashboard" /></td>
+    <td width="33.3%" align="center" style="border: none; background: transparent;"><img src="https://github.com/user-attachments/assets/161719f3-2c63-4f0c-90c4-ec26860c5eb1" width="100%" alt="Screen 2 - Analytics" /></td>
+    <td width="33.3%" align="center" style="border: none; background: transparent;"><img src="https://github.com/user-attachments/assets/a01a4f8a-693b-44ef-95e0-b8493b784875" width="100%" alt="Screen 3 - Report" /></td>
   </tr>
 </table>
 </details>
@@ -187,36 +177,31 @@
 
 > High-performance media streaming platform supporting dual extraction pipelines and custom hardware acceleration profiles.
 
-<table width="100%" style="border-collapse: collapse; border: none; margin-bottom: 0px;">
-  <tr style="border: none; background: transparent;">
-    <td align="left" width="25%" style="border: none; padding: 8px 10px;"><b>Subsystem</b></td>
-    <td align="left" width="75%" style="border: none; padding: 8px 10px;"><b>Technical Execution Architecture</b></td>
-  </tr>
-</table>
-<hr style="border: 0; height: 1px; background: #30363d; margin: 0;" />
-<table width="100%" style="border-collapse: collapse; border: none; margin-top: 0px; margin-bottom: 0px;">
-  <tr style="border: none; background: transparent;">
-    <td align="left" width="25%" style="border: none; padding: 10px;">🎧 **Playback Pipeline**</td>
-    <td align="left" width="75%" style="border: none; padding: 10px;">Advanced background foreground media bindings utilizing modern `Android Media3 (ExoPlayer)`.</td>
-  </tr>
-</table>
-<table width="100%" style="border-collapse: collapse; border: none; margin-top: 0px; margin-bottom: 0px;">
-  <tr style="border: none; background: transparent;">
-    <td align="left" width="25%" style="border: none; padding: 10px;">🎨 **Dynamic Canvas**</td>
-    <td align="left" width="75%" style="border: none; padding: 10px;">Real-time system UI adjustments generated using the Android `Palette API` on dynamic image assets.</td>
-  </tr>
-</table>
-<table width="100%" style="border-collapse: collapse; border: none; margin-top: 0px; margin-bottom: 0px;">
-  <tr style="border: none; background: transparent;">
-    <td align="left" width="25%" style="border: none; padding: 10px;">🌐 **Network Interceptors**</td>
-    <td align="left" width="75%" style="border: none; padding: 10px;">Custom proxy rotations handling custom okhttp interceptors to preserve consistent uptime.</td>
-  </tr>
-</table>
-<table width="100%" style="border-collapse: collapse; border: none; margin-top: 0px;">
-  <tr style="border: none; background: transparent;">
-    <td align="left" width="25%" style="border: none; padding: 10px;">🎨 **Asset Attribution**</td>
-    <td align="left" width="75%" style="border: none; padding: 10px;">Media controls and navigation vector assets integrated from [Uxwing](https://uxwing.com/).</td>
-  </tr>
+<table width="100%" style="border-collapse: collapse; border-spacing: 0px; margin-top: 10px;">
+  <thead>
+    <tr style="border: none; background-color: transparent;">
+      <th align="left" width="25%" style="padding: 8px; border-bottom: 1px solid #30363d; color: #f0f6fc;">Subsystem</th>
+      <th align="left" width="75%" style="padding: 8px; border-bottom: 1px solid #30363d; color: #f0f6fc;">Technical Execution Architecture</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="border: none; background-color: transparent;">
+      <td align="left" style="padding: 10px 8px; border-bottom: 1px solid #21262d; vertical-align: middle;">🎧 **Playback Pipeline**</td>
+      <td align="left" style="padding: 10px 8px; border-bottom: 1px solid #21262d; vertical-align: middle;">Advanced background foreground media bindings utilizing modern `Android Media3 (ExoPlayer)`.</td>
+    </tr>
+    <tr style="border: none; background-color: transparent;">
+      <td align="left" style="padding: 10px 8px; border-bottom: 1px solid #21262d; vertical-align: middle;">🎨 **Dynamic Canvas**</td>
+      <td align="left" style="padding: 10px 8px; border-bottom: 1px solid #21262d; vertical-align: middle;">Real-time system UI adjustments generated using the Android `Palette API` on dynamic image assets.</td>
+    </tr>
+    <tr style="border: none; background-color: transparent;">
+      <td align="left" style="padding: 10px 8px; border-bottom: 1px solid #21262d; vertical-align: middle;">🌐 **Network Interceptors**</td>
+      <td align="left" style="padding: 10px 8px; border-bottom: 1px solid #21262d; vertical-align: middle;">Custom proxy rotations handling custom okhttp interceptors to preserve consistent uptime.</td>
+    </tr>
+    <tr style="border: none; background-color: transparent;">
+      <td align="left" style="padding: 10px 8px; border: none; vertical-align: middle;">🎨 **Asset Attribution**</td>
+      <td align="left" style="padding: 10px 8px; border: none; vertical-align: middle;">Media controls and navigation vector assets integrated from [Uxwing](https://uxwing.com/).</td>
+    </tr>
+  </tbody>
 </table>
 
 <details>
@@ -224,9 +209,9 @@
 <br/>
 <table width="100%" style="border-collapse: collapse; border: none;">
   <tr style="border: none; background: transparent;">
-    <td width="33.3%" align="center" style="border: none;"><img src="https://github.com/user-attachments/assets/416863fc-2ced-4f86-a67d-e609dd20c977" width="100%" alt="Screen 1 - Player Overview" /></td>
-    <td width="33.3%" align="center" style="border: none;"><img src="https://github.com/user-attachments/assets/1dda61b5-91b0-4c27-ad77-5db84ca3f911" width="100%" alt="Screen 2 - Music Library" /></td>
-    <td width="33.3%" align="center" style="border: none;"><img src="https://github.com/user-attachments/assets/18aad66f-7824-420b-8fa8-2aa79ad6da08" width="100%" alt="Screen 3 - Dynamic UI" /></td>
+    <td width="33.3%" align="center" style="border: none; background: transparent;"><img src="https://github.com/user-attachments/assets/416863fc-2ced-4f86-a67d-e609dd20c977" width="100%" alt="Screen 1 - Player Overview" /></td>
+    <td width="33.3%" align="center" style="border: none; background: transparent;"><img src="https://github.com/user-attachments/assets/1dda61b5-91b0-4c27-ad77-5db84ca3f911" width="100%" alt="Screen 2 - Music Library" /></td>
+    <td width="33.3%" align="center" style="border: none; background: transparent;"><img src="https://github.com/user-attachments/assets/18aad66f-7824-420b-8fa8-2aa79ad6da08" width="100%" alt="Screen 3 - Dynamic UI" /></td>
   </tr>
 </table>
 </details>
@@ -236,40 +221,35 @@
 <br/>
 
 ### 📥 WhatsApp Status Saver App
-![Status](https://img.shields.io/badge/Private_Code-181717?style=for-the-badge&logo=github&logoColor=white) ![UI](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white) ![Async](https://img.shields.io/badge/Kotlin_Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Status](https://img.shields.io/badge/Private_Code-181717?style=for-the-badge&logo=github&logoColor=white) Cast ![UI](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white) ![Async](https://img.shields.io/badge/Kotlin_Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 > Clean, local file storage architecture designed to pull, cache, and schedule media assets instantly.
 
-<table width="100%" style="border-collapse: collapse; border: none; margin-bottom: 0px;">
-  <tr style="border: none; background: transparent;">
-    <td align="left" width="25%" style="border: none; padding: 8px 10px;"><b>Subsystem</b></td>
-    <td align="left" width="75%" style="border: none; padding: 8px 10px;"><b>Technical Execution Architecture</b></td>
-  </tr>
-</table>
-<hr style="border: 0; height: 1px; background: #30363d; margin: 0;" />
-<table width="100%" style="border-collapse: collapse; border: none; margin-top: 0px; margin-bottom: 0px;">
-  <tr style="border: none; background: transparent;">
-    <td align="left" width="25%" style="border: none; padding: 10px;">🔄 **Reactive State**</td>
-    <td align="left" width="75%" style="border: none; padding: 10px;">Fluid UI adjustments driven completely via async Kotlin Coroutines lifecycle pipelines.</td>
-  </tr>
-</table>
-<table width="100%" style="border-collapse: collapse; border: none; margin-top: 0px; margin-bottom: 0px;">
-  <tr style="border: none; background: transparent;">
-    <td align="left" width="25%" style="border: none; padding: 10px;">💎 **Material Design**</td>
-    <td align="left" width="75%" style="border: none; padding: 10px;">Beautiful glassmorphic themes natively processed using declarative `Jetpack Compose` elements.</td>
-  </tr>
-</table>
-<table width="100%" style="border-collapse: collapse; border: none; margin-top: 0px; margin-bottom: 0px;">
-  <tr style="border: none; background: transparent;">
-    <td align="left" width="25%" style="border: none; padding: 10px;">⏰ **Automated Triggers**</td>
-    <td align="left" width="75%" style="border: none; padding: 10px;">Custom scheduling features processing notifications safely via system clock integrations.</td>
-  </tr>
-</table>
-<table width="100%" style="border-collapse: collapse; border: none; margin-top: 0px;">
-  <tr style="border: none; background: transparent;">
-    <td align="left" width="25%" style="border: none; padding: 10px;">🎨 **Asset Attribution**</td>
-    <td align="left" width="75%" style="border: none; padding: 10px;">Media action elements and download utility vectors optimized from [Uxwing](https://uxwing.com/).</td>
-  </tr>
+<table width="100%" style="border-collapse: collapse; border-spacing: 0px; margin-top: 10px;">
+  <thead>
+    <tr style="border: none; background-color: transparent;">
+      <th align="left" width="25%" style="padding: 8px; border-bottom: 1px solid #30363d; color: #f0f6fc;">Subsystem</th>
+      <th align="left" width="75%" style="padding: 8px; border-bottom: 1px solid #30363d; color: #f0f6fc;">Technical Execution Architecture</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="border: none; background-color: transparent;">
+      <td align="left" style="padding: 10px 8px; border-bottom: 1px solid #21262d; vertical-align: middle;">🔄 **Reactive State**</td>
+      <td align="left" style="padding: 10px 8px; border-bottom: 1px solid #21262d; vertical-align: middle;">Fluid UI adjustments driven completely via async Kotlin Coroutines lifecycle pipelines.</td>
+    </tr>
+    <tr style="border: none; background-color: transparent;">
+      <td align="left" style="padding: 10px 8px; border-bottom: 1px solid #21262d; vertical-align: middle;">💎 **Material Design**</td>
+      <td align="left" style="padding: 10px 8px; border-bottom: 1px solid #21262d; vertical-align: middle;">Beautiful glassmorphic themes natively processed using declarative `Jetpack Compose` elements.</td>
+    </tr>
+    <tr style="border: none; background-color: transparent;">
+      <td align="left" style="padding: 10px 8px; border-bottom: 1px solid #21262d; vertical-align: middle;">⏰ **Automated Triggers**</td>
+      <td align="left" style="padding: 10px 8px; border-bottom: 1px solid #21262d; vertical-align: middle;">Custom scheduling features processing notifications safely via system clock integrations.</td>
+    </tr>
+    <tr style="border: none; background-color: transparent;">
+      <td align="left" style="padding: 10px 8px; border: none; vertical-align: middle;">🎨 **Asset Attribution**</td>
+      <td align="left" style="padding: 10px 8px; border: none; vertical-align: middle;">Media action elements and download utility vectors optimized from [Uxwing](https://uxwing.com/).</td>
+    </tr>
+  </tbody>
 </table>
 
 <details>
@@ -277,9 +257,9 @@
 <br/>
 <table width="100%" style="border-collapse: collapse; border: none;">
   <tr style="border: none; background: transparent;">
-    <td width="33.3%" align="center" style="border: none;"><img src="https://github.com/user-attachments/assets/95cc13eb-59b7-4e6e-a647-638b0e217404" width="100%" alt="Screen 1" /></td>
-    <td width="33.3%" align="center" style="border: none;"><img src="https://github.com/user-attachments/assets/3eddf1e8-8221-47aa-b360-139a9642cce9" width="100%" alt="Screen 2" /></td>
-    <td width="33.3%" align="center" style="border: none;"><img src="https://github.com/user-attachments/assets/7c9be296-563f-48b3-a523-671445fd77a3" width="100%" alt="Screen 3" /></td>
+    <td width="33.3%" align="center" style="border: none; background: transparent;"><img src="https://github.com/user-attachments/assets/95cc13eb-59b7-4e6e-a647-638b0e217404" width="100%" alt="Screen 1" /></td>
+    <td width="33.3%" align="center" style="border: none; background: transparent;"><img src="https://github.com/user-attachments/assets/3eddf1e8-8221-47aa-b360-139a9642cce9" width="100%" alt="Screen 2" /></td>
+    <td width="33.3%" align="center" style="border: none; background: transparent;"><img src="https://github.com/user-attachments/assets/7c9be296-563f-48b3-a523-671445fd77a3" width="100%" alt="Screen 3" /></td>
   </tr>
 </table>
 </details>
@@ -293,36 +273,31 @@
 
 > Premium document manager processed using low-latency IO capabilities wrapped inside a neon-glassmorphism wrapper.
 
-<table width="100%" style="border-collapse: collapse; border: none; margin-bottom: 0px;">
-  <tr style="border: none; background: transparent;">
-    <td align="left" width="25%" style="border: none; padding: 8px 10px;"><b>Subsystem</b></td>
-    <td align="left" width="75%" style="border: none; padding: 8px 10px;"><b>Technical Execution Architecture</b></td>
-  </tr>
-</table>
-<hr style="border: 0; height: 1px; background: #30363d; margin: 0;" />
-<table width="100%" style="border-collapse: collapse; border: none; margin-top: 0px; margin-bottom: 0px;">
-  <tr style="border: none; background: transparent;">
-    <td align="left" width="25%" style="border: none; padding: 10px;">🛡️ **Secure Vault**</td>
-    <td align="left" width="75%" style="border: none; padding: 10px;">Isolated filesystem processing encrypted structures and hidden states behind local system decoders.</td>
-  </tr>
-</table>
-<table width="100%" style="border-collapse: collapse; border: none; margin-top: 0px; margin-bottom: 0px;">
-  <tr style="border: none; background: transparent;">
-    <td align="left" width="25%" style="border: none; padding: 10px;">📄 **Multi-Format Engine**</td>
-    <td align="left" width="75%" style="border: none; padding: 10px;">Responsive native rendering pipelines managing complex extensions (PDF, JSON, XML, Office Docs).</td>
-  </tr>
-</table>
-<table width="100%" style="border-collapse: collapse; border: none; margin-top: 0px; margin-bottom: 0px;">
-  <tr style="border: none; background: transparent;">
-    <td align="left" width="25%" style="border: none; padding: 10px;">📱 **UI Composition**</td>
-    <td align="left" width="75%" style="border: none; padding: 10px;">Completely immersive edge-to-edge layout design using robust Jetpack Compose lifecycle rules.</td>
-  </tr>
-</table>
-<table width="100%" style="border-collapse: collapse; border: none; margin-top: 0px;">
-  <tr style="border: none; background: transparent;">
-    <td align="left" width="25%" style="border: none; padding: 10px;">🎨 **Asset Attribution**</td>
-    <td align="left" width="75%" style="border: none; padding: 10px;">Multi-extension file types and secure directories graphics engineered via [Uxwing](https://uxwing.com/).</td>
-  </tr>
+<table width="100%" style="border-collapse: collapse; border-spacing: 0px; margin-top: 10px;">
+  <thead>
+    <tr style="border: none; background-color: transparent;">
+      <th align="left" width="25%" style="padding: 8px; border-bottom: 1px solid #30363d; color: #f0f6fc;">Subsystem</th>
+      <th align="left" width="75%" style="padding: 8px; border-bottom: 1px solid #30363d; color: #f0f6fc;">Technical Execution Architecture</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="border: none; background-color: transparent;">
+      <td align="left" style="padding: 10px 8px; border-bottom: 1px solid #21262d; vertical-align: middle;">🛡️ **Secure Vault**</td>
+      <td align="left" style="padding: 10px 8px; border-bottom: 1px solid #21262d; vertical-align: middle;">Isolated filesystem processing encrypted structures and hidden states behind local system decoders.</td>
+    </tr>
+    <tr style="border: none; background-color: transparent;">
+      <td align="left" style="padding: 10px 8px; border-bottom: 1px solid #21262d; vertical-align: middle;">📄 **Multi-Format Engine**</td>
+      <td align="left" style="padding: 10px 8px; border-bottom: 1px solid #21262d; vertical-align: middle;">Responsive native rendering pipelines managing complex extensions (PDF, JSON, XML, Office Docs).</td>
+    </tr>
+    <tr style="border: none; background-color: transparent;">
+      <td align="left" style="padding: 10px 8px; border-bottom: 1px solid #21262d; vertical-align: middle;">📱 **UI Composition**</td>
+      <td align="left" style="padding: 10px 8px; border-bottom: 1px solid #21262d; vertical-align: middle;">Completely immersive edge-to-edge layout design using robust Jetpack Compose lifecycle rules.</td>
+    </tr>
+    <tr style="border: none; background-color: transparent;">
+      <td align="left" style="padding: 10px 8px; border: none; vertical-align: middle;">🎨 **Asset Attribution**</td>
+      <td align="left" style="padding: 10px 8px; border: none; vertical-align: middle;">Multi-extension file types and secure directories graphics engineered via [Uxwing](https://uxwing.com/).</td>
+    </tr>
+  </tbody>
 </table>
 
 <details>
@@ -330,9 +305,9 @@
 <br/>
 <table width="100%" style="border-collapse: collapse; border: none;">
   <tr style="border: none; background: transparent;">
-    <td width="33.3%" align="center" style="border: none;"><img src="https://github.com/user-attachments/assets/bd6996e3-4ae5-4e36-a3fe-7e66cebf2995" width="100%" alt="Screen 1 - File Explorer Overview" /></td>
-    <td width="33.3%" align="center" style="border: none;"><img src="https://github.com/user-attachments/assets/29199c01-27a1-4b32-8a3a-4a70c5c477e2" width="100%" alt="Screen 2 - Document Rendering Engine" /></td>
-    <td width="33.3%" align="center" style="border: none;"><img src="https://github.com/user-attachments/assets/660d8824-b15b-4539-a5a5-2e92aed48af5" width="100%" alt="Screen 3 - Immersive Layout" /></td>
+    <td width="33.3%" align="center" style="border: none; background: transparent;"><img src="https://github.com/user-attachments/assets/bd6996e3-4ae5-4e36-a3fe-7e66cebf2995" width="100%" alt="Screen 1 - File Explorer Overview" /></td>
+    <td width="33.3%" align="center" style="border: none; background: transparent;"><img src="https://github.com/user-attachments/assets/29199c01-27a1-4b32-8a3a-4a70c5c477e2" width="100%" alt="Screen 2 - Document Rendering Engine" /></td>
+    <td width="33.3%" align="center" style="border: none; background: transparent;"><img src="https://github.com/user-attachments/assets/660d8824-b15b-4539-a5a5-2e92aed48af5" width="100%" alt="Screen 3 - Immersive Layout" /></td>
   </tr>
 </table>
 </details>
