@@ -1,6 +1,7 @@
 <!-- Modern Minimalist Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=E0C3FC,8EC5FC&height=220&section=header&text=Sharjeel%20Khan&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Android%20Developer%20%7C%20Kotlin%20%7C%20Jetpack%20Compose%20%7C%20Firebase%20%7C%20MVVM%20%7C%20Clean%20Architecture&descAlignY=55&descAlign=50&descSize=18" alt="Sharjeel Khan" />
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=E0C3FC,8EC5FC&height=220&section=header&text=Sharjeel%20Khan&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Android%20Developer%20%7C%20Kotlin%20%7C%20Jetpack%20Compose%20%7C%20Firebase%20%7C%20MVVM%20%7C%20Clean%20Architecture&descAlignY=55&descAlign=50&descSize=18" alt="Sharjeel Khan" />
 </p>
 
 <div align="center">
@@ -8,7 +9,7 @@
 ### 👋 Welcome to my Workspace
 *I turn complex logic into seamless, scalable, and highly responsive native Android experiences.*
 
-<a href="https://linkedin.com/in/sharjeelkhan-dev" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="40" height="40" alt="LinkedIn" style="margin-right: 10px;" /></a>      <a href="mailto:sharjeelkhan454647@gmail.com"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Light.svg" width="40" height="40" alt="Email" /></a>
+<a href="https://linkedin.com/in/sharjeelkhan-dev" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="40" height="40" alt="LinkedIn" style="margin-right: 10px;" /></a>      <a href="mailto:sharjeelkhan454647@gmail.com"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Light.svg" width="40" height="40" alt="Email" /></a>
 
 </div>
 
@@ -18,58 +19,58 @@
 
 <!-- Row 1: Core Languages -->
 <table border="0" style="border-collapse: collapse; border: none; width: 100%; margin-bottom: 0px;">
-  <tr style="border: none; background: transparent;">
-    <td align="left" width="15%" style="border: none; vertical-align: middle; padding: 12px 0;">
-      <img src="https://skillicons.dev/icons?i=kotlin" width="40" height="40" alt="Kotlin" />
-      <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" style="margin-left: 4px;" />
-    </td>
-    <td align="left" width="85%" style="border: none; vertical-align: middle; padding: 12px 15px;">
-      <b>Core Development & Logic</b><br/>
-      <font size="2" color="#8b949e">Asynchronous reactive programming engineered with Kotlin Coroutines, Kotlin Flow, and clean thread scheduling.</font>
-    </td>
-  </tr>
+  <tr style="border: none; background: transparent;">
+    <td align="left" width="15%" style="border: none; vertical-align: middle; padding: 12px 0;">
+      <img src="https://skillicons.dev/icons?i=kotlin" width="40" height="40" alt="Kotlin" />
+      <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" style="margin-left: 4px;" />
+    </td>
+    <td align="left" width="85%" style="border: none; vertical-align: middle; padding: 12px 15px;">
+      <b>Core Development & Logic</b><br/>
+      <font size="2" color="#8b949e">Asynchronous reactive programming engineered with Kotlin Coroutines, Kotlin Flow, and clean thread scheduling.</font>
+    </td>
+  </tr>
 </table>
 
 <!-- Row 2: IDE & Engineering -->
 <table border="0" style="border-collapse: collapse; border: none; width: 100%; margin-top: 0px; margin-bottom: 0px;">
-  <tr style="border: none; background: transparent;">
-    <td align="left" width="15%" style="border: none; vertical-align: middle; padding: 12px 0;">
-      <img src="https://skillicons.dev/icons?i=androidstudio" width="40" height="40" alt="Android Studio" />
-      <img src="https://skillicons.dev/icons?i=gradle" width="40" height="40" alt="Gradle" style="margin-left: 4px;" />
-    </td>
-    <td align="left" width="85%" style="border: none; vertical-align: middle; padding: 12px 15px;">
-      <b>IDE & Build Automation</b><br/>
-      <font size="2" color="#8b949e">Native development in Android Studio, multi-variant compilation management, and optimized Gradle build scripting.</font>
-    </td>
-  </tr>
+  <tr style="border: none; background: transparent;">
+    <td align="left" width="15%" style="border: none; vertical-align: middle; padding: 12px 0;">
+      <img src="https://skillicons.dev/icons?i=androidstudio" width="40" height="40" alt="Android Studio" />
+      <img src="https://skillicons.dev/icons?i=gradle" width="40" height="40" alt="Gradle" style="margin-left: 4px;" />
+    </td>
+    <td align="left" width="85%" style="border: none; vertical-align: middle; padding: 12px 15px;">
+      <b>IDE & Build Automation</b><br/>
+      <font size="2" color="#8b949e">Native development in Android Studio, multi-variant compilation management, and optimized Gradle build scripting.</font>
+    </td>
+  </tr>
 </table>
 
 <!-- Row 3: Infrastructure & Storage -->
 <table border="0" style="border-collapse: collapse; border: none; width: 100%; margin-top: 0px; margin-bottom: 0px;">
-  <tr style="border: none; background: transparent;">
-    <td align="left" width="15%" style="border: none; vertical-align: middle; padding: 12px 0;">
-      <img src="https://skillicons.dev/icons?i=firebase" width="40" height="40" alt="Firebase" />
-      <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" style="margin-left: 4px;" />
-      <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" style="margin-left: 4px;" />
-    </td>
-    <td align="left" width="85%" style="border: none; vertical-align: middle; padding: 12px 15px;">
-      <b>Cloud Infrastructure & DevOps</b><br/>
-      <font size="2" color="#8b949e">Real-time data caching, Firestore cloud synchronization pipelines, and structured Git workflow architectures.</font>
-    </td>
-  </tr>
+  <tr style="border: none; background: transparent;">
+    <td align="left" width="15%" style="border: none; vertical-align: middle; padding: 12px 0;">
+      <img src="https://skillicons.dev/icons?i=firebase" width="40" height="40" alt="Firebase" />
+      <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" style="margin-left: 4px;" />
+      <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" style="margin-left: 4px;" />
+    </td>
+    <td align="left" width="85%" style="border: none; vertical-align: middle; padding: 12px 15px;">
+      <b>Cloud Infrastructure & DevOps</b><br/>
+      <font size="2" color="#8b949e">Real-time data caching, Firestore cloud synchronization pipelines, and structured Git workflow architectures.</font>
+    </td>
+  </tr>
 </table>
 
 <!-- Row 4: UI/UX Design -->
 <table border="0" style="border-collapse: collapse; border: none; width: 100%; margin-top: 0px;">
-  <tr style="border: none; background: transparent;">
-    <td align="left" width="15%" style="border: none; vertical-align: middle; padding: 12px 0;">
-      <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma" />
-    </td>
-    <td align="left" width="85%" style="border: none; vertical-align: middle; padding: 12px 15px;">
-      <b>Material Design & UI Canvas</b><br/>
-      <font size="2" color="#8b949e">Translating Figma designs into pixel-perfect, declarative layouts using modern Jetpack Compose and Material 3.</font>
-    </td>
-  </tr>
+  <tr style="border: none; background: transparent;">
+    <td align="left" width="15%" style="border: none; vertical-align: middle; padding: 12px 0;">
+      <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma" />
+    </td>
+    <td align="left" width="85%" style="border: none; vertical-align: middle; padding: 12px 15px;">
+      <b>Material Design & UI Canvas</b><br/>
+      <font size="2" color="#8b949e">Translating Figma designs into pixel-perfect, declarative layouts using modern Jetpack Compose and Material 3.</font>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -81,42 +82,22 @@
 
 > Intelligent task prioritization manager featuring deep Generative AI commands and modern security standards.
 
-<table width="100%" style="border-collapse: collapse; border-spacing: 0px; margin-top: 10px;">
-  <thead>
-    <tr style="border: none; background-color: transparent;">
-      <th align="left" width="25%" style="padding: 8px; border-bottom: 1px solid #30363d; color: #f0f6fc;">Subsystem</th>
-      <th align="left" width="75%" style="padding: 8px; border-bottom: 1px solid #30363d; color: #f0f6fc;">Technical Execution Architecture</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr style="border: none; background-color: transparent;">
-      <td align="left" style="padding: 10px 8px; border-bottom: 1px solid #21262d; vertical-align: middle;">⚡ **AI Parsing Engine**</td>
-      <td align="left" style="padding: 10px 8px; border-bottom: 1px solid #21262d; vertical-align: middle;">Integrated `Google Gemini 3.5 Flash` for processing natural language scheduling logic.</td>
-    </tr>
-    <tr style="border: none; background-color: transparent;">
-      <td align="left" style="padding: 10px 8px; border-bottom: 1px solid #21262d; vertical-align: middle;">🎯 **Smart Prioritization**</td>
-      <td align="left" style="padding: 10px 8px; border-bottom: 1px solid #21262d; vertical-align: middle;">Context-aware automated scheduling scoring algorithms (0-100 analytics).</td>
-    </tr>
-    <tr style="border: none; background-color: transparent;">
-      <td align="left" style="padding: 10px 8px; border-bottom: 1px solid #21262d; vertical-align: middle;">💾 **Data Durability**</td>
-      <td align="left" style="padding: 10px 8px; border-bottom: 1px solid #21262d; vertical-align: middle;">Offline-first sync with Room and real-time cloud data push over `Firebase Firestore`.</td>
-    </tr>
-    <tr style="border: none; background-color: transparent;">
-      <td align="left" style="padding: 10px 8px; border: none; vertical-align: middle;">🎨 **Asset Attribution**</td>
-      <td align="left" style="padding: 10px 8px; border: none; vertical-align: middle;">Visual vectors and system interface iconography sourced via [Uxwing](https://uxwing.com/).</td>
-    </tr>
-  </tbody>
-</table>
+| Subsystem | Technical Execution Architecture |
+| :--- | :--- |
+| ⚡ **AI Parsing Engine** | Integrated `Google Gemini 3.5 Flash` for processing natural language scheduling logic. |
+| 🎯 **Smart Prioritization** | Context-aware automated scheduling scoring algorithms (0-100 analytics). |
+| 💾 **Data Durability** | Offline-first sync with Room and real-time cloud data push over `Firebase Firestore`. |
+| 🎨 **Asset Attribution** | Visual vectors and system interface iconography sourced via [Uxwing](https://uxwing.com/). |
 
 <details>
 <summary><b>✨ View Interface Design (Click to Expand)</b></summary>
 <br/>
-<table width="100%" style="border-collapse: collapse; border: none;">
-  <tr style="border: none; background: transparent;">
-    <td width="33.3%" align="center" style="border: none; background: transparent;"><img src="https://github.com/user-attachments/assets/0687323d-7c9c-42cd-adef-e3a5af4370b3" width="100%" alt="Screen 1 (Chat)" /></td>
-    <td width="33.3%" align="center" style="border: none; background: transparent;"><img src="https://github.com/user-attachments/assets/88d00193-695e-4713-b450-014b26e70ca4" width="100%" alt="Screen 2 (Settings)" /></td>
-    <td width="33.3%" align="center" style="border: none; background: transparent;"><img src="https://github.com/user-attachments/assets/8c816a1b-0fa2-40d0-bf6c-4bcee829c79b" width="100%" alt="Screen 3 (Profile)" /></td>
-  </tr>
+<table width="100%">
+ <tr>
+   <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/0687323d-7c9c-42cd-adef-e3a5af4370b3" width="100%" alt="Screen 1 (Chat)" /></td>
+   <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/88d00193-695e-4713-b450-014b26e70ca4" width="100%" alt="Screen 2 (Settings)" /></td>
+   <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/8c816a1b-0fa2-40d0-bf6c-4bcee829c79b" width="100%" alt="Screen 3 (Profile)" /></td>
+ </tr>
 </table>
 </details>
 
@@ -129,42 +110,22 @@
 
 > High-performance academic tracking system engineered using offline-first architectures and enterprise data patterns.
 
-<table width="100%" style="border-collapse: collapse; border-spacing: 0px; margin-top: 10px;">
-  <thead>
-    <tr style="border: none; background-color: transparent;">
-      <th align="left" width="25%" style="padding: 8px; border-bottom: 1px solid #30363d; color: #f0f6fc;">Subsystem</th>
-      <th align="left" width="75%" style="padding: 8px; border-bottom: 1px solid #30363d; color: #f0f6fc;">Technical Execution Architecture</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr style="border: none; background-color: transparent;">
-      <td align="left" style="padding: 10px 8px; border-bottom: 1px solid #21262d; vertical-align: middle;">🔐 **Local Verification**</td>
-      <td align="left" style="padding: 10px 8px; border-bottom: 1px solid #21262d; vertical-align: middle;">Biometric device access management implemented using the Android `Biometric API`.</td>
-    </tr>
-    <tr style="border: none; background-color: transparent;">
-      <td align="left" style="padding: 10px 8px; border-bottom: 1px solid #21262d; vertical-align: middle;">🚀 **Reactive Caching**</td>
-      <td align="left" style="padding: 10px 8px; border-bottom: 1px solid #21262d; vertical-align: middle;">Relational local optimization using Room/SQLite with reactive `Kotlin Flow` streams.</td>
-    </tr>
-    <tr style="border: none; background-color: transparent;">
-      <td align="left" style="padding: 10px 8px; border-bottom: 1px solid #21262d; vertical-align: middle;">☁️ **Data Integrity**</td>
-      <td align="left" style="padding: 10px 8px; border-bottom: 1px solid #21262d; vertical-align: middle;">Managed automatic fallback cloud push syncing data over `Firebase NoSQL Architecture`.</td>
-    </tr>
-    <tr style="border: none; background-color: transparent;">
-      <td align="left" style="padding: 10px 8px; border: none; vertical-align: middle;">🎨 **Asset Attribution**</td>
-      <td align="left" style="padding: 10px 8px; border: none; vertical-align: middle;">Analytics metrics and dashboard iconography components curated from [Uxwing](https://uxwing.com/).</td>
-    </tr>
-  </tbody>
-</table>
+| Subsystem | Technical Execution Architecture |
+| :--- | :--- |
+| 🔐 **Local Verification** | Biometric device access management implemented using the Android `Biometric API`. |
+| 🚀 **Reactive Caching** | Relational local optimization using Room/SQLite with reactive `Kotlin Flow` streams. |
+| ☁️ **Data Integrity** | Managed automatic fallback cloud push syncing data over `Firebase NoSQL Architecture`. |
+| 🎨 **Asset Attribution** | Analytics metrics and dashboard iconography components curated from [Uxwing](https://uxwing.com/). |
 
 <details>
 <summary><b>✨ View Interface Design (Click to Expand)</b></summary>
 <br/>
-<table width="100%" style="border-collapse: collapse; border: none;">
-  <tr style="border: none; background: transparent;">
-    <td width="33.3%" align="center" style="border: none; background: transparent;"><img src="https://github.com/user-attachments/assets/f284e497-988d-4b81-a37e-99fa54263409" width="100%" alt="Screen 1 - Dashboard" /></td>
-    <td width="33.3%" align="center" style="border: none; background: transparent;"><img src="https://github.com/user-attachments/assets/161719f3-2c63-4f0c-90c4-ec26860c5eb1" width="100%" alt="Screen 2 - Analytics" /></td>
-    <td width="33.3%" align="center" style="border: none; background: transparent;"><img src="https://github.com/user-attachments/assets/a01a4f8a-693b-44ef-95e0-b8493b784875" width="100%" alt="Screen 3 - Report" /></td>
-  </tr>
+<table width="100%">
+<tr>
+    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/f284e497-988d-4b81-a37e-99fa54263409" width="100%" alt="Screen 1 - Dashboard" /></td>
+    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/161719f3-2c63-4f0c-90c4-ec26860c5eb1" width="100%" alt="Screen 2 - Analytics" /></td>
+    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/a01a4f8a-693b-44ef-95e0-b8493b784875" width="100%" alt="Screen 3 - Report" /></td>
+  </tr>
 </table>
 </details>
 
@@ -177,42 +138,22 @@
 
 > High-performance media streaming platform supporting dual extraction pipelines and custom hardware acceleration profiles.
 
-<table width="100%" style="border-collapse: collapse; border-spacing: 0px; margin-top: 10px;">
-  <thead>
-    <tr style="border: none; background-color: transparent;">
-      <th align="left" width="25%" style="padding: 8px; border-bottom: 1px solid #30363d; color: #f0f6fc;">Subsystem</th>
-      <th align="left" width="75%" style="padding: 8px; border-bottom: 1px solid #30363d; color: #f0f6fc;">Technical Execution Architecture</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr style="border: none; background-color: transparent;">
-      <td align="left" style="padding: 10px 8px; border-bottom: 1px solid #21262d; vertical-align: middle;">🎧 **Playback Pipeline**</td>
-      <td align="left" style="padding: 10px 8px; border-bottom: 1px solid #21262d; vertical-align: middle;">Advanced background foreground media bindings utilizing modern `Android Media3 (ExoPlayer)`.</td>
-    </tr>
-    <tr style="border: none; background-color: transparent;">
-      <td align="left" style="padding: 10px 8px; border-bottom: 1px solid #21262d; vertical-align: middle;">🎨 **Dynamic Canvas**</td>
-      <td align="left" style="padding: 10px 8px; border-bottom: 1px solid #21262d; vertical-align: middle;">Real-time system UI adjustments generated using the Android `Palette API` on dynamic image assets.</td>
-    </tr>
-    <tr style="border: none; background-color: transparent;">
-      <td align="left" style="padding: 10px 8px; border-bottom: 1px solid #21262d; vertical-align: middle;">🌐 **Network Interceptors**</td>
-      <td align="left" style="padding: 10px 8px; border-bottom: 1px solid #21262d; vertical-align: middle;">Custom proxy rotations handling custom okhttp interceptors to preserve consistent uptime.</td>
-    </tr>
-    <tr style="border: none; background-color: transparent;">
-      <td align="left" style="padding: 10px 8px; border: none; vertical-align: middle;">🎨 **Asset Attribution**</td>
-      <td align="left" style="padding: 10px 8px; border: none; vertical-align: middle;">Media controls and navigation vector assets integrated from [Uxwing](https://uxwing.com/).</td>
-    </tr>
-  </tbody>
-</table>
+| Subsystem | Technical Execution Architecture |
+| :--- | :--- |
+| 🎧 **Playback Pipeline** | Advanced background foreground media bindings utilizing modern `Android Media3 (ExoPlayer)`. |
+| 🎨 **Dynamic Canvas** | Real-time system UI adjustments generated using the Android `Palette API` on dynamic image assets. |
+| 🌐 **Network Interceptors** | Custom proxy rotations handling custom okhttp interceptors to preserve consistent uptime. |
+| 🎨 **Asset Attribution** | Media controls and navigation vector assets integrated from [Uxwing](https://uxwing.com/). |
 
 <details>
 <summary><b>✨ View Interface Design (Click to Expand)</b></summary>
 <br/>
-<table width="100%" style="border-collapse: collapse; border: none;">
-  <tr style="border: none; background: transparent;">
-    <td width="33.3%" align="center" style="border: none; background: transparent;"><img src="https://github.com/user-attachments/assets/416863fc-2ced-4f86-a67d-e609dd20c977" width="100%" alt="Screen 1 - Player Overview" /></td>
-    <td width="33.3%" align="center" style="border: none; background: transparent;"><img src="https://github.com/user-attachments/assets/1dda61b5-91b0-4c27-ad77-5db84ca3f911" width="100%" alt="Screen 2 - Music Library" /></td>
-    <td width="33.3%" align="center" style="border: none; background: transparent;"><img src="https://github.com/user-attachments/assets/18aad66f-7824-420b-8fa8-2aa79ad6da08" width="100%" alt="Screen 3 - Dynamic UI" /></td>
-  </tr>
+<table width="100%">
+  <tr>
+    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/416863fc-2ced-4f86-a67d-e609dd20c977" width="100%" alt="Screen 1 - Player Overview" /></td>
+    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/1dda61b5-91b0-4c27-ad77-5db84ca3f911" width="100%" alt="Screen 2 - Music Library" /></td>
+    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/18aad66f-7824-420b-8fa8-2aa79ad6da08" width="100%" alt="Screen 3 - Dynamic UI" /></td>
+</tr>
 </table>
 </details>
 
@@ -221,46 +162,26 @@
 <br/>
 
 ### 📥 WhatsApp Status Saver App
-![Status](https://img.shields.io/badge/Private_Code-181717?style=for-the-badge&logo=github&logoColor=white) Cast ![UI](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white) ![Async](https://img.shields.io/badge/Kotlin_Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Status](https://img.shields.io/badge/Private_Code-181717?style=for-the-badge&logo=github&logoColor=white) ![UI](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white) ![Async](https://img.shields.io/badge/Kotlin_Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 > Clean, local file storage architecture designed to pull, cache, and schedule media assets instantly.
 
-<table width="100%" style="border-collapse: collapse; border-spacing: 0px; margin-top: 10px;">
-  <thead>
-    <tr style="border: none; background-color: transparent;">
-      <th align="left" width="25%" style="padding: 8px; border-bottom: 1px solid #30363d; color: #f0f6fc;">Subsystem</th>
-      <th align="left" width="75%" style="padding: 8px; border-bottom: 1px solid #30363d; color: #f0f6fc;">Technical Execution Architecture</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr style="border: none; background-color: transparent;">
-      <td align="left" style="padding: 10px 8px; border-bottom: 1px solid #21262d; vertical-align: middle;">🔄 **Reactive State**</td>
-      <td align="left" style="padding: 10px 8px; border-bottom: 1px solid #21262d; vertical-align: middle;">Fluid UI adjustments driven completely via async Kotlin Coroutines lifecycle pipelines.</td>
-    </tr>
-    <tr style="border: none; background-color: transparent;">
-      <td align="left" style="padding: 10px 8px; border-bottom: 1px solid #21262d; vertical-align: middle;">💎 **Material Design**</td>
-      <td align="left" style="padding: 10px 8px; border-bottom: 1px solid #21262d; vertical-align: middle;">Beautiful glassmorphic themes natively processed using declarative `Jetpack Compose` elements.</td>
-    </tr>
-    <tr style="border: none; background-color: transparent;">
-      <td align="left" style="padding: 10px 8px; border-bottom: 1px solid #21262d; vertical-align: middle;">⏰ **Automated Triggers**</td>
-      <td align="left" style="padding: 10px 8px; border-bottom: 1px solid #21262d; vertical-align: middle;">Custom scheduling features processing notifications safely via system clock integrations.</td>
-    </tr>
-    <tr style="border: none; background-color: transparent;">
-      <td align="left" style="padding: 10px 8px; border: none; vertical-align: middle;">🎨 **Asset Attribution**</td>
-      <td align="left" style="padding: 10px 8px; border: none; vertical-align: middle;">Media action elements and download utility vectors optimized from [Uxwing](https://uxwing.com/).</td>
-    </tr>
-  </tbody>
-</table>
+| Subsystem | Technical Execution Architecture |
+| :--- | :--- |
+| 🔄 **Reactive State** | Fluid UI adjustments driven completely via async Kotlin Coroutines lifecycle pipelines. |
+| 💎 **Material Design** | Beautiful glassmorphic themes natively processed using declarative `Jetpack Compose` elements. |
+| ⏰ **Automated Triggers** | Custom scheduling features processing notifications safely via system clock integrations. |
+| 🎨 **Asset Attribution** | Media action elements and download utility vectors optimized from [Uxwing](https://uxwing.com/). |
 
 <details>
 <summary><b>✨ View Interface Design (Click to Expand)</b></summary>
 <br/>
-<table width="100%" style="border-collapse: collapse; border: none;">
-  <tr style="border: none; background: transparent;">
-    <td width="33.3%" align="center" style="border: none; background: transparent;"><img src="https://github.com/user-attachments/assets/95cc13eb-59b7-4e6e-a647-638b0e217404" width="100%" alt="Screen 1" /></td>
-    <td width="33.3%" align="center" style="border: none; background: transparent;"><img src="https://github.com/user-attachments/assets/3eddf1e8-8221-47aa-b360-139a9642cce9" width="100%" alt="Screen 2" /></td>
-    <td width="33.3%" align="center" style="border: none; background: transparent;"><img src="https://github.com/user-attachments/assets/7c9be296-563f-48b3-a523-671445fd77a3" width="100%" alt="Screen 3" /></td>
-  </tr>
+<table width="100%">
+  <tr>
+    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/95cc13eb-59b7-4e6e-a647-638b0e217404" width="100%" alt="Screen 1" /></td>
+    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/3eddf1e8-8221-47aa-b360-139a9642cce9" width="100%" alt="Screen 2" /></td>
+    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/7c9be296-563f-48b3-a523-671445fd77a3" width="100%" alt="Screen 3" /></td>
+  </tr>
 </table>
 </details>
 
@@ -273,42 +194,22 @@
 
 > Premium document manager processed using low-latency IO capabilities wrapped inside a neon-glassmorphism wrapper.
 
-<table width="100%" style="border-collapse: collapse; border-spacing: 0px; margin-top: 10px;">
-  <thead>
-    <tr style="border: none; background-color: transparent;">
-      <th align="left" width="25%" style="padding: 8px; border-bottom: 1px solid #30363d; color: #f0f6fc;">Subsystem</th>
-      <th align="left" width="75%" style="padding: 8px; border-bottom: 1px solid #30363d; color: #f0f6fc;">Technical Execution Architecture</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr style="border: none; background-color: transparent;">
-      <td align="left" style="padding: 10px 8px; border-bottom: 1px solid #21262d; vertical-align: middle;">🛡️ **Secure Vault**</td>
-      <td align="left" style="padding: 10px 8px; border-bottom: 1px solid #21262d; vertical-align: middle;">Isolated filesystem processing encrypted structures and hidden states behind local system decoders.</td>
-    </tr>
-    <tr style="border: none; background-color: transparent;">
-      <td align="left" style="padding: 10px 8px; border-bottom: 1px solid #21262d; vertical-align: middle;">📄 **Multi-Format Engine**</td>
-      <td align="left" style="padding: 10px 8px; border-bottom: 1px solid #21262d; vertical-align: middle;">Responsive native rendering pipelines managing complex extensions (PDF, JSON, XML, Office Docs).</td>
-    </tr>
-    <tr style="border: none; background-color: transparent;">
-      <td align="left" style="padding: 10px 8px; border-bottom: 1px solid #21262d; vertical-align: middle;">📱 **UI Composition**</td>
-      <td align="left" style="padding: 10px 8px; border-bottom: 1px solid #21262d; vertical-align: middle;">Completely immersive edge-to-edge layout design using robust Jetpack Compose lifecycle rules.</td>
-    </tr>
-    <tr style="border: none; background-color: transparent;">
-      <td align="left" style="padding: 10px 8px; border: none; vertical-align: middle;">🎨 **Asset Attribution**</td>
-      <td align="left" style="padding: 10px 8px; border: none; vertical-align: middle;">Multi-extension file types and secure directories graphics engineered via [Uxwing](https://uxwing.com/).</td>
-    </tr>
-  </tbody>
-</table>
+| Subsystem | Technical Execution Architecture |
+| :--- | :--- |
+| 🛡️ **Secure Vault** | Isolated filesystem processing encrypted structures and hidden states behind local system decoders. |
+| 📄 **Multi-Format Engine** | Responsive native rendering pipelines managing complex extensions (PDF, JSON, XML, Office Docs). |
+| 📱 **UI Composition** | Completely immersive edge-to-edge layout design using robust Jetpack Compose lifecycle rules. |
+| 🎨 **Asset Attribution** | Multi-extension file types and secure directories graphics engineered via [Uxwing](https://uxwing.com/). |
 
 <details>
 <summary><b>✨ View Interface Design (Click to Expand)</b></summary>
 <br/>
-<table width="100%" style="border-collapse: collapse; border: none;">
-  <tr style="border: none; background: transparent;">
-    <td width="33.3%" align="center" style="border: none; background: transparent;"><img src="https://github.com/user-attachments/assets/bd6996e3-4ae5-4e36-a3fe-7e66cebf2995" width="100%" alt="Screen 1 - File Explorer Overview" /></td>
-    <td width="33.3%" align="center" style="border: none; background: transparent;"><img src="https://github.com/user-attachments/assets/29199c01-27a1-4b32-8a3a-4a70c5c477e2" width="100%" alt="Screen 2 - Document Rendering Engine" /></td>
-    <td width="33.3%" align="center" style="border: none; background: transparent;"><img src="https://github.com/user-attachments/assets/660d8824-b15b-4539-a5a5-2e92aed48af5" width="100%" alt="Screen 3 - Immersive Layout" /></td>
-  </tr>
+<table width="100%">
+ <tr>
+    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/bd6996e3-4ae5-4e36-a3fe-7e66cebf2995" width="100%" alt="Screen 1 - File Explorer Overview" /></td>
+    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/29199c01-27a1-4b32-8a3a-4a70c5c477e2" width="100%" alt="Screen 2 - Document Rendering Engine" /></td>
+    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/660d8824-b15b-4539-a5a5-2e92aed48af5" width="100%" alt="Screen 3 - Immersive Layout" /></td>
+</tr>
 </table>
 </details>
 
@@ -317,7 +218,7 @@
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sharjeelkhan-dev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=00D4FF&point=FFFFFF&area=true&area_color=6C63FF" alt="Activity Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sharjeelkhan-dev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=00D4FF&point=FFFFFF&area=true&area_color=6C63FF" alt="Activity Graph" />
 </div>
 
 ---
@@ -347,5 +248,5 @@ If you are a technical recruiter, hiring manager, or software engineer wishing t
 
 <!-- Modern Minimalist Footer Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=E0C3FC,8EC5FC&height=120&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=E0C3FC,8EC5FC&height=120&section=footer" alt="Footer" />
 </div>
