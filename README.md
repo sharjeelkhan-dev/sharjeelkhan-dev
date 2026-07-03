@@ -163,7 +163,7 @@
   <tr>
     <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/2c1cb761-2b79-4b0d-85a1-465801c1f159" width="100%" alt="Screen 1" /></td>
     <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/d37631cf-4d69-4c5a-a5de-1b8a6baf7478" width="100%" alt="Screen 2" /></td>
-    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/60226413-7788-47a4-a789-d42c248af772" width="100%" alt="Screen 3" /></td>
+    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/6cf18f41-6e88-4eb6-8267-b56708e4c5bb" width="100%" alt="Screen 1" /></td>
   </tr>
 </table>
 </details>
@@ -230,9 +230,3 @@ If you are a technical recruiter, hiring manager, or software engineer wishing t
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=E0C3FC,8EC5FC&height=120&section=footer" alt="Footer" />
 </div>
-
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/2c1cb761-2b79-4b0d-85a1-465801c1f159" />
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/d37631cf-4d69-4c5a-a5de-1b8a6baf7478" />
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/60226413-7788-47a4-a789-d42c248af772" />
-
-
