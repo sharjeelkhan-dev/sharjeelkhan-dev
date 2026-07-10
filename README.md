@@ -112,9 +112,10 @@
 <br/>
 <table width="100%">
 <tr>
+  <tr>
+    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/98983200-0775-48b1-a4fe-82338d7bb24c" width="100%" alt="Screen 1 - Splash" /></td>
    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/d5ee8c27-e804-42cc-a151-20eb9dc4f3e9" width="100%" alt="Screen 1 - Dashboard" /></td>
-    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/161719f3-2c63-4f0c-90c4-ec26860c5eb1" width="100%" alt="Screen 2 - Analytics" /></td>
-    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/a01a4f8a-693b-44ef-95e0-b8493b784875" width="100%" alt="Screen 3 - Report" /></td>
+   <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/c8d787df-e309-42ae-a162-f428135b3a5a" width="100%" alt="Screen 1 - Report" /></td> 
   </tr>
 </table>
 </details>
