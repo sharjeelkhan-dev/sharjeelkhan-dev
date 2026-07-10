@@ -204,7 +204,6 @@
 | 🏗️ **Clean Architecture** | Multi-layered decoupled system designed over MVVM, Dagger-Hilt dependency injection, and scalable repository patterns. |
 | 👓 **Dynamic Reader Mode** | Advanced web-scraping logic using "Jsoup Parsing Engines" to strip cluttered web layouts into distraction-free reading canvases. |
 | ☁️ **Cloud Synchronization** | Atomic data pipelines utilizing Firebase Firestore Transactions to manage user bookmarks, preferences, and dynamic follower counts. |
-| 🛡️ **Content Moderation** | User-centric control modules allowing users to hide articles, block publisher sources, and execute strict reports via dynamic time/date queries. |
 | 🎨 **Material 3 Interface** | Premium visual layouts built completely with Jetpack Compose, featuring custom animated tab indicators and smooth image loading via Coil. |
 | 🎨 **Asset Attribution** | Core system actions, navigation nodes, and modern news channel vector elements curated via [Uxwing](https://uxwing.com/). |
 
