@@ -94,7 +94,7 @@
 </details>
 <hr/>
 
-### 🧑🏼‍🎓 Student Attendance & Analytics App
+### 🧑🏼‍🎓 Smart Student Attendance & Analytics App
 ![Status](https://img.shields.io/badge/Private_Code-181717?style=for-the-badge&logo=github&logoColor=white) ![Security](https://img.shields.io/badge/Biometric_API-3DDC84?style=for-the-badge&logo=android&logoColor=black) ![Database](https://img.shields.io/badge/Room_SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 > High-performance academic tracking system engineered using offline-first architectures and enterprise data patterns.
@@ -102,6 +102,7 @@
 | Subsystem | Technical Execution Architecture |
 | :--- | :--- |
 | 🔐 **Local Verification** | Biometric device access management implemented using the Android "Biometric API". |
+| ⚡ **AI Parsing Engine** | Integrated "Google Gemini 3.5 Flash" for processing natural language scheduling logic & Take Daily Attendance. |
 | 🚀 **Reactive Caching** | Relational local optimization using Room/SQLite with reactive "Kotlin Flow" streams. |
 | ☁️ **Data Integrity** | Managed automatic fallback cloud push syncing data over "Firebase NoSQL Architecture". |
 | 🎨 **Asset Attribution** | Analytics metrics and dashboard iconography components curated from [Uxwing](https://uxwing.com/). |
@@ -111,7 +112,7 @@
 <br/>
 <table width="100%">
 <tr>
-    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/f284e497-988d-4b81-a37e-99fa54263409" width="100%" alt="Screen 1 - Dashboard" /></td>
+   <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/d5ee8c27-e804-42cc-a151-20eb9dc4f3e9" width="100%" alt="Screen 1 - Dashboard" /></td>
     <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/161719f3-2c63-4f0c-90c4-ec26860c5eb1" width="100%" alt="Screen 2 - Analytics" /></td>
     <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/a01a4f8a-693b-44ef-95e0-b8493b784875" width="100%" alt="Screen 3 - Report" /></td>
   </tr>
