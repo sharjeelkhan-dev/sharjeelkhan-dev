@@ -65,7 +65,7 @@
 
 ---
 
-## ⇛ Repositories
+## ⇛ Projects
 > 💡Dive into the code! All projects are now public—just click on the project details.
 
 <table width="100%" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
