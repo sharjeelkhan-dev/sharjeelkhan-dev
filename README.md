@@ -77,7 +77,7 @@
       <a href="https://github.com/sharjeelkhan111213-coder/TodoApp" title="Open Repository" style="text-decoration: none;"><font size="4" color="#58a6ff"><b>↗</b></font></a>
       <p style="margin: 6px 0 12px 0; line-height: 1.5;"><font size="2" color="#8b949e">Intelligent task management featuring deep Generative AI commands, Smart Prioritization analytics, and Room durability structures.</font></p>
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" height="20"/>
-      <img src="https://img.shields.io/badge/Gemini_3.5-Flash-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" height="20"/>
+      <img src="https://img.shields.io/badge/Gemini_3.5- Flash -8E75B2?style=flat-square&logo=googlegemini&logoColor=white" height="20"/>
       <img src="https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black" height="20"/>
     </td>
     <!-- MusicStream App -->
