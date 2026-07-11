@@ -66,72 +66,66 @@
 ---
 
 ## ⇛ Production Repositories (Touch to Explore)
-> 💡 *All projects are now public. Simply click on any project name, description, or badge to explore the full codebase.*
+> 💡 *Dive into the code! All projects are now public—just click on the project details.*
 
 <table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse: collapse; border: none;">
   <!-- Row 1 -->
   <tr style="border: none;">
     <!-- Smart Todo App -->
     <td width="50%" valign="top" style="border: none; padding: 15px 15px 15px 0;">
-      <a href="https://github.com/sharjeelkhan-dev/TodoApp" style="text-decoration: none; color: #c9d1d9; border: none;">
-        <font size="4" color="#c9d1d9"><b>🧠 TodoApp ↗</b></font>
-      </a>
+      <font size="4" color="#c9d1d9"><b>🧠 TodoApp </b></font>
+      <a href="https://github.com/sharjeelkhan111213-coder/TodoApp" title="Open Repository" style="text-decoration: none;"><font size="4" color="#58a6ff"><b>↗</b></font></a>
       <p style="margin: 6px 0 12px 0; line-height: 1.5;"><font size="2" color="#8b949e">Intelligent task management featuring deep Generative AI commands, Smart Prioritization analytics, and Room durability structures.</font></p>
-      <a href="https://github.com/sharjeelkhan-dev/TodoApp"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" height="20"/></a>
-      <a href="https://github.com/sharjeelkhan-dev/TodoApp"><img src="https://img.shields.io/badge/Gemini_2.0-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" height="20"/></a>
-      <a href="https://github.com/sharjeelkhan-dev/TodoApp"><img src="https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black" height="20"/></a>
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" height="20"/>
+      <img src="https://img.shields.io/badge/Gemini_2.0-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" height="20"/>
+      <img src="https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black" height="20"/>
     </td>
     <!-- MusicStream App -->
     <td width="50%" valign="top" style="border: none; padding: 15px 0 15px 15px;">
-      <a href="https://github.com/sharjeelkhan-dev/MusicStreamApp" style="text-decoration: none; color: #c9d1d9; border: none;">
-        <font size="4" color="#c9d1d9"><b>🎧 MusicStreamApp ↗</b></font>
-      </a>
+      <font size="4" color="#c9d1d9"><b>🎧 MusicStreamApp </b></font>
+      <a href="https://github.com/sharjeelkhan111213-coder/MusicStreamApp" title="Open Repository" style="text-decoration: none;"><font size="4" color="#58a6ff"><b>↗</b></font></a>
       <p style="margin: 6px 0 12px 0; line-height: 1.5;"><font size="2" color="#8b949e">High-performance media streaming platform engineered over Media3 ExoPlayer pipelines with dynamic Palette UI layouts.</font></p>
-      <a href="https://github.com/sharjeelkhan-dev/MusicStreamApp"><img src="https://img.shields.io/badge/Media3-E64A19?style=flat-square&logo=youtube&logoColor=white" height="20"/></a>
-      <a href="https://github.com/sharjeelkhan-dev/MusicStreamApp"><img src="https://img.shields.io/badge/ExoPlayer-orange?style=flat-square" height="20"/></a>
-      <a href="https://github.com/sharjeelkhan-dev/MusicStreamApp"><img src="https://img.shields.io/badge/Network_Proxy-4CAF50?style=flat-square" height="20"/></a>
+      <img src="https://img.shields.io/badge/Media3-E64A19?style=flat-square&logo=youtube&logoColor=white" height="20"/>
+      <img src="https://img.shields.io/badge/ExoPlayer-orange?style=flat-square" height="20"/>
+      <img src="https://img.shields.io/badge/Network_Proxy-4CAF50?style=flat-square" height="20"/>
     </td>
   </tr>
   <!-- Row 2 -->
   <tr style="border: none;">
     <!-- Attendance Analytics App -->
     <td width="50%" valign="top" style="border: none; padding: 15px 15px 15px 0;">
-      <a href="https://github.com/sharjeelkhan-dev/StudentAttendanceApp" style="text-decoration: none; color: #c9d1d9; border: none;">
-        <font size="4" color="#c9d1d9"><b>🎓 StudentAttendanceApp ↗</b></font>
-      </a>
+      <font size="4" color="#c9d1d9"><b>🎓 StudentAttendanceApp </b></font>
+      <a href="https://github.com/sharjeelkhan111213-coder/StudentAttendanceApp" title="Open Repository" style="text-decoration: none;"><font size="4" color="#58a6ff"><b>↗</b></font></a>
       <p style="margin: 6px 0 12px 0; line-height: 1.5;"><font size="2" color="#8b949e">Academic tracking management engineered using native Biometric prompt access constraints and standalone Room cache streams.</font></p>
-      <a href="https://github.com/sharjeelkhan-dev/StudentAttendanceApp"><img src="https://img.shields.io/badge/Biometric_API-3DDC84?style=flat-square&logo=android&logoColor=black" height="20"/></a>
-      <a href="https://github.com/sharjeelkhan-dev/StudentAttendanceApp"><img src="https://img.shields.io/badge/Room_DB-003B57?style=flat-square&logo=sqlite&logoColor=white" height="20"/></a>
+      <img src="https://img.shields.io/badge/Biometric_API-3DDC84?style=flat-square&logo=android&logoColor=black" height="20"/>
+      <img src="https://img.shields.io/badge/Room_DB-003B57?style=flat-square&logo=sqlite&logoColor=white" height="20"/>
     </td>
     <!-- File Viewer App -->
     <td width="50%" valign="top" style="border: none; padding: 15px 0 15px 15px;">
-      <a href="https://github.com/sharjeelkhan-dev/FileViewerApp" style="text-decoration: none; color: #c9d1d9; border: none;">
-        <font size="4" color="#c9d1d9"><b>📂 FileViewerApp ↗</b></font>
-      </a>
+      <font size="4" color="#c9d1d9"><b>📂 FileViewerApp </b></font>
+      <a href="https://github.com/sharjeelkhan111213-coder/FileViewerApp" title="Open Repository" style="text-decoration: none;"><font size="4" color="#58a6ff"><b>↗</b></font></a>
       <p style="margin: 6px 0 12px 0; line-height: 1.5;"><font size="2" color="#8b949e">Premium multi-format document explorer featuring low-latency processing systems inside an encrypted biometric vault shield.</font></p>
-      <a href="https://github.com/sharjeelkhan-dev/FileViewerApp"><img src="https://img.shields.io/badge/Secure_Vault-607D8B?style=flat-square&logo=android&logoColor=white" height="20"/></a>
-      <a href="https://github.com/sharjeelkhan-dev/FileViewerApp"><img src="https://img.shields.io/badge/Glassmorphism-4285F4?style=flat-square" height="20"/></a>
+      <img src="https://img.shields.io/badge/Secure_Vault-607D8B?style=flat-square&logo=android&logoColor=white" height="20"/>
+      <img src="https://img.shields.io/badge/Glassmorphism-4285F4?style=flat-square" height="20"/>
     </td>
   </tr>
   <!-- Row 3 -->
   <tr style="border: none;">
     <!-- WhatsApp Status Saver -->
     <td width="50%" valign="top" style="border: none; padding: 15px 15px 15px 0;">
-      <a href="https://github.com/sharjeelkhan-dev/whatsappstatussaver" style="text-decoration: none; color: #c9d1d9; border: none;">
-        <font size="4" color="#c9d1d9"><b>⏬ StatusSaverApp ↗</b></font>
-      </a>
+      <font size="4" color="#c9d1d9"><b>⏬ StatusSaverApp </b></font>
+      <a href="https://github.com/sharjeelkhan111213-coder/whatsappstatussaver" title="Open Repository" style="text-decoration: none;"><font size="4" color="#58a6ff"><b>↗</b></font></a>
       <p style="margin: 6px 0 12px 0; line-height: 1.5;"><font size="2" color="#8b949e">Reactive media filesystem caching pipeline engineered to grab, stream, and structure background local storage status assets instantly.</font></p>
-      <a href="https://github.com/sharjeelkhan-dev/whatsappstatussaver"><img src="https://img.shields.io/badge/Coroutines-7F52FF?style=flat-square&logo=kotlin&logoColor=white" height="20"/></a>
-      <a href="https://github.com/sharjeelkhan-dev/whatsappstatussaver"><img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" height="20"/></a>
+      <img src="https://img.shields.io/badge/Coroutines-7F52FF?style=flat-square&logo=kotlin&logoColor=white" height="20"/>
+      <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" height="20"/>
     </td>
     <!-- Akhbar News Platform -->
     <td width="50%" valign="top" style="border: none; padding: 15px 0 15px 15px;">
-      <a href="https://github.com/sharjeelkhan-dev/NewsApp" style="text-decoration: none; color: #c9d1d9; border: none;">
-        <font size="4" color="#c9d1d9"><b>📰 NewsApp ↗</b></font>
-      </a>
+      <font size="4" color="#c9d1d9"><b>📰 NewsApp </b></font>
+      <a href="https://github.com/sharjeelkhan111213-coder/NewsApp" title="Open Repository" style="text-decoration: none;"><font size="4" color="#58a6ff"><b>↗</b></font></a>
       <p style="margin: 6px 0 12px 0; line-height: 1.5;"><font size="2" color="#8b949e">Personalized news platform built over strict MVVM boundaries using dynamic Jsoup scraping web core layout extraction models.</font></p>
-      <a href="https://github.com/sharjeelkhan-dev/NewsApp"><img src="https://img.shields.io/badge/Jsoup_Scraper-2C3E50?style=flat-square" height="20"/></a>
-      <a href="https://github.com/sharjeelkhan-dev/NewsApp"><img src="https://img.shields.io/badge/Hilt_DI-0078D4?style=flat-square&logo=android&logoColor=white" height="20"/></a>
+      <img src="https://img.shields.io/badge/Jsoup_Scraper-2C3E50?style=flat-square" height="20"/>
+      <img src="https://img.shields.io/badge/Hilt_DI-0078D4?style=flat-square&logo=android&logoColor=white" height="20"/>
     </td>
   </tr>
 </table>
