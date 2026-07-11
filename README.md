@@ -1,6 +1,5 @@
 <!-- Modern Minimalist Header Banner -->
 <p align="center">
-  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=E0C3FC,8EC5FC&height=220&section=header&text=Sharjeel%20Khan&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Android%20Developer%20%7C%20Kotlin%20%7C%20Jetpack%20Compose%20%7C%20Firebase%20%7C%20MVVM%20%7C%20Clean%20Architecture&descAlignY=55&descAlign=50&descSize=18" alt="Sharjeel Khan" />
 </p>
 
@@ -9,7 +8,7 @@
 ### 👋 Welcome to my Workspace
 *I turn complex logic into seamless, scalable, and highly responsive native Android experiences.*
 
-<a href="https://linkedin.com/in/sharjeelkhan-dev" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="40" height="40" alt="LinkedIn" style="margin-right: 10px;" /></a>      <a href="mailto:sharjeelkhan454647@gmail.com"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Light.svg" width="40" height="40" alt="Email" /></a>
+<a href="https://linkedin.com/in/sharjeelkhan-dev" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="40" height="40" alt="LinkedIn" style="margin-right: 10px;" /></a>    <a href="mailto:sharjeelkhan454647@gmail.com"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Light.svg" width="40" height="40" alt="Email" /></a>
 
 </div>
 
@@ -64,164 +63,78 @@
   </tr>
 </table>
 
-
 ---
 
-## ⇛ Featured Projects
+## ⇛ Production Repositories (Touch to Explore)
+> 💡 *Sare projects ab **public** hain. Aap kisi bhi project name, description ya uske badge par touch/click karke uski complete codebase ko direct open kar sakte hain.*
 
-### 🧠 Smart Todo App
-![Status](https://img.shields.io/badge/Private_Code-181717?style=for-the-badge&logo=github&logoColor=white) ![AI](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) ![Cloud](https://img.shields.io/badge/Firebase_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-> Intelligent task prioritization manager featuring deep Generative AI commands and modern security standards.
-
-| Subsystem | Technical Execution Architecture |
-| :--- | :--- |
-| ⚡ **AI Parsing Engine** | Integrated "Google Gemini 3.5 Flash" for processing natural language scheduling logic. |
-| 🎯 **Smart Prioritization** | Context-aware automated scheduling scoring algorithms (0-100 analytics). |
-| 💾 **Data Durability** | Offline-first sync with Room and real-time cloud data push over "Firebase Firestore". |
-| 🎨 **Asset Attribution** | Visual vectors and system interface iconography sourced via [Uxwing](https://uxwing.com/). |
-
-<details>
-<summary><b>✨ View Interface Design (Click to Expand)</b></summary>
-<br/>
-<table width="100%">
- <tr>
-   <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/1108fa2e-42b6-401c-bc5d-db2aa72c22f6" width="100%" alt="Screen 1 (Splash)" /></td>
-   <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/88d00193-695e-4713-b450-014b26e70ca4" width="100%" alt="Screen 2 (Home)" /></td>
-   <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/8c816a1b-0fa2-40d0-bf6c-4bcee829c79b" width="100%" alt="Screen 3 (Edit)" /></td>
- </tr>
-</table>
-</details>
-<hr/>
-
-### 🧑🏼‍🎓 Smart Student Attendance & Analytics App
-![Status](https://img.shields.io/badge/Private_Code-181717?style=for-the-badge&logo=github&logoColor=white) ![AI](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) ![Security](https://img.shields.io/badge/Biometric_API-3DDC84?style=for-the-badge&logo=android&logoColor=black) ![Database](https://img.shields.io/badge/Room_SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-> High-performance academic tracking system engineered using offline-first architectures and enterprise data patterns.
-
-| Subsystem | Technical Execution Architecture |
-| :--- | :--- |
-| 🔐 **Local Verification** | Biometric device access management implemented using the Android "Biometric API". |
-| ⚡ **AI Parsing Engine** | Integrated "Google Gemini 3.5 Flash" for processing natural language scheduling logic & Take Daily Attendance. |
-| 🚀 **Reactive Caching** | Relational local optimization using Room/SQLite with reactive "Kotlin Flow" streams. |
-| ☁️ **Data Integrity** | Managed automatic fallback cloud push syncing data over "Firebase NoSQL Architecture". |
-| 🎨 **Asset Attribution** | Analytics metrics and dashboard iconography components curated from [Uxwing](https://uxwing.com/). |
-
-<details>
-<summary><b>✨ View Interface Design (Click to Expand)</b></summary>
-<br/>
-<table width="100%">
-<tr>
-  <tr>
-    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/98983200-0775-48b1-a4fe-82338d7bb24c" width="100%" alt="Screen 1 - Splash" /></td>
-   <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/d5ee8c27-e804-42cc-a151-20eb9dc4f3e9" width="100%" alt="Screen 1 - Dashboard" /></td>
-   <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/c8d787df-e309-42ae-a162-f428135b3a5a" width="100%" alt="Screen 1 - Report" /></td> 
+<table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse: collapse; border: none;">
+  <!-- Row 1 -->
+  <tr style="border: none;">
+    <!-- Smart Todo App -->
+    <td width="50%" valign="top" style="border: none; padding: 15px 15px 15px 0;">
+      <a href="https://github.com/sharjeelkhan-dev/TodoApp" style="text-decoration: none; color: #c9d1d9; border: none;">
+        <font size="4" color="#c9d1d9"><b>🧠 TodoApp ↗</b></font>
+      </a>
+      <p style="margin: 6px 0 12px 0; line-height: 1.5;"><font size="2" color="#8b949e">Intelligent task management featuring deep Generative AI commands, Smart Prioritization analytics, and Room durability structures.</font></p>
+      <a href="https://github.com/sharjeelkhan-dev/TodoApp"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" height="20"/></a>
+      <a href="https://github.com/sharjeelkhan-dev/TodoApp"><img src="https://img.shields.io/badge/Gemini_2.0-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" height="20"/></a>
+      <a href="https://github.com/sharjeelkhan-dev/TodoApp"><img src="https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black" height="20"/></a>
+    </td>
+    <!-- MusicStream App -->
+    <td width="50%" valign="top" style="border: none; padding: 15px 0 15px 15px;">
+      <a href="https://github.com/sharjeelkhan-dev/MusicStreamApp" style="text-decoration: none; color: #c9d1d9; border: none;">
+        <font size="4" color="#c9d1d9"><b>🎧 MusicStreamApp ↗</b></font>
+      </a>
+      <p style="margin: 6px 0 12px 0; line-height: 1.5;"><font size="2" color="#8b949e">High-performance media streaming platform engineered over Media3 ExoPlayer pipelines with dynamic Palette UI layouts.</font></p>
+      <a href="https://github.com/sharjeelkhan-dev/MusicStreamApp"><img src="https://img.shields.io/badge/Media3-E64A19?style=flat-square&logo=youtube&logoColor=white" height="20"/></a>
+      <a href="https://github.com/sharjeelkhan-dev/MusicStreamApp"><img src="https://img.shields.io/badge/ExoPlayer-orange?style=flat-square" height="20"/></a>
+      <a href="https://github.com/sharjeelkhan-dev/MusicStreamApp"><img src="https://img.shields.io/badge/Network_Proxy-4CAF50?style=flat-square" height="20"/></a>
+    </td>
+  </tr>
+  <!-- Row 2 -->
+  <tr style="border: none;">
+    <!-- Attendance Analytics App -->
+    <td width="50%" valign="top" style="border: none; padding: 15px 15px 15px 0;">
+      <a href="https://github.com/sharjeelkhan-dev/StudentAttendanceApp" style="text-decoration: none; color: #c9d1d9; border: none;">
+        <font size="4" color="#c9d1d9"><b>🎓 StudentAttendanceApp ↗</b></font>
+      </a>
+      <p style="margin: 6px 0 12px 0; line-height: 1.5;"><font size="2" color="#8b949e">Academic tracking management engineered using native Biometric prompt access constraints and standalone Room cache streams.</font></p>
+      <a href="https://github.com/sharjeelkhan-dev/StudentAttendanceApp"><img src="https://img.shields.io/badge/Biometric_API-3DDC84?style=flat-square&logo=android&logoColor=black" height="20"/></a>
+      <a href="https://github.com/sharjeelkhan-dev/StudentAttendanceApp"><img src="https://img.shields.io/badge/Room_DB-003B57?style=flat-square&logo=sqlite&logoColor=white" height="20"/></a>
+    </td>
+    <!-- File Viewer App -->
+    <td width="50%" valign="top" style="border: none; padding: 15px 0 15px 15px;">
+      <a href="https://github.com/sharjeelkhan-dev/FileViewerApp" style="text-decoration: none; color: #c9d1d9; border: none;">
+        <font size="4" color="#c9d1d9"><b>📂 FileViewerApp ↗</b></font>
+      </a>
+      <p style="margin: 6px 0 12px 0; line-height: 1.5;"><font size="2" color="#8b949e">Premium multi-format document explorer featuring low-latency processing systems inside an encrypted biometric vault shield.</font></p>
+      <a href="https://github.com/sharjeelkhan-dev/FileViewerApp"><img src="https://img.shields.io/badge/Secure_Vault-607D8B?style=flat-square&logo=android&logoColor=white" height="20"/></a>
+      <a href="https://github.com/sharjeelkhan-dev/FileViewerApp"><img src="https://img.shields.io/badge/Glassmorphism-4285F4?style=flat-square" height="20"/></a>
+    </td>
+  </tr>
+  <!-- Row 3 -->
+  <tr style="border: none;">
+    <!-- WhatsApp Status Saver -->
+    <td width="50%" valign="top" style="border: none; padding: 15px 15px 15px 0;">
+      <a href="https://github.com/sharjeelkhan-dev/whatsappstatussaver" style="text-decoration: none; color: #c9d1d9; border: none;">
+        <font size="4" color="#c9d1d9"><b>⏬ StatusSaverApp ↗</b></font>
+      </a>
+      <p style="margin: 6px 0 12px 0; line-height: 1.5;"><font size="2" color="#8b949e">Reactive media filesystem caching pipeline engineered to grab, stream, and structure background local storage status assets instantly.</font></p>
+      <a href="https://github.com/sharjeelkhan-dev/whatsappstatussaver"><img src="https://img.shields.io/badge/Coroutines-7F52FF?style=flat-square&logo=kotlin&logoColor=white" height="20"/></a>
+      <a href="https://github.com/sharjeelkhan-dev/whatsappstatussaver"><img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" height="20"/></a>
+    </td>
+    <!-- Akhbar News Platform -->
+    <td width="50%" valign="top" style="border: none; padding: 15px 0 15px 15px;">
+      <a href="https://github.com/sharjeelkhan-dev/NewsApp" style="text-decoration: none; color: #c9d1d9; border: none;">
+        <font size="4" color="#c9d1d9"><b>📰 NewsApp ↗</b></font>
+      </a>
+      <p style="margin: 6px 0 12px 0; line-height: 1.5;"><font size="2" color="#8b949e">Personalized news platform built over strict MVVM boundaries using dynamic Jsoup scraping web core layout extraction models.</font></p>
+      <a href="https://github.com/sharjeelkhan-dev/NewsApp"><img src="https://img.shields.io/badge/Jsoup_Scraper-2C3E50?style=flat-square" height="20"/></a>
+      <a href="https://github.com/sharjeelkhan-dev/NewsApp"><img src="https://img.shields.io/badge/Hilt_DI-0078D4?style=flat-square&logo=android&logoColor=white" height="20"/></a>
+    </td>
   </tr>
 </table>
-</details>
-<hr/>
-
-### 🎧 MusicStream App
-![Status](https://img.shields.io/badge/Private_Code-181717?style=for-the-badge&logo=github&logoColor=white) ![Media](https://img.shields.io/badge/Media3_ExoPlayer-E64A19?style=for-the-badge&logo=youtube&logoColor=white) ![Network](https://img.shields.io/badge/OkHttp_Network-4CAF50?style=for-the-badge&logo=android&logoColor=white)
-
-> High-performance media streaming platform supporting dual extraction pipelines and custom hardware acceleration profiles.
-
-| Subsystem | Technical Execution Architecture |
-| :--- | :--- |
-| 🎧 **Playback Pipeline** | Advanced background foreground media bindings utilizing modern "Android Media3 (ExoPlayer)". |
-| 🎨 **Dynamic Canvas** | Real-time system UI adjustments generated using the Android "Palette API" on dynamic image assets. |
-| 🌐 **Network Interceptors** | Custom proxy rotations handling custom okhttp interceptors to preserve consistent uptime. |
-| 🎨 **Asset Attribution** | Media controls and navigation vector assets integrated from [Uxwing](https://uxwing.com/). |
-
-<details>
-<summary><b>✨ View Interface Design (Click to Expand)</b></summary>
-<br/>
-<table width="100%">
-  <tr>
-    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/416863fc-2ced-4f86-a67d-e609dd20c977" width="100%" alt="Screen 1 - Player Overview" /></td>
-    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/1dda61b5-91b0-4c27-ad77-5db84ca3f911" width="100%" alt="Screen 2 - Music Library" /></td>
-    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/18aad66f-7824-420b-8fa8-2aa79ad6da08" width="100%" alt="Screen 3 - Dynamic UI" /></td>
-</tr>
-</table>
-</details>
-<hr/>
-
-### ⏬ WhatsApp Status Saver App
-![Status](https://img.shields.io/badge/Private_Code-181717?style=for-the-badge&logo=github&logoColor=white) ![UI](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white) ![Async](https://img.shields.io/badge/Kotlin_Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-
-> Clean, local file storage architecture designed to pull, cache, and schedule media assets instantly.
-
-| Subsystem | Technical Execution Architecture |
-| :--- | :--- |
-| 🔄 **Reactive State** | Fluid UI adjustments driven completely via async Kotlin Coroutines lifecycle pipelines. |
-| 💎 **Material Design** | Beautiful glassmorphic themes natively processed using declarative "Jetpack Compose" elements. |
-| ⏰ **Automated Triggers** | Custom scheduling features processing notifications safely via system clock integrations. |
-| 🎨 **Asset Attribution** | Media action elements and download utility vectors optimized from [Uxwing](https://uxwing.com/). |
-
-<details>
-<summary><b>✨ View Interface Design (Click to Expand)</b></summary>
-<br/>
-<table width="100%">
-  <tr>
-    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/2c1cb761-2b79-4b0d-85a1-465801c1f159" width="100%" alt="Screen 1" /></td>
-    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/d37631cf-4d69-4c5a-a5de-1b8a6baf7478" width="100%" alt="Screen 2" /></td>
-    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/6cf18f41-6e88-4eb6-8267-b56708e4c5bb" width="100%" alt="Screen 1" /></td>
-  </tr>
-</table>
-</details>
-<hr/>
-
-### 📂 File Viewer App
-![Status](https://img.shields.io/badge/Private_Code-181717?style=for-the-badge&logo=github&logoColor=white) ![Security](https://img.shields.io/badge/Encrypted_Vault-607D8B?style=for-the-badge&logo=android&logoColor=white) ![Core](https://img.shields.io/badge/Multi_Threaded-FF5722?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-> Premium document manager processed using low-latency IO capabilities wrapped inside a neon-glassmorphism wrapper.
-
-| Subsystem | Technical Execution Architecture |
-| :--- | :--- |
-| 🛡️ **Secure Vault** | Isolated filesystem processing encrypted structures and hidden states behind local system decoders. |
-| 📄 **Multi-Format Engine** | Responsive native rendering pipelines managing complex extensions (PDF, JSON, XML, Office Docs). |
-| 📱 **UI Composition** | Completely immersive edge-to-edge layout design using robust Jetpack Compose lifecycle rules. |
-| 🎨 **Asset Attribution** | Multi-extension file types and secure directories graphics engineered via [Uxwing](https://uxwing.com/). |
-
-<details>
-<summary><b>✨ View Interface Design (Click to Expand)</b></summary>
-<br/>
-<table width="100%">
- <tr>
-    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/bd6996e3-4ae5-4e36-a3fe-7e66cebf2995" width="100%" alt="Screen 1 - File Explorer Overview" /></td>
-    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/29199c01-27a1-4b32-8a3a-4a70c5c477e2" width="100%" alt="Screen 2 - Document Rendering Engine" /></td>
-    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/660d8824-b15b-4539-a5a5-2e92aed48af5" width="100%" alt="Screen 3 - Immersive Layout" /></td>
-</tr>
-</table>
-</details>
-<hr/>
-
-### 📰 Akhbar News – Personalized News Platform
-![Status](https://img.shields.io/badge/Private_Code-181717?style=for-the-badge&logo=github&logoColor=white) ![UI](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white) ![DI](https://img.shields.io/badge/Dagger_Hilt-2C3E50?style=for-the-badge&logo=android&logoColor=white) ![Cloud](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-> High-performance news Platform engineered with modern clean architecture boundaries and custom web-scraping content extraction engines.
-
-| Subsystem | Technical Execution Architecture |
-| :--- | :--- |
-| 🏗️ **Clean Architecture** | Multi-layered decoupled system designed over MVVM, Dagger-Hilt dependency injection, and scalable repository patterns. |
-| 👓 **Dynamic Reader Mode** | Advanced web-scraping logic using "Jsoup Parsing Engines" to strip cluttered web layouts into distraction-free reading canvases. |
-| ☁️ **Cloud Synchronization** | Atomic data pipelines utilizing Firebase Firestore Transactions to manage user bookmarks, preferences, and dynamic follower counts. |
-| 🎨 **Material 3 Interface** | Premium visual layouts built completely with Jetpack Compose, featuring custom animated tab indicators and smooth image loading via Coil. |
-| 🎨 **Asset Attribution** | Core system actions, navigation nodes, and modern news channel vector elements curated via [Uxwing](https://uxwing.com/). |
-
-<details>
-<summary><b>✨ View Interface Design (Click to Expand)</b></summary>
-<br/>
-<table width="100%">
- <tr>
-    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/74f224a3-a489-448d-b09e-4b81dfd7165d" width="100%" alt="Screen 1 - News Feed" /></td>
-    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/594c09e5-85da-4be7-9123-f6752a248956" width="100%" alt="Screen 2 - Reader Mode" /></td>
-    <td width="33.3%" align="center"><img src="https://github.com/user-attachments/assets/2a776ad4-8b02-456d-b835-eeb711e7e214" width="100%" alt="Screen 3 - Configuration & Filters" /></td>
- </tr>
-</table>
-</details>
-
----
 
 ## 📈 Contribution Activity
 
@@ -231,26 +144,11 @@
 
 ---
 
-## 📋 Prerequisites
-* Android Studio Ladybug (or newer)
-* JDK 17+
-* Android SDK 26 (Android 8.0) or higher
-
----
-
 ## 🏋️ Hobbies & Mindset
-* Gym, building things
-* I prefer deep logical reasoning and structured problem-solving
-* I structure my code meticulously to achieve flawless performance
-* I ensure absolute accuracy and clean architecture in everything I ship
-
----
-
-## 💼 Recruiter Code Review Access
-If you are a technical recruiter, hiring manager, or software engineer wishing to conduct a comprehensive code review of any project's architecture (Hilt/Dagger DI modules, Clean Architecture boundaries, or custom networking interceptors), please feel free to request access:
-
-1. Contact me via [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharjeelkhan-dev) or [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sharjeelkhan454647@gmail.com).
-2. Provide your GitHub username, and I will temporarily add you as a **Viewer/Collaborator** to the specific private repository.
+* 🏋️‍♂️ Gym & continuous engineering.
+* I prefer deep logical reasoning and structured problem-solving.
+* I structure my code meticulously to achieve flawless performance.
+* I ensure absolute accuracy and clean architecture in everything I ship.
 
 ---
 
