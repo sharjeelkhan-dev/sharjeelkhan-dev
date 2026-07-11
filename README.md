@@ -92,9 +92,9 @@
   </tr>
   <!-- Row 2 -->
   <tr style="border: none;">
-    <!-- Attendance Analytics App -->
+    <!-- Smart Student Attendance Analytics App -->
     <td width="50%" valign="top" style="border: none; padding: 15px 15px 15px 0;">
-      <font size="4" color="#c9d1d9"><b>🎓 StudentAttendanceApp </b></font>
+      <font size="4" color="#c9d1d9"><b>🧑🏼‍🎓Smart Student Attendance Analytics App </b></font>
       <a href="https://github.com/sharjeelkhan111213-coder/StudentAttendanceApp" title="Open Repository" style="text-decoration: none;"><font size="4" color="#58a6ff"><b>↗</b></font></a>
       <p style="margin: 6px 0 12px 0; line-height: 1.5;"><font size="2" color="#8b949e">Academic tracking management engineered using native Biometric prompt access constraints and standalone Room cache streams.</font></p>
       <img src="https://img.shields.io/badge/Biometric_API-3DDC84?style=flat-square&logo=android&logoColor=black" height="20"/>
@@ -113,7 +113,7 @@
   <tr style="border: none;">
     <!-- WhatsApp Status Saver -->
     <td width="50%" valign="top" style="border: none; padding: 15px 15px 15px 0;">
-      <font size="4" color="#c9d1d9"><b>⏬ StatusSaverApp </b></font>
+      <font size="4" color="#c9d1d9"><b>⏬Whatsapp StatusSaverApp </b></font>
       <a href="https://github.com/sharjeelkhan111213-coder/whatsappstatussaver" title="Open Repository" style="text-decoration: none;"><font size="4" color="#58a6ff"><b>↗</b></font></a>
       <p style="margin: 6px 0 12px 0; line-height: 1.5;"><font size="2" color="#8b949e">Reactive media filesystem caching pipeline engineered to grab, stream, and structure background local storage status assets instantly.</font></p>
       <img src="https://img.shields.io/badge/Coroutines-7F52FF?style=flat-square&logo=kotlin&logoColor=white" height="20"/>
@@ -121,7 +121,7 @@
     </td>
     <!-- Akhbar News Platform -->
     <td width="50%" valign="top" style="border: none; padding: 15px 0 15px 15px;">
-      <font size="4" color="#c9d1d9"><b>📰 NewsApp </b></font>
+      <font size="4" color="#c9d1d9"><b>📰NewsApp </b></font>
       <a href="https://github.com/sharjeelkhan111213-coder/NewsApp" title="Open Repository" style="text-decoration: none;"><font size="4" color="#58a6ff"><b>↗</b></font></a>
       <p style="margin: 6px 0 12px 0; line-height: 1.5;"><font size="2" color="#8b949e">Personalized news platform built over strict MVVM boundaries using dynamic Jsoup scraping web core layout extraction models.</font></p>
       <img src="https://img.shields.io/badge/Jsoup_Scraper-2C3E50?style=flat-square" height="20"/>
