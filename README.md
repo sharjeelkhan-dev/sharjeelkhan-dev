@@ -66,7 +66,7 @@
 ---
 
 ## ⇛ Production Repositories (Touch to Explore)
-> 💡 *Sare projects ab **public** hain. Aap kisi bhi project name, description ya uske badge par touch/click karke uski complete codebase ko direct open kar sakte hain.*
+> 💡 *All projects are now public. Simply click on any project name, description, or badge to explore the full codebase.*
 
 <table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse: collapse; border: none;">
   <!-- Row 1 -->
