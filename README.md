@@ -74,7 +74,7 @@
     <!-- Smart Todo App -->
     <td width="50%" valign="top" style="border: none; padding: 15px 15px 15px 0;">
       <font size="4" color="#c9d1d9"><b>🧠 TodoApp </b></font>
-      <a href="https://github.com/sharjeelkhan111213-coder/TodoApp" title="Open Repository" style="text-decoration: none;"><font size="4" color="#58a6ff"><b>↗</b></font></a>
+      <a href="https://github.com/sharjeelkhan-dev/TodoApp" title="Open Repository" style="text-decoration: none;"><font size="4" color="#58a6ff"><b>↗</b></font></a>
       <p style="margin: 6px 0 12px 0; line-height: 1.5;"><font size="2" color="#8b949e">Intelligent task management featuring deep Generative AI commands, Smart Prioritization analytics, and Room durability structures.</font></p>
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" height="20"/>
       <img src="https://img.shields.io/badge/Gemini_3.5_Flash-4285F4?style=flat-square&logo=googlegemini&logoColor=white" height="20"/> 
@@ -83,7 +83,7 @@
     <!-- MusicStream App -->
     <td width="50%" valign="top" style="border: none; padding: 15px 0 15px 15px;">
       <font size="4" color="#c9d1d9"><b>🎧 MusicStreamApp </b></font>
-      <a href="https://github.com/sharjeelkhan111213-coder/MusicStreamApp" title="Open Repository" style="text-decoration: none;"><font size="4" color="#58a6ff"><b>↗</b></font></a>
+      <a href="https://github.com/sharjeelkhan-dev/MusicStreamApp" title="Open Repository" style="text-decoration: none;"><font size="4" color="#58a6ff"><b>↗</b></font></a>
       <p style="margin: 6px 0 12px 0; line-height: 1.5;"><font size="2" color="#8b949e">High-performance media streaming platform engineered over Media3 ExoPlayer pipelines with dynamic Palette UI layouts.</font></p>
       <img src="https://img.shields.io/badge/Media3-E64A19?style=flat-square&logo=youtube&logoColor=white" height="20"/>
       <img src="https://img.shields.io/badge/ExoPlayer-orange?style=flat-square" height="20"/>
@@ -95,7 +95,7 @@
     <!-- Smart Student Attendance Analytics App -->
     <td width="50%" valign="top" style="border: none; padding: 15px 15px 15px 0;">
       <font size="4" color="#c9d1d9"><b>🧑🏼‍🎓Smart Student Attendance Analytics App </b></font>
-      <a href="https://github.com/sharjeelkhan111213-coder/StudentAttendanceApp" title="Open Repository" style="text-decoration: none;"><font size="4" color="#58a6ff"><b>↗</b></font></a>
+      <a href="https://github.com/sharjeelkhan-dev/StudentAttendanceApp" title="Open Repository" style="text-decoration: none;"><font size="4" color="#58a6ff"><b>↗</b></font></a>
       <p style="margin: 6px 0 12px 0; line-height: 1.5;"><font size="2" color="#8b949e">Academic tracking management engineered using native Biometric prompt access constraints and standalone Room cache streams.</font></p>
       <img src="https://img.shields.io/badge/Biometric_API-3DDC84?style=flat-square&logo=android&logoColor=black" height="20"/>
       <img src="https://img.shields.io/badge/Gemini_3.5_Flash-4285F4?style=flat-square&logo=googlegemini&logoColor=white" height="20"/> 
@@ -104,7 +104,7 @@
     <!-- File Viewer App -->
     <td width="50%" valign="top" style="border: none; padding: 15px 0 15px 15px;">
       <font size="4" color="#c9d1d9"><b>📂 FileViewerApp </b></font>
-      <a href="https://github.com/sharjeelkhan111213-coder/FileViewerApp" title="Open Repository" style="text-decoration: none;"><font size="4" color="#58a6ff"><b>↗</b></font></a>
+      <a href="https://github.com/sharjeelkhan-dev/FileViewerApp" title="Open Repository" style="text-decoration: none;"><font size="4" color="#58a6ff"><b>↗</b></font></a>
       <p style="margin: 6px 0 12px 0; line-height: 1.5;"><font size="2" color="#8b949e">Premium multi-format document explorer featuring low-latency processing systems inside an encrypted biometric vault shield.</font></p>
       <img src="https://img.shields.io/badge/Secure_Vault-607D8B?style=flat-square&logo=android&logoColor=white" height="20"/>
       <img src="https://img.shields.io/badge/Glassmorphism-4285F4?style=flat-square" height="20"/>
@@ -115,7 +115,7 @@
     <!-- WhatsApp Status Saver -->
     <td width="50%" valign="top" style="border: none; padding: 15px 15px 15px 0;">
       <font size="4" color="#c9d1d9"><b>⏬Whatsapp StatusSaverApp </b></font>
-      <a href="https://github.com/sharjeelkhan111213-coder/whatsappstatussaver" title="Open Repository" style="text-decoration: none;"><font size="4" color="#58a6ff"><b>↗</b></font></a>
+      <a href="https://github.com/sharjeelkhan-dev/whatsappstatussaver" title="Open Repository" style="text-decoration: none;"><font size="4" color="#58a6ff"><b>↗</b></font></a>
       <p style="margin: 6px 0 12px 0; line-height: 1.5;"><font size="2" color="#8b949e">Reactive media filesystem caching pipeline engineered to grab, stream, and structure background local storage status assets instantly.</font></p>
       <img src="https://img.shields.io/badge/Coroutines-7F52FF?style=flat-square&logo=kotlin&logoColor=white" height="20"/>
       <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" height="20"/>
@@ -123,7 +123,7 @@
     <!-- Akhbar News Platform -->
     <td width="50%" valign="top" style="border: none; padding: 15px 0 15px 15px;">
       <font size="4" color="#c9d1d9"><b>📰NewsApp </b></font>
-      <a href="https://github.com/sharjeelkhan111213-coder/NewsApp" title="Open Repository" style="text-decoration: none;"><font size="4" color="#58a6ff"><b>↗</b></font></a>
+      <a href="https://github.com/sharjeelkhan-dev/NewsApp" title="Open Repository" style="text-decoration: none;"><font size="4" color="#58a6ff"><b>↗</b></font></a>
       <p style="margin: 6px 0 12px 0; line-height: 1.5;"><font size="2" color="#8b949e">Personalized news platform built over strict MVVM boundaries using dynamic Jsoup scraping web core layout extraction models.</font></p>
       <img src="https://img.shields.io/badge/Jsoup_Scraper-2C3E50?style=flat-square" height="20"/>
       <img src="https://img.shields.io/badge/Hilt_DI-0078D4?style=flat-square&logo=android&logoColor=white" height="20"/>
