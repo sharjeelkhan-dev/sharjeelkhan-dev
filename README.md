@@ -86,6 +86,7 @@
       <a href="https://github.com/sharjeelkhan111213-coder/MusicStreamApp" title="Open Repository" style="text-decoration: none;"><font size="4" color="#58a6ff"><b>↗</b></font></a>
       <p style="margin: 6px 0 12px 0; line-height: 1.5;"><font size="2" color="#8b949e">High-performance media streaming platform engineered over Media3 ExoPlayer pipelines with dynamic Palette UI layouts.</font></p>
       <img src="https://img.shields.io/badge/Media3-E64A19?style=flat-square&logo=youtube&logoColor=white" height="20"/>
+      <img src="https://img.shields.io/badge/Gemini_2.0-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" height="20"/>
       <img src="https://img.shields.io/badge/ExoPlayer-orange?style=flat-square" height="20"/>
       <img src="https://img.shields.io/badge/Network_Proxy-4CAF50?style=flat-square" height="20"/>
     </td>
