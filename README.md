@@ -99,6 +99,7 @@
       <font size="4" color="#c9d1d9"><b>📂Smart FileViewerApp (AI-Powered) </b></font> <a href="https://github.com/sharjeelkhan-dev/FileViewerApp"><b>↗</b></a>
       <p style="margin: 8px 0;"><font size="2" color="#8b949e">Engineered a premium file management system featuring low-latency processing pipelines and integrated Gemini 3.5-flash AI capabilities for intelligent document summarization and content insights.</font></p>
       <img src="https://img.shields.io/badge/Secure-607D8B?style=for-the-badge&logo=android&logoColor=white" height="25"/>
+      <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" height="25"/>
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="25"/>
     </td>
   </tr>
