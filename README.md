@@ -72,7 +72,7 @@
   <!-- Row 1 -->
   <tr>
     <td width="50%" valign="top" style="padding: 10px 15px 20px 0; border-bottom: 1px solid #30363d;">
-      <font size="4" color="#c9d1d9"><b>🧠Smart To-do-App </b></font> <a href="https://github.com/sharjeelkhan-dev/TodoApp"><b>↗</b></a>
+      <font size="4" color="#c9d1d9"><b>🧠Smart To-do-App (AI-Powered)</b></font> <a href="https://github.com/sharjeelkhan-dev/TodoApp"><b>↗</b></a>
       <p style="margin: 8px 0;"><font size="2" color="#8b949e">Intelligent task management featuring deep Generative AI commands and Room durability structures.</font></p>
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" height="25"/>
       <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" height="25"/>
@@ -89,15 +89,15 @@
   <!-- Row 2 -->
   <tr>
     <td width="50%" valign="top" style="padding: 20px 15px 20px 0; border-bottom: 1px solid #30363d;">
-      <font size="4" color="#c9d1d9"><b>🧑🏼‍🎓Smart Student Attendance & Analytic App </b></font> <a href="https://github.com/sharjeelkhan-dev/StudentAttendanceApp"><b>↗</b></a>
+      <font size="4" color="#c9d1d9"><b>🧑🏼‍🎓Smart Student Attendance & Analytic App (AI-Powered)</b></font> <a href="https://github.com/sharjeelkhan-dev/StudentAttendanceApp"><b>↗</b></a>
       <p style="margin: 8px 0;"><font size="2" color="#8b949e">Academic tracking management engineered using Biometric prompt access, Room cache streams, and Firebase-integrated Gemini 3.5-Flash AI logic for intelligent pattern analysis.</font></p>
       <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="25"/>
       <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" height="25"/>
       <img src="https://img.shields.io/badge/Room-003B57?style=for-the-badge&logo=sqlite&logoColor=white" height="25"/>
     </td>
     <td width="50%" valign="top" style="padding: 20px 0 20px 15px; border-bottom: 1px solid #30363d; border-left: 1px solid #30363d;">
-      <font size="4" color="#c9d1d9"><b>📂FileViewerApp </b></font> <a href="https://github.com/sharjeelkhan-dev/FileViewerApp"><b>↗</b></a>
-      <p style="margin: 8px 0;"><font size="2" color="#8b949e">Premium multi-format document explorer featuring low-latency processing systems.</font></p>
+      <font size="4" color="#c9d1d9"><b>📂Smart FileViewerApp (AI-Powered) </b></font> <a href="https://github.com/sharjeelkhan-dev/FileViewerApp"><b>↗</b></a>
+      <p style="margin: 8px 0;"><font size="2" color="#8b949e">Engineered a premium file management system featuring low-latency processing pipelines and integrated Gemini 3.5-flash AI capabilities for intelligent document summarization and content insights.</font></p>
       <img src="https://img.shields.io/badge/Secure-607D8B?style=for-the-badge&logo=android&logoColor=white" height="25"/>
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="25"/>
     </td>
