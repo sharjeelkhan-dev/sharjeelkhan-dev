@@ -89,7 +89,7 @@
   <!-- Row 2 -->
   <tr>
     <td width="50%" valign="top" style="padding: 20px 15px 20px 0; border-bottom: 1px solid #30363d;">
-      <font size="4" color="#c9d1d9"><b>🧑🏼‍🎓Smart Student Attendance & Analytic App (AI-Powered)</b></font> <a href="https://github.com/sharjeelkhan-dev/StudentAttendanceApp"><b>↗</b></a>
+      <font size="4" color="#c9d1d9"><b>🧑🏼‍🎓Smart Student Attendance App (AI-Powered)</b></font> <a href="https://github.com/sharjeelkhan-dev/StudentAttendanceApp"><b>↗</b></a>
       <p style="margin: 8px 0;"><font size="2" color="#8b949e">Academic tracking management engineered using Biometric prompt access, Room cache streams, and Firebase-integrated Gemini 3.5-Flash AI logic for intelligent pattern analysis.</font></p>
       <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="25"/>
       <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" height="25"/>
