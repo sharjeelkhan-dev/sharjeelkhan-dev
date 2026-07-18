@@ -117,6 +117,8 @@
       <p style="margin: 8px 0;"><font size="2" color="#8b949e">Personalized news platform built over strict MVVM boundaries using Jsoup scraping.</font></p>
       <img src="https://img.shields.io/badge/Jsoup-2C3E50?style=for-the-badge&logo=java&logoColor=white" height="25"/>
       <img src="https://img.shields.io/badge/Hilt-0078D4?style=for-the-badge&logo=android&logoColor=white" height="25"/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="25"/>
+
     </td>
   </tr>
 </table>
