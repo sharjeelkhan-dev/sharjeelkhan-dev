@@ -109,8 +109,9 @@
       <font size="4" color="#c9d1d9"><b>⏬Whatsapp StatusSaverApp (AI-Powered) </b></font> <a href="https://github.com/sharjeelkhan-dev/whatsappstatussaver"><b>↗</b></a>
       <p style="margin: 8px 0;"><font size="2" color="#8b949e">Reactive media filesystem caching pipeline engineered to grab background status assets.</font></p>
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" height="25"/>
-      <img src="https://img.shields.io/badge/Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"   height="25"/>
+      <img src="https://img.shields.io/badge/Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"  height="25"/>
       <img src="https://img.shields.io/badge/Kotlin_Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" height=25"/>
+      <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" height=25"/>
     </td>
     <td width="50%" valign="top" style="padding: 20px 0 10px 15px; border-left: 1px solid #30363d;">
       <font size="4" color="#c9d1d9"><b>📰Akhbar NewsApp </b></font> <a href="https://github.com/sharjeelkhan-dev/NewsApp"><b>↗</b></a>
