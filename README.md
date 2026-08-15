@@ -73,7 +73,7 @@
   <tr>
     <td width="50%" valign="top" style="padding: 10px 15px 20px 0; border-bottom: 1px solid #30363d;">
       <font size="4" color="#c9d1d9"><b>🧠Smart To-do-App (AI-Powered)</b></font> <a href="https://github.com/sharjeelkhan-dev/TodoApp"><b>↗</b></a>
-      <p style="margin: 8px 0;"><font size="2" color="#8b949e">Intelligent task management featuring deep Generative Gemini 3.5-flash AI commands and Room durability structures.</font></p>
+      <p style="margin: 8px 0;"><font size="2" color="#8b949e">Intelligent task management featuring deep Generative Gemini AI commands and Room durability structures.</font></p>
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" height="25"/>
       <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" height="25"/>
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" height="25"/>
@@ -91,14 +91,14 @@
   <tr>
     <td width="50%" valign="top" style="padding: 20px 15px 20px 0; border-bottom: 1px solid #30363d;">
       <font size="4" color="#c9d1d9"><b>🧑🏼‍🎓Student Attendance App (AI-Powered)</b></font> <a href="https://github.com/sharjeelkhan-dev/StudentAttendanceApp"><b>↗</b></a>
-      <p style="margin: 8px 0;"><font size="2" color="#8b949e">Academic tracking management engineered using Biometric prompt access, Room cache streams, and Firebase-integrated Gemini 3.5-Flash AI logic for intelligent pattern analysis.</font></p>
+      <p style="margin: 8px 0;"><font size="2" color="#8b949e">Academic tracking management engineered using Biometric prompt access, Room cache streams, and Firebase-integrated Gemini AI logic for intelligent pattern analysis.</font></p>
       <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="25"/>
       <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" height="25"/>
       <img src="https://img.shields.io/badge/Room-003B57?style=for-the-badge&logo=sqlite&logoColor=white" height="25"/>
     </td>
     <td width="50%" valign="top" style="padding: 20px 0 20px 15px; border-bottom: 1px solid #30363d; border-left: 1px solid #30363d;">
       <font size="4" color="#c9d1d9"><b>📂FileViewerApp (AI-Powered) </b></font> <a href="https://github.com/sharjeelkhan-dev/FileViewerApp"><b>↗</b></a>
-      <p style="margin: 8px 0;"><font size="2" color="#8b949e">Engineered a premium file management system featuring low-latency processing pipelines and integrated Gemini 3.5-flash AI capabilities for intelligent document summarization and content insights.</font></p>
+      <p style="margin: 8px 0;"><font size="2" color="#8b949e">Engineered a premium file management system featuring low-latency processing pipelines and integrated Gemini AI capabilities for intelligent document summarization and content insights.</font></p>
       <img src="https://img.shields.io/badge/Secure-607D8B?style=for-the-badge&logo=android&logoColor=white" height="25"/>
       <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" height="25"/>
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="25"/>
@@ -108,7 +108,7 @@
   <tr>
     <td width="50%" valign="top" style="padding: 20px 15px 10px 0;">
       <font size="4" color="#c9d1d9"><b>⏬Whatsapp StatusSaverApp (AI-Powered) </b></font> <a href="https://github.com/sharjeelkhan-dev/whatsappstatussaver"><b>↗</b></a>
-      <p style="margin: 8px 0;"><font size="2" color="#8b949e">Integrated Google Gemini using the Firebase AI Logic SDK to transform a traditional status saver into a multimodal AI-powered assistant.</font></p>
+      <p style="margin: 8px 0;"><font size="2" color="#8b949e">Integrated Google Gemini using the Firebase AI Logic SDK to transform a traditional status saver into a multimodal Gemini AI-powered assistant.</font></p>
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" height="25"/>
       <img src="https://img.shields.io/badge/Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"  height="25"/>
       <img src="https://img.shields.io/badge/Kotlin_Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" height=25"/>
