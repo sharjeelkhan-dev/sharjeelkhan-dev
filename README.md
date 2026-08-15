@@ -82,6 +82,7 @@
       <font size="4" color="#c9d1d9"><b>🎧MusicStreamApp (AI-Powered) </b></font> <a href="https://github.com/sharjeelkhan-dev/MusicStreamApp"><b>↗</b></a>
       <p style="margin: 8px 0;"><font size="2" color="#8b949e">High-performance media streaming platform engineered over Media3 ExoPlayer pipelines.</font></p>
       <img src="https://img.shields.io/badge/Media3-E64A19?style=for-the-badge&logo=youtube&logoColor=white" height="25"/>
+       <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" height="25"/>
       <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="25"/>
       <img src="https://img.shields.io/badge/ExoPlayer-9C27B0?style=for-the-badge&logo=google&logoColor=white" height="25"/>
     </td>
