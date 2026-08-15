@@ -80,7 +80,7 @@
     </td>
     <td width="50%" valign="top" style="padding: 10px 0 20px 15px; border-bottom: 1px solid #30363d; border-left: 1px solid #30363d;">
       <font size="4" color="#c9d1d9"><b>🎧MusicStreamApp (AI-Powered) </b></font> <a href="https://github.com/sharjeelkhan-dev/MusicStreamApp"><b>↗</b></a>
-      <p style="margin: 8px 0;"><font size="2" color="#8b949e">High-performance media streaming platform engineered over Media3 ExoPlayer pipelines.</font></p>
+      <p style="margin: 8px 0;"><font size="2" color="#8b949e">Implemented Gemini AI-driven song summarization and lyrics explanation features, providing users with deeper artistic context directly within the playback interface.</font></p>
       <img src="https://img.shields.io/badge/Media3-E64A19?style=for-the-badge&logo=youtube&logoColor=white" height="25"/>
        <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" height="25"/>
       <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="25"/>
