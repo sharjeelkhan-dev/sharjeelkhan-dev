@@ -108,7 +108,7 @@
   <tr>
     <td width="50%" valign="top" style="padding: 20px 15px 10px 0;">
       <font size="4" color="#c9d1d9"><b>⏬Whatsapp StatusSaverApp (AI-Powered) </b></font> <a href="https://github.com/sharjeelkhan-dev/whatsappstatussaver"><b>↗</b></a>
-      <p style="margin: 8px 0;"><font size="2" color="#8b949e">Reactive media filesystem caching pipeline engineered to grab background status assets.</font></p>
+      <p style="margin: 8px 0;"><font size="2" color="#8b949e">Natural language & semantic search ("show funny videos"), AI face & object detection, scene analysis, and multi-language OCR text extraction using Gemini Intelligence.</font></p>
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" height="25"/>
       <img src="https://img.shields.io/badge/Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"  height="25"/>
       <img src="https://img.shields.io/badge/Kotlin_Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" height=25"/>
