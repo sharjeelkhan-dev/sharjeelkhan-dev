@@ -115,7 +115,7 @@
       <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" height=25"/>
     </td>
     <td width="50%" valign="top" style="padding: 20px 0 10px 15px; border-left: 1px solid #30363d;">
-      <font size="4" color="#c9d1d9"><b>📰Akhbar NewsApp </b></font> <a href="https://github.com/sharjeelkhan-dev/NewsApp"><b>↗</b></a>
+      <font size="4" color="#c9d1d9"><b>📰Akhbar NewsApp (AI-Powered) </b></font> <a href="https://github.com/sharjeelkhan-dev/NewsApp"><b>↗</b></a>
       <p style="margin: 8px 0;"><font size="2" color="#8b949e">Personalized news platform built over strict MVVM boundaries using Jsoup scraping.</font></p>
       <img src="https://img.shields.io/badge/Jsoup-2C3E50?style=for-the-badge&logo=java&logoColor=white" height="25"/>
       <img src="https://img.shields.io/badge/Hilt-0078D4?style=for-the-badge&logo=android&logoColor=white" height="25"/>
