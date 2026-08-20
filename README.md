@@ -126,7 +126,7 @@
   <!-- Row 4 -->
   <tr>
     <td width="50%" valign="top" style="padding: 20px 15px 10px 0;">
-      <font size="4" color="#c9d1d9"><b>🔒WTMP - Who Touched My Phone (AI-Powered) </b></font> <a href="https://github.com/sharjeelkhan-dev/WTMPApp"><b>↗</b></a>
+      <font size="4" color="#c9d1d9"><b>🔒WTMP - Who Touched My Phone (AI-Powered) </b></font> <a href="https://github.com/sharjeelkhan-dev/WTMP"><b>↗</b></a>
       <p style="margin: 8px 0;"><font size="2" color="#8b949e">Advanced device security app capturing unauthorized unlock attempts with background camera services, foreground detection, and Gemini AI-based threat analysis.</font></p>
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" height="25"/>
       <img src="https://img.shields.io/badge/CameraX-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="25"/>
@@ -144,7 +144,7 @@
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sharjeelkhan-dev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=00D4FF&point=FFFFFF&area=true&area_color=6C63FF" alt="Activity Graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sharjeelkhan-dev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=00D4FF&point=FFFFFF&area=true&area_color=6C63FF" alt="Activity Graph" />
 </div>
 
 ---
