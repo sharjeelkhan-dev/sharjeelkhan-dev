@@ -106,21 +106,35 @@
   </tr>
   <!-- Row 3 -->
   <tr>
-    <td width="50%" valign="top" style="padding: 20px 15px 10px 0;">
+    <td width="50%" valign="top" style="padding: 20px 15px 20px 0; border-bottom: 1px solid #30363d;">
       <font size="4" color="#c9d1d9"><b>⏬Whatsapp StatusSaverApp (AI-Powered) </b></font> <a href="https://github.com/sharjeelkhan-dev/whatsappstatussaver"><b>↗</b></a>
       <p style="margin: 8px 0;"><font size="2" color="#8b949e">Integrated Google Gemini using the Firebase AI Logic SDK to transform a traditional status saver into a multimodal Gemini AI-powered assistant.</font></p>
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" height="25"/>
-      <img src="https://img.shields.io/badge/Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"  height="25"/>
-      <img src="https://img.shields.io/badge/Kotlin_Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" height=25"/>
-      <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" height=25"/>
+      <img src="https://img.shields.io/badge/Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" height="25"/>
+      <img src="https://img.shields.io/badge/Kotlin_Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" height="25"/>
+      <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" height="25"/>
     </td>
-    <td width="50%" valign="top" style="padding: 20px 0 10px 15px; border-left: 1px solid #30363d;">
+    <td width="50%" valign="top" style="padding: 20px 0 20px 15px; border-bottom: 1px solid #30363d; border-left: 1px solid #30363d;">
       <font size="4" color="#c9d1d9"><b>📰Akhbar NewsApp (AI-Powered) </b></font> <a href="https://github.com/sharjeelkhan-dev/NewsApp"><b>↗</b></a>
       <p style="margin: 8px 0;"><font size="2" color="#8b949e">Developed a modern news application using Kotlin and Jetpack Compose, integrating Firebase AI Logic with Gemini for advanced content processing.</font></p>
       <img src="https://img.shields.io/badge/Jsoup-2C3E50?style=for-the-badge&logo=java&logoColor=white" height="25"/>
       <img src="https://img.shields.io/badge/Hilt-0078D4?style=for-the-badge&logo=android&logoColor=white" height="25"/>
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" height="25"/>
-      <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" height=25"/>
+      <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" height="25"/>
+    </td>
+  </tr>
+  <!-- Row 4 -->
+  <tr>
+    <td width="50%" valign="top" style="padding: 20px 15px 10px 0;">
+      <font size="4" color="#c9d1d9"><b>🔒WTMP - Who Touched My Phone (AI-Powered) </b></font> <a href="https://github.com/sharjeelkhan-dev/WTMPApp"><b>↗</b></a>
+      <p style="margin: 8px 0;"><font size="2" color="#8b949e">Advanced device security app capturing unauthorized unlock attempts with background camera services, foreground detection, and Gemini AI-based threat analysis.</font></p>
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" height="25"/>
+      <img src="https://img.shields.io/badge/CameraX-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="25"/>
+      <img src="https://img.shields.io/badge/Room-003B57?style=for-the-badge&logo=sqlite&logoColor=white" height="25"/>
+      <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" height="25"/>
+    </td>
+    <td width="50%" valign="top" style="padding: 20px 0 10px 15px; border-left: 1px solid #30363d;">
+      <!-- Future Project Placeholder -->
     </td>
   </tr>
 </table>
