@@ -144,7 +144,7 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=sharjeelkhan-dev&theme=tokyo-night&hide_border=true&ring=6C63FF&fire=00D4FF" alt="Sharjeel's Streak Graph" />
+  <img width="100%" src="https://streak-stats.demolab.com/?user=sharjeelkhan-dev&theme=tokyo-night&hide_border=true&ring=6C63FF&fire=00D4FF" alt="Sharjeel's Streak Graph" />
 </p>
 
 ---
